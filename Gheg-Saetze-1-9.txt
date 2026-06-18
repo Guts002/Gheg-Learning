@@ -1,0 +1,1062 @@
+═══ GHEG (KOSOVO-ALBANISCH) LERNSÄTZE ═══
+  1012 Sätze in 9 Schwierigkeitsstufen
+  Format: L# | ### | Gheg (Kosovo) | Deutsch
+  Dialekt: Kosovo-Gheg (Shqip gegë / kosovar)
+
+══════════════════════════════════════════════════
+LEVEL 1 — EINSTEIGER — Einzelwörter, Grüße, 2–3-Wort-Sätze
+112 Sätze
+══════════════════════════════════════════════════
+
+L1 | 001 | Tung! | Hallo!
+L1 | 002 | Mirëdita! | Guten Tag!
+L1 | 003 | Tung mbrëma! | Guten Abend!
+L1 | 004 | Naten e mirë! | Gute Nacht!
+L1 | 005 | Shëndet! | Tschüss! / Gesundheit!
+L1 | 006 | Hajt! | Tschüss! / Los!
+L1 | 007 | Mirupafshim! | Auf Wiedersehen!
+L1 | 008 | Po. | Ja.
+L1 | 009 | Jo. | Nein.
+L1 | 010 | Mirë. | Gut.
+L1 | 011 | Keq. | Schlecht.
+L1 | 012 | Faleminderit! | Danke!
+L1 | 013 | Të lutem! | Bitte!
+L1 | 014 | Më fal! | Entschuldigung!
+L1 | 015 | S'ka problem. | Kein Problem.
+L1 | 016 | Un jam Gjon. | Ich bin Gjon.
+L1 | 017 | Un jam Ana. | Ich bin Ana.
+L1 | 018 | Ti je miku. | Du bist der Freund.
+L1 | 019 | Ai asht mjek. | Er ist Arzt.
+L1 | 020 | Ajo asht mësuesë. | Sie ist Lehrerin.
+L1 | 021 | Qysh je? | Wie geht's?
+L1 | 022 | Jam mirë. | Mir geht's gut.
+L1 | 023 | Qysh po quhesh? | Wie heißt du?
+L1 | 024 | Prej kah je? | Woher bist du?
+L1 | 025 | Jam prej Kosove. | Ich bin aus dem Kosovo.
+L1 | 026 | Kah je? | Wo bist du?
+L1 | 027 | Jam qitu. | Ich bin hier.
+L1 | 028 | Kush asht ai? | Wer ist er?
+L1 | 029 | Kush asht ajo? | Wer ist sie?
+L1 | 030 | Çka asht kjo? | Was ist das?
+L1 | 031 | Kjo asht nana. | Das ist Mama.
+L1 | 032 | Ky asht babi. | Das ist Papa.
+L1 | 033 | Çka asht ai? | Was ist das?
+L1 | 034 | A je mirë? | Geht's dir gut?
+L1 | 035 | Po, jam mirë. | Ja, mir geht's gut.
+L1 | 036 | Sa vjet je? | Wie alt bist du?
+L1 | 037 | Jam pesë vjet. | Ich bin fünf Jahre alt.
+L1 | 038 | A po don ujë? | Willst du Wasser?
+L1 | 039 | Po, dua. | Ja, ich will.
+L1 | 040 | Jo, s'dua. | Nein, ich will nicht.
+L1 | 041 | Un kam nji vlla. | Ich habe einen Bruder.
+L1 | 042 | Un kam nji motër. | Ich habe eine Schwester.
+L1 | 043 | Ajo ka nji macë. | Sie hat eine Katze.
+L1 | 044 | Ai ka nji qen. | Er hat einen Hund.
+L1 | 045 | Nana asht këtu. | Mama ist hier.
+L1 | 046 | Babi asht atje. | Papa ist dort.
+L1 | 047 | Un kam uri. | Ich habe Hunger.
+L1 | 048 | Un kam etje. | Ich habe Durst.
+L1 | 049 | Kjo asht shpi. | Das ist ein Haus.
+L1 | 050 | Kjo asht bukë. | Das ist Brot.
+L1 | 051 | Ky asht djathë. | Das ist Käse.
+L1 | 052 | Kjo asht kafe. | Das ist Kaffee.
+L1 | 053 | Ky asht çaj. | Das ist Tee.
+L1 | 054 | Ky asht ujë. | Das ist Wasser.
+L1 | 055 | Kjo asht qumësht. | Das ist Milch.
+L1 | 056 | Ajo asht e bukur. | Sie ist schön.
+L1 | 057 | Ai asht i mirë. | Er ist gut.
+L1 | 058 | Ajo asht e vogël. | Sie ist klein.
+L1 | 059 | Ai asht i madh. | Er ist groß.
+L1 | 060 | Un jam i lumtun. | Ich bin glücklich.
+L1 | 061 | Ti je i lodhun. | Du bist müde.
+L1 | 062 | Ajo asht e gëzueme. | Sie ist fröhlich.
+L1 | 063 | Nji. | Eins.
+L1 | 064 | Dy. | Zwei.
+L1 | 065 | Tre. | Drei.
+L1 | 066 | Katër. | Vier.
+L1 | 067 | Pesë. | Fünf.
+L1 | 068 | Gjashtë. | Sechs.
+L1 | 069 | Shtatë. | Sieben.
+L1 | 070 | Tetë. | Acht.
+L1 | 071 | Nëntë. | Neun.
+L1 | 072 | Dhjetë. | Zehn.
+L1 | 073 | Kjo asht libër. | Das ist ein Buch.
+L1 | 074 | Ky asht laps. | Das ist ein Bleistift.
+L1 | 075 | Kjo asht tryezë. | Das ist ein Tisch.
+L1 | 076 | Ky asht shtrat. | Das ist ein Bett.
+L1 | 077 | Kjo asht derë. | Das ist eine Tür.
+L1 | 078 | Kjo asht dritare. | Das ist ein Fenster.
+L1 | 079 | Çka asht kjo? — Kjo asht mollë. | Was ist das? — Das ist ein Apfel.
+L1 | 080 | Çka asht ai? — Ai asht mish. | Was ist das? — Das ist Fleisch.
+L1 | 081 | Kush je ti? — Un jam shoku. | Wer bist du? — Ich bin der Freund.
+L1 | 082 | A je gati? | Bist du bereit?
+L1 | 083 | Po, jam gati. | Ja, ich bin bereit.
+L1 | 084 | A ki etje? | Hast du Durst?
+L1 | 085 | Po, kam etje. | Ja, ich habe Durst.
+L1 | 086 | A don kafe? | Willst du Kaffee?
+L1 | 087 | Jo, dua çaj. | Nein, ich will Tee.
+L1 | 088 | Sot asht dit e mirë. | Heute ist ein guter Tag.
+L1 | 089 | Tash asht vonë. | Jetzt ist es spät.
+L1 | 090 | A asht larg? | Ist es weit?
+L1 | 091 | Jo, asht afër. | Nein, es ist nah.
+L1 | 092 | Kjo asht lule. | Das ist eine Blume.
+L1 | 093 | Un dua me pa. | Ich will sehen.
+L1 | 094 | A don me hangër? | Willst du essen?
+L1 | 095 | Po, dua me hangër. | Ja, ich will essen.
+L1 | 096 | A don me pi? | Willst du trinken?
+L1 | 097 | Po, dua me pi ujë. | Ja, ich will Wasser trinken.
+L1 | 098 | Kjo asht shkollë. | Das ist eine Schule.
+L1 | 099 | Ai asht puntor. | Er ist Arbeiter.
+L1 | 100 | Kjo asht çikë e vogël. | Das ist ein kleines Mädchen.
+L1 | 101 | Ky asht djalë i vogël. | Das ist ein kleiner Junge.
+L1 | 102 | Un kam nji shok. | Ich habe einen Freund.
+L1 | 103 | Ajo ka nji shoqe. | Sie hat eine Freundin.
+L1 | 104 | Ai asht i ri. | Er ist jung.
+L1 | 105 | Ajo asht e re. | Sie ist jung.
+L1 | 106 | Gëzuar! | Prost! / Herzlichen Glückwunsch!
+L1 | 107 | Të bëftë mirë! | Guten Appetit!
+L1 | 108 | Kjo asht pjatë. | Das ist ein Teller.
+L1 | 109 | Ky asht pirun. | Das ist eine Gabel.
+L1 | 110 | Kjo asht lugë. | Das ist ein Löffel.
+L1 | 111 | Kjo asht gotë. | Das ist ein Glas.
+L1 | 112 | Un jam në shpi. | Ich bin zu Hause.
+══════════════════════════════════════════════════
+LEVEL 2 — ANFÄNGER — Familie, Essen, Alltag, einfache Verben
+111 Sätze
+══════════════════════════════════════════════════
+
+L2 | 001 | Nana ka nji djalë e nji çikë. | Mama hat einen Sohn und eine Tochter.
+L2 | 002 | Babi punon në zyrë. | Papa arbeitet im Büro.
+L2 | 003 | Un kam nji vlla e nji motër. | Ich habe einen Bruder und eine Schwester.
+L2 | 004 | Vllaznit janë në shpi. | Die Brüder sind zu Hause.
+L2 | 005 | Motrat janë në shkollë. | Die Schwestern sind in der Schule.
+L2 | 006 | Gjyshi asht në kopsht. | Opa ist im Garten.
+L2 | 007 | Gjyshja asht në kuzhinë. | Oma ist in der Küche.
+L2 | 008 | Dajë jeton në Prishtinë. | Der Onkel (mütterlich) wohnt in Prishtina.
+L2 | 009 | Halla asht prej Gjilani. | Die Tante (väterlich) ist aus Gjilan.
+L2 | 010 | Xhaja ka nji veturë të re. | Der Onkel (väterlich) hat ein neues Auto.
+L2 | 011 | Un ha bukë me djathë. | Ich esse Brot mit Käse.
+L2 | 012 | Ti pi qumësht në mëngjes. | Du trinkst Milch am Morgen.
+L2 | 013 | Ai ha mish me patate. | Er isst Fleisch mit Kartoffeln.
+L2 | 014 | Ajo pi çaj me mjaltë. | Sie trinkt Tee mit Honig.
+L2 | 015 | Un dua me hangër supë. | Ich will Suppe essen.
+L2 | 016 | Ti dua me pi lëng portokalli. | Du willst Orangensaft trinken.
+L2 | 017 | Na hamë drekë në mesditë. | Wir essen Mittagessen am Mittag.
+L2 | 018 | Ju hani darkë në mbrëmje. | Ihr esst Abendessen am Abend.
+L2 | 019 | Ata hanë bukë në tryezë. | Sie essen Brot am Tisch.
+L2 | 020 | Un shkoj në punë çdo ditë. | Ich gehe jeden Tag zur Arbeit.
+L2 | 021 | Ti shkon në shkollë në mëngjes. | Du gehst am Morgen zur Schule.
+L2 | 022 | Ajo shkon në pazar me nanën. | Sie geht mit Mama zum Markt.
+L2 | 023 | Na shkojmë në xhami. | Wir gehen in die Moschee.
+L2 | 024 | Un flas shqip me shokë. | Ich spreche Albanisch mit Freunden.
+L2 | 025 | Ti flet gjermanisht me mua. | Du sprichst Deutsch mit mir.
+L2 | 026 | Ai flet anglisht në shkollë. | Er spricht Englisch in der Schule.
+L2 | 027 | Nana gatuan ushqim të shijshëm. | Mama kocht leckeres Essen.
+L2 | 028 | Babi blen bukë në furrë. | Papa kauft Brot in der Bäckerei.
+L2 | 029 | Un laj enët pas darke. | Ich spüle das Geschirr nach dem Abendessen.
+L2 | 030 | Ti lan duart para se me hangër. | Du wäschst die Hände vor dem Essen.
+L2 | 031 | Ajo hekuros rrobat. | Sie bügelt die Kleidung.
+L2 | 032 | Un pi kafe në mëngjes. | Ich trinke Kaffee am Morgen.
+L2 | 033 | Ti pi ujë prej shishes. | Du trinkst Wasser aus der Flasche.
+L2 | 034 | Fëmijët luajnë në oborr. | Die Kinder spielen im Hof.
+L2 | 035 | Qeni fle në shtrat. | Der Hund schläft im Bett.
+L2 | 036 | Macja ha peshk në kuzhinë. | Die Katze isst Fisch in der Küche.
+L2 | 037 | Un kam nji libër të ri. | Ich habe ein neues Buch.
+L2 | 038 | Ti ke nji laps të kuq. | Du hast einen roten Bleistift.
+L2 | 039 | Ajo ka nji fustan të bukur. | Sie hat ein schönes Kleid.
+L2 | 040 | Na kemi nji shpi të madhe. | Wir haben ein großes Haus.
+L2 | 041 | Ata kanë nji veturë të shpejtë. | Sie haben ein schnelles Auto.
+L2 | 042 | Kjo dhomë asht e vogël. | Dieses Zimmer ist klein.
+L2 | 043 | Ai kopsht asht i bukur. | Dieser Garten ist schön.
+L2 | 044 | Un dua me shkue në det. | Ich will ans Meer gehen.
+L2 | 045 | Ti dua me ardhë me mua. | Du willst mit mir kommen.
+L2 | 046 | Ajo dua me fjet tash. | Sie will jetzt schlafen.
+L2 | 047 | Un lahem në banjë. | Ich wasche mich im Badezimmer.
+L2 | 048 | Ti lahesh në mëngjes. | Du wäschst dich am Morgen.
+L2 | 049 | Ai vishet në dhomë gjumi. | Er zieht sich im Schlafzimmer an.
+L2 | 050 | Ajo kreh flokët para pasqyrës. | Sie kämmt die Haare vor dem Spiegel.
+L2 | 051 | Un bëj kafe për babin. | Ich mache Kaffee für Papa.
+L2 | 052 | Ti bën shtratin në mëngjes. | Du machst das Bett am Morgen.
+L2 | 053 | Ne pastrojmë shpinë. | Wir putzen das Haus.
+L2 | 054 | Un ha mëngjes në orën shtatë. | Ich frühstücke um sieben Uhr.
+L2 | 055 | Ai ha drekë në punë. | Er isst Mittagessen bei der Arbeit.
+L2 | 056 | Ajo ha darkë me familjen. | Sie isst Abendessen mit der Familie.
+L2 | 057 | Djalë luan futboll në fushë. | Der Junge spielt Fußball auf dem Feld.
+L2 | 058 | Çika lexon nji libër. | Das Mädchen liest ein Buch.
+L2 | 059 | Un shof televizor në mbrëmje. | Ich sehe fern am Abend.
+L2 | 060 | Ti dëgjon muzikë në radio. | Du hörst Musik im Radio.
+L2 | 061 | Un dua me mësue gjuhë shqipe. | Ich will Albanisch lernen.
+L2 | 062 | Ai shkruan me stilograf. | Er schreibt mit einem Kugelschreiber.
+L2 | 063 | Ajo vizaton nji lule. | Sie zeichnet eine Blume.
+L2 | 064 | Molla asht e kuqe. | Der Apfel ist rot.
+L2 | 065 | Qumështi asht i bardhë. | Die Milch ist weiß.
+L2 | 066 | Kafeja asht e zezë. | Der Kaffee ist schwarz.
+L2 | 067 | Qielli asht blu. | Der Himmel ist blau.
+L2 | 068 | Bari asht gjelbër. | Das Gras ist grün.
+L2 | 069 | Nata asht e errët. | Die Nacht ist dunkel.
+L2 | 070 | Dita asht e ndritshme. | Der Tag ist hell.
+L2 | 071 | Ushqimi asht i nxehtë. | Das Essen ist heiß.
+L2 | 072 | Uji asht i ftohtë. | Das Wasser ist kalt.
+L2 | 073 | Un kam nji shok të mirë. | Ich habe einen guten Freund.
+L2 | 074 | Ajo ka nji mike të dashun. | Sie hat eine liebe Freundin.
+L2 | 075 | Mësuesi asht i sjellshëm. | Der Lehrer ist freundlich.
+L2 | 076 | Kjo detyrë asht e lehtë. | Diese Aufgabe ist leicht.
+L2 | 077 | Ky test asht i rândë. | Dieser Test ist schwer.
+L2 | 078 | Un kam nji dhomë të pastër. | Ich habe ein sauberes Zimmer.
+L2 | 079 | Ti ke nji çantë të zezë. | Du hast eine schwarze Tasche.
+L2 | 080 | Nana ka nji unazë të artë. | Mama hat einen goldenen Ring.
+L2 | 081 | Un dua me dalë jashtë. | Ich will nach draußen gehen.
+L2 | 082 | Ai shkon në punë me veturë. | Er fährt mit dem Auto zur Arbeit.
+L2 | 083 | Ajo shkon në shkollë me autobus. | Sie fährt mit dem Bus zur Schule.
+L2 | 084 | Un kam frikë prej errësirës. | Ich habe Angst vor der Dunkelheit.
+L2 | 085 | Ai asht i sëmunë sot. | Er ist heute krank.
+L2 | 086 | Ajo ka dhimbje koke. | Sie hat Kopfschmerzen.
+L2 | 087 | Un shkoj te mjeku. | Ich gehe zum Arzt.
+L2 | 088 | Farmácia asht pranë shpisë. | Die Apotheke ist neben dem Haus.
+L2 | 089 | Janë shtatë ditë në javë. | Es gibt sieben Tage in der Woche.
+L2 | 090 | Nji javë ka shtatë ditë. | Eine Woche hat sieben Tage.
+L2 | 091 | Un punoj pesë ditë në javë. | Ich arbeite fünf Tage in der Woche.
+L2 | 092 | Djemtë luajnë në park. | Die Jungs spielen im Park.
+L2 | 093 | Çikat këndojnë në klasë. | Die Mädchen singen in der Klasse.
+L2 | 094 | Un shpesh lexoj para gjumit. | Ich lese oft vor dem Schlafen.
+L2 | 095 | Ti ndonjëherë shkon në kinema. | Du gehst manchmal ins Kino.
+L2 | 096 | Ajo rrallë pi kafe. | Sie trinkt selten Kaffee.
+L2 | 097 | Un dua me të pa sonte. | Ich will dich heute Abend sehen.
+L2 | 098 | Hajde me mua në park! | Komm mit mir in den Park!
+L2 | 099 | Rri qitu, të lutem! | Bleib hier, bitte!
+L2 | 100 | Ulu në karrige! | Setz dich auf den Stuhl!
+L2 | 101 | Un fjet në orën dhjetë. | Ich schlafe um zehn Uhr.
+L2 | 102 | Ti zgjohesh në orën gjashtë. | Du wachst um sechs Uhr auf.
+L2 | 103 | Ai çohet herët në mëngjes. | Er steht früh am Morgen auf.
+L2 | 104 | Ajo pushon pasdreke. | Sie ruht sich am Nachmittag aus.
+L2 | 105 | Un dua me pi nji gotë ujë. | Ich will ein Glas Wasser trinken.
+L2 | 106 | Ai ka nji filxhan kafe. | Er hat eine Tasse Kaffee.
+L2 | 107 | Un ha nji mollë në ditë. | Ich esse einen Apfel am Tag.
+L2 | 108 | Na bëjmë pazar të shtunën. | Wir machen samstags Einkäufe.
+L2 | 109 | Djemtë janë në shkollë. | Die Jungen sind in der Schule.
+L2 | 110 | Çikat janë në shpi. | Die Mädchen sind zu Hause.
+L2 | 111 | Kjo asht shtëpi e bukur. | Das ist ein schönes Haus.
+══════════════════════════════════════════════════
+LEVEL 3 — FORTGESCHRITTENE ANFÄNGER — Kombinierte Sätze (dhe/por/ose), Farben, Tage
+111 Sätze
+══════════════════════════════════════════════════
+
+L3 | 001 | Sot asht e hënë, por nesër asht e martë. | Heute ist Montag, aber morgen ist Dienstag.
+L3 | 002 | Ajo ka nji këmishë blu e nji pantallona zeza. | Sie hat ein blaues Hemd und schwarze Hosen.
+L3 | 003 | Un jam i lodhun, por s'du me fjet. | Ich bin müde, aber ich will nicht schlafen.
+L3 | 004 | A don kafe ose çaj? | Willst du Kaffee oder Tee?
+L3 | 005 | Sot bën ftohtë, por nesër bën vapë. | Heute ist es kalt, aber morgen ist es heiß.
+L3 | 006 | Un kam nji këmishë të bardhë e nji xhaketë të zezë. | Ich habe ein weißes Hemd und eine schwarze Jacke.
+L3 | 007 | Ajo vesh nji fustan të kuq e nji këpucë të zeza. | Sie trägt ein rotes Kleid und schwarze Schuhe.
+L3 | 008 | Ai ka nji pantallona xhins e nji fanellë blu. | Er hat eine Jeans und ein blaues T-Shirt.
+L3 | 009 | Sot asht e mërkurë, por dje ishte e martë. | Heute ist Mittwoch, aber gestern war Dienstag.
+L3 | 010 | Un dua me shkue në punë, por jam sëmunë. | Ich will zur Arbeit gehen, aber ich bin krank.
+L3 | 011 | A do me ardhë sot ose nesër? | Willst du heute oder morgen kommen?
+L3 | 012 | Kjo asht ora një, por ajo asht ora dy. | Das ist ein Uhr, aber das ist zwei Uhr.
+L3 | 013 | Un kam nji shpi të madhe, por ajo asht e vjetër. | Ich habe ein großes Haus, aber es ist alt.
+L3 | 014 | Ajo s'ka motër, por ka nji vlla. | Sie hat keine Schwester, aber einen Bruder.
+L3 | 015 | Ti s'je i lodhun, por je i sëmunë. | Du bist nicht müde, aber krank.
+L3 | 016 | Un s'du me pi kafe, por dua çaj. | Ich will keinen Kaffee, aber Tee.
+L3 | 017 | S'asht larg, por asht afër. | Es ist nicht weit, sondern nah.
+L3 | 018 | Asht ora tre e gjysmë. | Es ist halb vier.
+L3 | 019 | Asht ora katër e pesë. | Es ist fünf nach vier.
+L3 | 020 | Asht ora pesë e dhjetë. | Es ist zehn nach fünf.
+L3 | 021 | Asht ora tetë pa njizet. | Es ist zwanzig vor acht.
+L3 | 022 | Në mëngjes un ha bukë e pi qumësht. | Morgens esse ich Brot und trinke Milch.
+L3 | 023 | Ai vesh këmishë të bardhë e kravatë të zezë. | Er trägt ein weißes Hemd und eine schwarze Krawatte.
+L3 | 024 | Ajo ka syze dielli e nji kapelë të bardhë. | Sie hat eine Sonnenbrille und einen weißen Hut.
+L3 | 025 | Un kam këpucë të zeza e çorape të bardha. | Ich habe schwarze Schuhe und weiße Socken.
+L3 | 026 | Sot asht e enjte, por dje ishte e mërkurë. | Heute ist Donnerstag, aber gestern war Mittwoch.
+L3 | 027 | Nesër asht e premte, e un gëzohem. | Morgen ist Freitag, und ich freue mich.
+L3 | 028 | Të shtunën na shkojmë në pazar. | Samstags gehen wir auf den Markt.
+L3 | 029 | Të dielën familja asht bashkë. | Sonntags ist die Familie zusammen.
+L3 | 030 | Un punoj prej e hëne deri të premten. | Ich arbeite von Montag bis Freitag.
+L3 | 031 | Sot asht e shtunë, por un punoj. | Heute ist Samstag, aber ich arbeite.
+L3 | 032 | Ose vin tash, ose vin më vonë. | Entweder komm jetzt, oder komm später.
+L3 | 033 | Kjo asht blu, por ajo asht gjelbër. | Das ist blau, aber das ist grün.
+L3 | 034 | Un dua nji këmishë të verdhë, jo të zezë. | Ich will ein gelbes Hemd, nicht ein schwarzes.
+L3 | 035 | Ajo s'ka kohë sot, por nesër po. | Sie hat heute keine Zeit, aber morgen schon.
+L3 | 036 | S'asht vapë sot, por bën ftohtë. | Es ist nicht heiß heute, sondern kalt.
+L3 | 037 | Këmisha jote asht e kuqe e shumë e bukur. | Dein Hemd ist rot und sehr schön.
+L3 | 038 | Babi asht në punë, e nana asht në shpi. | Papa ist bei der Arbeit, und Mama ist zu Hause.
+L3 | 039 | Un s'kam para, por kam kohë. | Ich habe kein Geld, aber Zeit.
+L3 | 040 | Ai s'flet shqip, por flet gjermanisht. | Er spricht kein Albanisch, aber Deutsch.
+L3 | 041 | Kjo asht verë e kuqe ose verë e bardhë? | Ist das Rotwein oder Weißwein?
+L3 | 042 | Un dua me ble pantallona ose nji fund. | Ich will eine Hose oder einen Rock kaufen.
+L3 | 043 | Ajo asht në dhomë të ndejës, por un jam në kuzhinë. | Sie ist im Wohnzimmer, aber ich bin in der Küche.
+L3 | 044 | Un shkoj në shkollë me biçikletë ose në këmbë. | Ich fahre mit dem Fahrrad zur Schule oder gehe zu Fuß.
+L3 | 045 | Shpija jote asht e madhe, por shpija ime asht e vogël. | Dein Haus ist groß, aber mein Haus ist klein.
+L3 | 046 | Sot bën shi, por nesër bën diell. | Heute regnet es, aber morgen scheint die Sonne.
+L3 | 047 | Un pi kafe në mëngjes e çaj në mbrëmje. | Ich trinke Kaffee am Morgen und Tee am Abend.
+L3 | 048 | Ajo s'ha mish, por ha perime. | Sie isst kein Fleisch, sondern Gemüse.
+L3 | 049 | Në verë bën vapë, e në dimër bën ftohtë. | Im Sommer ist es heiß, und im Winter ist es kalt.
+L3 | 050 | Në pranverë lulëzojnë lulet, e në vjeshtë bien gjethet. | Im Frühling blühen die Blumen, und im Herbst fallen die Blätter.
+L3 | 051 | Un dua me shkue në det ose në mal. | Ich will ans Meer oder in die Berge fahren.
+L3 | 052 | Ajo ka nji rrip të kaftë e nji çantë të zezë. | Sie hat einen braunen Gürtel und eine schwarze Tasche.
+L3 | 053 | Ai vesh nji kostum të zi e nji këmishë të bardhë. | Er trägt einen schwarzen Anzug und ein weißes Hemd.
+L3 | 054 | Un dua me ble nji televizor të ri, por s'kam para. | Ich will einen neuen Fernseher kaufen, aber ich habe kein Geld.
+L3 | 055 | Kjo librari asht pranë shkollës, por ajo asht larg. | Diese Buchhandlung ist neben der Schule, aber jene ist weit weg.
+L3 | 056 | Tash asht ora gjashtë, por un jam vonë. | Jetzt ist es sechs Uhr, aber ich bin spät dran.
+L3 | 057 | A don veturë të kuqe ose të zezë? | Willst du ein rotes oder schwarzes Auto?
+L3 | 058 | Un jam prej Kosove, por ti je prej Gjermanie. | Ich bin aus dem Kosovo, aber du bist aus Deutschland.
+L3 | 059 | Ajo s'asht e martueme, por asht e fejueme. | Sie ist nicht verheiratet, sondern verlobt.
+L3 | 060 | Kjo dhomë ka nji shtrat e nji dollap. | Dieses Zimmer hat ein Bett und einen Schrank.
+L3 | 061 | Un s'kam motër, por kam dy vllazën. | Ich habe keine Schwester, sondern zwei Brüder.
+L3 | 062 | Ky asht libër im, e ai asht libër yt. | Das ist mein Buch, und das ist dein Buch.
+L3 | 063 | Babi pi kafe në mëngjes, e nana pi çaj. | Papa trinkt Kaffee am Morgen, und Mama trinkt Tee.
+L3 | 064 | Fëmijët janë në shkollë, e prindët janë në punë. | Die Kinder sind in der Schule, und die Eltern sind bei der Arbeit.
+L3 | 065 | Un dua me hangër mish ose peshk. | Ich will Fleisch oder Fisch essen.
+L3 | 066 | Kjo s'asht e vërtetë, por asht gënjeshtër. | Das ist nicht wahr, sondern eine Lüge.
+L3 | 067 | Ai flet shqip dhe gjermanisht shumë mirë. | Er spricht Albanisch und Deutsch sehr gut.
+L3 | 068 | Ajo asht e gjatë dhe e bukur. | Sie ist groß und schön.
+L3 | 069 | Un jam i shkurtë dhe i fortë. | Ich bin klein und stark.
+L3 | 070 | Sot asht e martë, e pasnesër asht e enjte. | Heute ist Dienstag, und übermorgen ist Donnerstag.
+L3 | 071 | Në fundjavë un pushoj ose shkoj në mal. | Am Wochenende ruhe ich mich aus oder fahre in die Berge.
+L3 | 072 | Kjo asht pallto jote, por kjo asht xhaketa ime. | Das ist dein Mantel, aber das ist meine Jacke.
+L3 | 073 | A don me hangër bukë ose oriz? | Willst du Brot oder Reis essen?
+L3 | 074 | Un s'du me shkue në punë sot, por duhet. | Ich will heute nicht zur Arbeit gehen, aber ich muss.
+L3 | 075 | Ajo ka nji shall të kuq e nji dorashka të zeza. | Sie hat einen roten Schal und schwarze Handschuhe.
+L3 | 076 | Un kam nji telefon të ri, por s'punon mirë. | Ich habe ein neues Telefon, aber es funktioniert nicht gut.
+L3 | 077 | Kjo s'asht kafe, por asht çaj. | Das ist kein Kaffee, sondern Tee.
+L3 | 078 | Dyqani asht në të majtë, e shkolla në të djathtë. | Der Laden ist links, und die Schule ist rechts.
+L3 | 079 | Ai s'asht në shpi, por asht në punë. | Er ist nicht zu Hause, sondern bei der Arbeit.
+L3 | 080 | A don me ardhë në ora pesë ose në ora gjashtë? | Willst du um fünf oder um sechs kommen?
+L3 | 081 | Un s'kam shumë para, por kam nji shpi të mirë. | Ich habe nicht viel Geld, aber ein gutes Haus.
+L3 | 082 | Vera asht e nxehtë, e dimri asht i ftohtë. | Der Sommer ist heiß, und der Winter ist kalt.
+L3 | 083 | Dje ishte e diel, e sot asht e hënë. | Gestern war Sonntag, und heute ist Montag.
+L3 | 084 | Un dua me ble nji makinë të re, por s'mun. | Ich will ein neues Auto kaufen, aber ich kann nicht.
+L3 | 085 | Në Prishtinë ka shumë njerëz e shumë vetura. | In Prishtina gibt es viele Menschen und viele Autos.
+L3 | 086 | Këmishën e ke të pistë, por pantallonat janë të pastra. | Dein Hemd ist schmutzig, aber die Hose ist sauber.
+L3 | 087 | Un ha shpesh mish, por ti ha perime. | Ich esse oft Fleisch, aber du isst Gemüse.
+L3 | 088 | Ajo asht e lumtun, se sot asht dita e saj. | Sie ist glücklich, denn heute ist ihr Tag.
+L3 | 089 | Babi asht i gjatë e i fortë. | Papa ist groß und stark.
+L3 | 090 | Nana asht e shkurtë e e ëmbël. | Mama ist klein und süß.
+L3 | 091 | Un dua me shkue në xhami ose në kishë. | Ich will in die Moschee oder in die Kirche gehen.
+L3 | 092 | Kjo asht ora nëntë e gjysmë e mëngjesit. | Das ist halb zehn Uhr morgens.
+L3 | 093 | Un çohem në ora pesë, por ti çohesh në ora shtatë. | Ich stehe um fünf Uhr auf, aber du stehst um sieben Uhr auf.
+L3 | 094 | Ajo shkon në palestër të martën e të enjten. | Sie geht dienstags und donnerstags ins Fitnessstudio.
+L3 | 095 | Un shkoj në xhami të premten. | Ich gehe freitags in die Moschee.
+L3 | 096 | Këpucët e tua janë të zeza, por të mijat janë të kafta. | Deine Schuhe sind schwarz, aber meine sind braun.
+L3 | 097 | Sot bën shumë ftohtë, por un s'kam xhaketë. | Heute ist es sehr kalt, aber ich habe keine Jacke.
+L3 | 098 | Un s'du me dalë sot, se jam i lodhun. | Ich will heute nicht ausgehen, denn ich bin müde.
+L3 | 099 | Gjyshja gatuan byrek ose bakllavë. | Oma kocht Börek oder Baklava.
+L3 | 100 | A don me hangër petulla ose fli? | Willst du Pfannkuchen oder Flia essen?
+L3 | 101 | Un s'di me folë shqip shumë mirë, por po mësoj. | Ich kann nicht sehr gut Albanisch, aber ich lerne.
+L3 | 102 | Ajo s'ka fëmijë, por ka nji qen e nji macë. | Sie hat keine Kinder, aber einen Hund und eine Katze.
+L3 | 103 | Djalë luan futbol, e çikë luan me kukulla. | Der Junge spielt Fußball, und das Mädchen spielt mit Puppen.
+L3 | 104 | Në shpi kemi nji kuzhinë të madhe e nji banjë të vogël. | Zu Hause haben wir eine große Küche und ein kleines Badezimmer.
+L3 | 105 | Un pi ujë, e ti pi lëng. | Ich trinke Wasser, und du trinkst Saft.
+L3 | 106 | Kjo rrugë asht e ngushtë, por ajo asht e gjerë. | Diese Straße ist eng, aber jene ist breit.
+L3 | 107 | Kjo pantallona asht e shkurtë ose e gjatë? | Diese Hose ist kurz oder lang?
+L3 | 108 | Ajo s'vjen sot, por vjen nesër. | Sie kommt nicht heute, sondern morgen.
+L3 | 109 | Un kam nji dhëmbë e më dhemb. | Ich habe einen Zahn, und er tut weh.
+L3 | 110 | Un shkoj te dentisti të martën ose të mërkurën. | Ich gehe dienstags oder mittwochs zum Zahnarzt.
+L3 | 111 | Tash asht ora dhjetë e natës, e un fjet. | Jetzt ist zehn Uhr nachts, und ich schlafe.
+══════════════════════════════════════════════════
+LEVEL 4 — MITTELSTUFE I — Vergangenheit, Zukunft, Arbeit, Bildung
+112 Sätze
+══════════════════════════════════════════════════
+
+L4 | 001 | Dje kam shkue n'shkollë. | Gestern bin ich zur Schule gegangen.
+L4 | 002 | Nesër do të shof mjekun. | Morgen werde ich den Arzt sehen.
+L4 | 003 | Sot kam ba detyrat e shpisë. | Heute habe ich die Hausaufgaben gemacht.
+L4 | 004 | Pastaj kemi shkue n'treg me blejtë bukë. | Danach sind wir zum Markt gegangen, um Brot zu kaufen.
+L4 | 005 | Dje kam punu gjithë ditën n'zyrë. | Gestern habe ich den ganzen Tag im Büro gearbeitet.
+L4 | 006 | Tash do të shkoj n'palester me ushtrue. | Jetzt werde ich ins Fitnessstudio gehen, um zu trainieren.
+L4 | 007 | Nana ka gatu fli për mëngjes. | Mama hat Flia zum Frühstück gekocht.
+L4 | 008 | Nesër do të kem provimin e matematikës. | Morgen werde ich die Matheprüfung haben.
+L4 | 009 | Dje mësuesi ka shpjegue mësimin e ri. | Gestern hat der Lehrer die neue Lektion erklärt.
+L4 | 010 | Kam punu si kuzhinier për tri vjet. | Ich habe drei Jahre lang als Koch gearbeitet.
+L4 | 011 | A je nisë tash për n'punë? | Bist du jetzt zur Arbeit aufgebrochen?
+L4 | 012 | Motra ka mbarue shkollën e mesme. | Meine Schwester hat die Mittelschule abgeschlossen.
+L4 | 013 | Dje kam pa një film shumë të mirë. | Gestern habe ich einen sehr guten Film gesehen.
+L4 | 014 | Nesër do të filloj punën e re. | Morgen werde ich die neue Arbeit beginnen.
+L4 | 015 | Babi ka punu si mësues për njëzet vjet. | Papa hat zwanzig Jahre als Lehrer gearbeitet.
+L4 | 016 | Tash po shkoj n'bibliotekë me studjue. | Jetzt gehe ich in die Bibliothek, um zu studieren.
+L4 | 017 | Dje nxënësit kanë ba nje provim të vështirë. | Gestern haben die Schüler eine schwierige Prüfung gemacht.
+L4 | 018 | Sot kam ardhë herët n'punë. | Heute bin ich früh zur Arbeit gekommen.
+L4 | 019 | Nesër do të takoj shefin n'zyrë. | Morgen werde ich den Chef im Büro treffen.
+L4 | 020 | Kam shkue n'universitet për tri vjet. | Ich bin drei Jahre zur Universität gegangen.
+L4 | 021 | Dje kemi ba nji projekt të madh n'shkollë. | Gestern haben wir ein großes Projekt in der Schule gemacht.
+L4 | 022 | A ke pa mjekun dje? | Hast du gestern den Arzt gesehen?
+L4 | 023 | Pastaj do të ha darkë me familje. | Danach werde ich Abendessen mit der Familie essen.
+L4 | 024 | Vllai ka fillue punën si inxhinier. | Mein Bruder hat die Arbeit als Ingenieur begonnen.
+L4 | 025 | Dje kam mësue shumë fjalë të reja shqip. | Gestern habe ich viele neue albanische Wörter gelernt.
+L4 | 026 | Sot kemi provimin e historisë. | Heute haben wir die Geschichtsprüfung.
+L4 | 027 | Nesër do të vizitoj gjyshin n'fshat. | Morgen werde ich den Großvater im Dorf besuchen.
+L4 | 028 | Dje kam shkru nje letër të gjatë. | Gestern habe ich einen langen Brief geschrieben.
+L4 | 029 | Tash punoj si programues n'nji kompani. | Jetzt arbeite ich als Programmierer in einer Firma.
+L4 | 030 | Kam mbarue fakultetin e ekonomisë. | Ich habe die wirtschaftliche Fakultät abgeschlossen.
+L4 | 031 | Dje babi ka blerë nji veturë të re. | Gestern hat Papa ein neues Auto gekauft.
+L4 | 032 | Nesër do të kem nji takim të rëndësishëm. | Morgen werde ich eine wichtige Besprechung haben.
+L4 | 033 | Sot kam mësue gjuhën gjermane n'shkollë. | Heute habe ich Deutsch in der Schule gelernt.
+L4 | 034 | A ke punu ndonjëherë si kamarier? | Hast du jemals als Kellner gearbeitet?
+L4 | 035 | Dje kemi shkue n'kinema me pa nji film. | Gestern sind wir ins Kino gegangen, um einen Film zu sehen.
+L4 | 036 | Pastaj kam shkue n'shtepi me pushue. | Danach bin ich nach Hause gegangen, um mich auszuruhen.
+L4 | 037 | Nesër do të shkoj n'Prishtinë me punë. | Morgen werde ich nach Pristina zur Arbeit fahren.
+L4 | 038 | Dje studentët kanë ba nji prezentim. | Gestern haben die Studenten eine Präsentation gemacht.
+L4 | 039 | Tash po mësoj për provimin e biologjisë. | Jetzt lerne ich für die Biologieprüfung.
+L4 | 040 | Kam shkue n'shkollë fillore n'Prishtinë. | Ich bin in Pristina zur Grundschule gegangen.
+L4 | 041 | Dje kam hangër drekë me shokët. | Gestern habe ich Mittagessen mit Freunden gegessen.
+L4 | 042 | Nesër vllai do të nis punën e re. | Morgen wird mein Bruder die neue Arbeit beginnen.
+L4 | 043 | Sot profesorët kanë korrigjue provimet. | Heute haben die Professoren die Prüfungen korrigiert.
+L4 | 044 | A ki mësue shqip n'shkollë? | Hast du Albanisch in der Schule gelernt?
+L4 | 045 | Dje kam lajmëru shefin për projektin. | Gestern habe ich den Chef über das Projekt informiert.
+L4 | 046 | Pastaj do të shkruaj nji report për punë. | Danach werde ich einen Bericht für die Arbeit schreiben.
+L4 | 047 | Kam punu si shitës për gjashtë muaj. | Ich habe sechs Monate als Verkäufer gearbeitet.
+L4 | 048 | Dje motra ka fillue kursin e gjermanishtes. | Gestern hat meine Schwester den Deutschkurs begonnen.
+L4 | 049 | Nesër do të kem nji ligjëratë n'universitet. | Morgen werde ich eine Vorlesung an der Universität haben.
+L4 | 050 | Tash po përgatis detyrat e shtepisë. | Jetzt bereite ich die Hausaufgaben vor.
+L4 | 051 | Dje kemi ba nji ushtrim në klasë. | Gestern haben wir eine Übung in der Klasse gemacht.
+L4 | 052 | A ke shkue n'shkollë sot? | Bist du heute zur Schule gegangen?
+L4 | 053 | Nesër do të takoj mjekun n'ambulantë. | Morgen werde ich den Arzt in der Praxis treffen.
+L4 | 054 | Sot kam marrë nji notë të mirë n'provim. | Heute habe ich eine gute Note in der Prüfung bekommen.
+L4 | 055 | Dje kam shkue n'pazar me blejtë perime. | Gestern bin ich zum Markt gegangen, um Gemüse zu kaufen.
+L4 | 056 | Pastaj do të shkoj n'palester me stërvitë. | Danach werde ich ins Fitnessstudio gehen, um zu trainieren.
+L4 | 057 | Kam punu si sekretar për dy vjet. | Ich habe zwei Jahre als Sekretär gearbeitet.
+L4 | 058 | Dje nxënësit kanë mësue për historinë. | Gestern haben die Schüler über Geschichte gelernt.
+L4 | 059 | Nesër do të filloj kursin e fizikës. | Morgen werde ich den Physikkurs beginnen.
+L4 | 060 | Vllai im ka studjue n'Gjermani. | Mein Bruder hat in Deutschland studiert.
+L4 | 061 | Dje kemi shkue n'ekskursion me shkollën. | Gestern sind wir mit der Schule auf Exkursion gegangen.
+L4 | 062 | Tash jam tu punu n'nji projekt të ri. | Jetzt arbeite ich an einem neuen Projekt.
+L4 | 063 | A ke ba detyrat e shtepisë dje? | Hast du gestern die Hausaufgaben gemacht?
+L4 | 064 | Nesër do të vizitoj fakultetin e ri. | Morgen werde ich die neue Fakultät besuchen.
+L4 | 065 | Dje kam marrë nji diplomë n'arsim. | Gestern habe ich ein Diplom in Bildung bekommen.
+L4 | 066 | Sot po punoj si avokat n'nji firmë. | Heute arbeite ich als Anwalt in einer Firma.
+L4 | 067 | Pastaj kam shkue n'shtepi me ba darkë. | Danach bin ich nach Hause gegangen, um Abendessen zu machen.
+L4 | 068 | Dje mësuesi ka dhânë nji detyrë të re. | Gestern hat der Lehrer eine neue Aufgabe gegeben.
+L4 | 069 | Nesër do të kem nji takim me klientët. | Morgen werde ich ein Treffen mit den Kunden haben.
+L4 | 070 | Kam shkue n'shkollë të mesme n'Prishtinë. | Ich bin in Pristina zur Mittelschule gegangen.
+L4 | 071 | Dje kam lexue nji libër shumë të bukur. | Gestern habe ich ein sehr schönes Buch gelesen.
+L4 | 072 | Tash po përgatem për provimin e kimisë. | Jetzt bereite ich mich auf die Chemieprüfung vor.
+L4 | 073 | A ke punu si mësues ndonjëherë? | Hast du jemals als Lehrer gearbeitet?
+L4 | 074 | Dje motra ka mbarue gjimnazin. | Gestern hat meine Schwester das Gymnasium abgeschlossen.
+L4 | 075 | Nesër do të shkoj n'zyrë herët n'mëngjes. | Morgen werde ich früh am Morgen ins Büro gehen.
+L4 | 076 | Sot kam nënshkru kontratën e re. | Heute habe ich den neuen Vertrag unterschrieben.
+L4 | 077 | Pastaj do të shkoj n'bibliotekë me lexue. | Danach werde ich in die Bibliothek gehen, um zu lesen.
+L4 | 078 | Dje kam pi kafe me kolegët n'punë. | Gestern habe ich Kaffee mit den Kollegen bei der Arbeit getrunken.
+L4 | 079 | Kam studjue gjuhë të huaja n'universitet. | Ich habe Fremdsprachen an der Universität studiert.
+L4 | 080 | A ki shkue n'shkollë fillore n'fshat? | Bist du im Dorf zur Grundschule gegangen?
+L4 | 081 | Nesër do të kem nji seminar të rëndësishëm. | Morgen werde ich ein wichtiges Seminar haben.
+L4 | 082 | Dje kam ba nji vizitë te mjeku. | Gestern habe ich einen Besuch beim Arzt gemacht.
+L4 | 083 | Tash po mësoj për provimin e gjeografisë. | Jetzt lerne ich für die Geografieprüfung.
+L4 | 084 | Vllai ka punu si zdrukthëtar për pesë vjet. | Mein Bruder hat fünf Jahre als Tischler gearbeitet.
+L4 | 085 | Dje kemi shkue n'treg me blejtë fruta. | Gestern sind wir zum Markt gegangen, um Obst zu kaufen.
+L4 | 086 | Sot kam marrë nji notë të lartë n'provim. | Heute habe ich eine hohe Note in der Prüfung bekommen.
+L4 | 087 | Nesër do të nis punën n'fabrikë. | Morgen werde ich die Arbeit in der Fabrik beginnen.
+L4 | 088 | Pastaj kam shkue n'gjimnaz për katër vjet. | Danach bin ich vier Jahre aufs Gymnasium gegangen.
+L4 | 089 | Dje babi ka punu gjithë natën. | Gestern hat Papa die ganze Nacht gearbeitet.
+L4 | 090 | A ki mbarue shkollën e mesme? | Hast du die Mittelschule abgeschlossen?
+L4 | 091 | Tash po kërkoj nji punë të re. | Jetzt suche ich einen neuen Job.
+L4 | 092 | Dje kam shkue në kurs të gjermanishtes. | Gestern bin ich zum Deutschkurs gegangen.
+L4 | 093 | Nesër do të kem nji provim të vështirë. | Morgen werde ich eine schwierige Prüfung haben.
+L4 | 094 | Kam punu si elektricist për shtatë vjet. | Ich habe sieben Jahre als Elektriker gearbeitet.
+L4 | 095 | Dje kemi ba nji ushtrim të gjatë n'shkollë. | Gestern haben wir eine lange Übung in der Schule gemacht.
+L4 | 096 | Sot jam tu përgatit për ligjëratën. | Heute bereite ich mich auf die Vorlesung vor.
+L4 | 097 | Nesër do të shkoj n'universitet me studjue. | Morgen werde ich zur Universität gehen, um zu studieren.
+L4 | 098 | Dje kam fjet vonë për shkak të provimit. | Gestern habe ich wegen der Prüfung spät geschlafen.
+L4 | 099 | Pastaj do të vij n'shtepi me pushue. | Danach werde ich nach Hause kommen, um mich auszuruhen.
+L4 | 100 | A ke punu si kuzhinier n'ndonjë restorant? | Hast du in einem Restaurant als Koch gearbeitet?
+L4 | 101 | Dje motra ka studjue gjithë ditën. | Gestern hat meine Schwester den ganzen Tag gelernt.
+L4 | 102 | Nesër do të kem nji test të gjuhës shqipe. | Morgen werde ich einen Test in albanischer Sprache haben.
+L4 | 103 | Tash jam tu punu n'nji projekt shkollor. | Jetzt arbeite ich an einem Schulprojekt.
+L4 | 104 | Dje kam marrë nji certifikatë për gjermanisht. | Gestern habe ich ein Zertifikat für Deutsch bekommen.
+L4 | 105 | Kam shkue n'kolegj për dy vjet. | Ich bin zwei Jahre aufs College gegangen.
+L4 | 106 | Sot profesorët kanë shpallë rezultatet. | Heute haben die Professoren die Ergebnisse bekanntgegeben.
+L4 | 107 | Nesër do të filloj stazhin n'nji kompani. | Morgen werde ich ein Praktikum in einer Firma beginnen.
+L4 | 108 | Dje kam përgatit nji raport për shefin. | Gestern habe ich einen Bericht für den Chef vorbereitet.
+L4 | 109 | A ki shkue n'shkollë të mesme n'Prishtinë? | Bist du in Pristina zur Mittelschule gegangen?
+L4 | 110 | Tash po shkruaj nji artikull për gazetën. | Jetzt schreibe ich einen Artikel für die Zeitung.
+L4 | 111 | Pastaj do të vij n'shkollë me marrë librat. | Danach werde ich in die Schule kommen, um die Bücher zu holen.
+L4 | 112 | Dje kam shkue n'ambulantë me kontrollue shëndetin. | Gestern bin ich zur Praxis gegangen, um die Gesundheit zu checken.
+══════════════════════════════════════════════════
+LEVEL 5 — MITTELSTUFE II — Gefühle, gesteigerte Adjektive, Wetter, Natur
+112 Sätze
+══════════════════════════════════════════════════
+
+L5 | 001 | Jam tu u gëzu shumë, sepse sot asht mot i bukur. | Ich freue mich sehr, weil heute schönes Wetter ist.
+L5 | 002 | Qeni asht i madh, ndërsa macja asht e vogël. | Der Hund ist groß, während die Katze klein ist.
+L5 | 003 | Kjo pemë asht më e lartë se ajo. | Dieser Baum ist höher als jener.
+L5 | 004 | Jam i trishtuem, sepse moti asht i keq. | Ich bin traurig, weil das Wetter schlecht ist.
+L5 | 005 | Dielli shkëlqen fort sot, ndërsa dje ka pasë shi. | Die Sonne scheint heute sehr, während es gestern geregnet hat.
+L5 | 006 | Dhelpra asht më e shpejtë se lepuri. | Der Fuchs ist schneller als der Hase.
+L5 | 007 | Kam besim se do të kaloj provimin. | Ich habe Vertrauen, dass ich die Prüfung bestehen werde.
+L5 | 008 | Kjo lule asht më e bukur se ajo. | Diese Blume ist schöner als jene.
+L5 | 009 | Ai asht shumë i gëzuem, sepse ka fitue në garë. | Er ist sehr fröhlich, weil er im Wettkampf gewonnen hat.
+L5 | 010 | Era fryn fort sot, ndërsa dje ka pasë qetësi. | Der Wind weht heute stark, während es gestern ruhig war.
+L5 | 011 | Shqiponja asht më e madhe se harabeli. | Der Adler ist größer als der Spatz.
+L5 | 012 | Jam i lodhun, sepse kam punu gjithë ditën. | Ich bin müde, weil ich den ganzen Tag gearbeitet habe.
+L5 | 013 | Mali asht më i lartë se bregu. | Der Berg ist höher als der Hügel.
+L5 | 014 | A je i kënaqun me provimin? | Bist du zufrieden mit der Prüfung?
+L5 | 015 | Lopa asht e madhe, ndërsa viçi asht i vogël. | Die Kuh ist groß, während das Kalb klein ist.
+L5 | 016 | Sot bën më ngrohtë se dje. | Heute ist es wärmer als gestern.
+L5 | 017 | Jam i shqetësuem, sepse s'kam lajme prej vllait. | Ich bin besorgt, weil ich keine Nachrichten von meinem Bruder habe.
+L5 | 018 | A e dashnon natyrën? — Po, shumë. | Liebst du die Natur? — Ja, sehr.
+L5 | 019 | Ujku asht më i rrezikshëm se dhelpra. | Der Wolf ist gefährlicher als der Fuchs.
+L5 | 020 | Jam shumë i lumtun, sepse sot asht ditëlindja ime. | Ich bin sehr glücklich, weil heute mein Geburtstag ist.
+L5 | 021 | Ajo asht më e re se motra e saj. | Sie ist jünger als ihre Schwester.
+L5 | 022 | Kam dashuni të madhe për familjen time. | Ich habe große Liebe für meine Familie.
+L5 | 023 | Qeni asht më besnik se macja. | Der Hund ist treuer als die Katze.
+L5 | 024 | Sot po bjen shi, ndërsa nesër do të ketë diell. | Heute regnet es, während es morgen sonnig sein wird.
+L5 | 025 | Jam i frikësuem, sepse ka stuhi jashtë. | Ich habe Angst, weil draußen ein Sturm ist.
+L5 | 026 | Kali asht më i shpejtë se gomari. | Das Pferd ist schneller als der Esel.
+L5 | 027 | Kjo shtëpi asht më e madhe se ajo. | Dieses Haus ist größer als jenes.
+L5 | 028 | Moti sot asht më i mirë se dje. | Das Wetter heute ist besser als gestern.
+L5 | 029 | Kam shpresë se do të shërohem shpejt. | Ich habe Hoffnung, dass ich schnell gesund werde.
+L5 | 030 | Gjeli këndon n'mëngjes, ndërsa bufi fle ditën. | Der Hahn singt am Morgen, während die Eule tagsüber schläft.
+L5 | 031 | A je i zemëruem me mua? | Bist du wütend auf mich?
+L5 | 032 | Lumi asht më i gjatë se përroi. | Der Fluss ist länger als der Bach.
+L5 | 033 | Jam krenar për djalin tim, sepse ka kalu provimin. | Ich bin stolz auf meinen Sohn, weil er die Prüfung bestanden hat.
+L5 | 034 | Pylli asht më i errët se livadhi. | Der Wald ist dunkler als die Wiese.
+L5 | 035 | Sot ndihem më mirë se dje. | Heute fühle ich mich besser als gestern.
+L5 | 036 | A ke pa ariun n'pyll? — Jo, s'e kam pa. | Hast du den Bären im Wald gesehen? — Nein, habe ich nicht.
+L5 | 037 | Kam mall për familjen, sepse janë larg. | Ich habe Heimweh nach der Familie, weil sie weit weg sind.
+L5 | 038 | Kjo rrugë asht më e ngushtë se ajo. | Diese Straße ist enger als jene.
+L5 | 039 | Ajo asht shumë e dashun për fëmijët. | Sie ist sehr liebevoll zu den Kindern.
+L5 | 040 | Në verë bën më nxehtë se n'pranverë. | Im Sommer ist es heißer als im Frühling.
+L5 | 041 | Jam i befasuem, sepse ke ardhë herët. | Ich bin überrascht, weil du früh gekommen bist.
+L5 | 042 | Shpendi fluturon lart, ndërsa peshku noton n'ujë. | Der Vogel fliegt hoch, während der Fisch im Wasser schwimmt.
+L5 | 043 | Kjo pemë asht më e vjetër se ajo. | Dieser Baum ist älter als jener.
+L5 | 044 | A të pëlqen dimri apo vera? | Magst du den Winter oder den Sommer?
+L5 | 045 | Jam i uritur, sepse s'kam hangër mëngjes. | Ich bin hungrig, weil ich kein Frühstück gegessen habe.
+L5 | 046 | Breshka asht më e ngadaltë se lepuri. | Die Schildkröte ist langsamer als der Hase.
+L5 | 047 | Në vjeshtë gjethet bien, ndërsa n'pranverë rriten. | Im Herbst fallen die Blätter, während sie im Frühling wachsen.
+L5 | 048 | A po gëzohesh për pushimet? | Freust du dich auf die Ferien?
+L5 | 049 | Borë ka më shumë n'mal se n'fushë. | Es gibt mehr Schnee auf dem Berg als im Feld.
+L5 | 050 | Pula asht e vogël, ndërsa gjeli asht i madh. | Das Huhn ist klein, während der Hahn groß ist.
+L5 | 051 | Kam besim te shoku im më i mirë. | Ich vertraue meinem besten Freund.
+L5 | 052 | Ajo asht më e gjatë se unë. | Sie ist größer als ich.
+L5 | 053 | Jam i mërzitun, sepse s'mund të dal sot. | Ich bin traurig, weil ich heute nicht ausgehen kann.
+L5 | 054 | Ketri asht më i shpejtë se kërmilli. | Das Eichhörnchen ist schneller als die Schnecke.
+L5 | 055 | Në dimër bën më ftohtë se n'vjeshtë. | Im Winter ist es kälter als im Herbst.
+L5 | 056 | A ndje dashuni për këtë vend? | Fühlst du Liebe für dieses Land?
+L5 | 057 | Kam frikë nga stuhitë, sepse janë të rrezikshme. | Ich habe Angst vor Stürmen, weil sie gefährlich sind.
+L5 | 058 | Ariu asht më i fortë se ujku. | Der Bär ist stärker als der Wolf.
+L5 | 059 | Sot qielli asht i kthjellët, ndërsa dje ka pasë re. | Heute ist der Himmel klar, während es gestern Wolken gab.
+L5 | 060 | Jam mirënjohës për ndihmën tënde. | Ich bin dankbar für deine Hilfe.
+L5 | 061 | Ajo asht më e lumtun se unë sot. | Sie ist heute glücklicher als ich.
+L5 | 062 | Macja luan me top, ndërsa qeni fle. | Die Katze spielt mit dem Ball, während der Hund schläft.
+L5 | 063 | Më pëlqen natyra, sepse asht e qetë. | Ich mag die Natur, weil sie ruhig ist.
+L5 | 064 | Ky liqen asht më i thellë se ai. | Dieser See ist tiefer als jener.
+L5 | 065 | Sa bukur që po fryn era sot! | Wie schön der Wind heute weht!
+L5 | 066 | Jam i pasigurt për provimin e nesërm. | Ich bin unsicher wegen der morgigen Prüfung.
+L5 | 067 | Flutura asht më e lehtë se milingona. | Der Schmetterling ist leichter als die Ameise.
+L5 | 068 | Në pranverë lulëzojnë lulet, ndërsa në vjeshtë vyshken. | Im Frühling blühen die Blumen, während sie im Herbst welken.
+L5 | 069 | A të pëlqejnë kafshët e egra? | Magst du die wilden Tiere?
+L5 | 070 | Ky mal asht më i bukuri në Kosovë. | Dieser Berg ist der schönste im Kosovo.
+L5 | 071 | Jam i nevrikosun, sepse autobusi vonon. | Ich bin nervös, weil der Bus Verspätung hat.
+L5 | 072 | Peshku noton n'ujë, ndërsa shpendi fluturon n'qiell. | Der Fisch schwimmt im Wasser, während der Vogel am Himmel fliegt.
+L5 | 073 | Ajo asht më e reja në familje. | Sie ist die Jüngste in der Familie.
+L5 | 074 | Sot ndihem i lumtun, sepse moti asht i mirë. | Heute fühle ich mich glücklich, weil das Wetter gut ist.
+L5 | 075 | Jam xheloz, sepse vllai ka veturë të re. | Ich bin eifersüchtig, weil mein Bruder ein neues Auto hat.
+L5 | 076 | Gjarpri asht më i rrezikshëm se hardhuca. | Die Schlange ist gefährlicher als die Eidechse.
+L5 | 077 | Në dimër bie borë, ndërsa në verë shkëlqen dielli. | Im Winter schneit es, während im Sommer die Sonne scheint.
+L5 | 078 | A ke interesim për muzikë? | Hast du Interesse an Musik?
+L5 | 079 | Kjo lule asht më e vogël se ajo. | Diese Blume ist kleiner als jene.
+L5 | 080 | Jam i dëshpëruem, sepse s'kalova provimin. | Ich bin verzweifelt, weil ich die Prüfung nicht bestanden habe.
+L5 | 081 | Delet kullosin në livadh, ndërsa lopët janë n'stallë. | Die Schafe grasen auf der Wiese, während die Kühe im Stall sind.
+L5 | 082 | Më pëlqen vera më shumë se dimri. | Ich mag den Sommer mehr als den Winter.
+L5 | 083 | A ke frikë nga gjarpërinjtë? | Hast du Angst vor Schlangen?
+L5 | 084 | Ky qen asht më besniku që kam pa. | Dieser Hund ist der treueste, den ich gesehen habe.
+L5 | 085 | Sot ndihem keq, sepse kam dhimbje koke. | Heute fühle ich mich schlecht, weil ich Kopfschmerzen habe.
+L5 | 086 | Dielli asht më i ndritshëm se hana. | Die Sonne ist heller als der Mond.
+L5 | 087 | A je i gatshëm për shëtitje në mal? | Bist du bereit für eine Wanderung im Berg?
+L5 | 088 | Kam zili për suksesin e shokut. | Ich bin neidisch auf den Erfolg meines Freundes.
+L5 | 089 | Bleta asht më punëtore se flutura. | Die Biene ist fleißiger als der Schmetterling.
+L5 | 090 | Sa bukur shkëlqejnë yjet sonte! | Wie schön die Sterne heute Nacht leuchten!
+L5 | 091 | Jam i stresuem, sepse kam shumë punë. | Ich bin gestresst, weil ich viel Arbeit habe.
+L5 | 092 | Lepuri asht më i vogël se ariu. | Der Hase ist kleiner als der Bär.
+L5 | 093 | Më pëlqen natyra, ndërsa vllait i pëlqen qyteti. | Ich mag die Natur, während mein Bruder die Stadt mag.
+L5 | 094 | A ndje dashuni për këtë kafshë? | Fühlst du Liebe für dieses Tier?
+L5 | 095 | Ky lumë asht më i pastri në rajon. | Dieser Fluss ist der sauberste in der Region.
+L5 | 096 | Jam i qetë, sepse jam në natyrë. | Ich bin ruhig, weil ich in der Natur bin.
+L5 | 097 | Kalërimi asht më i vështirë se çiklizmi. | Reiten ist schwieriger als Radfahren.
+L5 | 098 | Sot asht mot i nxehtë, ndërsa nesër do të jetë më freskët. | Heute ist heißes Wetter, während es morgen kühler sein wird.
+L5 | 099 | A e dashnon babanë tënd? — Po, shumë. | Liebst du deinen Vater? — Ja, sehr.
+L5 | 100 | Majmuni asht më i zgjuar se derri. | Der Affe ist klüger als das Schwein.
+L5 | 101 | Më pëlqen të shëtis në pyll, sepse ajri asht i pastër. | Ich mag es, im Wald spazieren zu gehen, weil die Luft sauber ist.
+L5 | 102 | Ai asht më i riu në klasën tonë. | Er ist der Jüngste in unserer Klasse.
+L5 | 103 | Në pranverë dëgjoj zogjtë, ndërsa në dimër fryn era. | Im Frühling höre ich die Vögel, während im Winter der Wind weht.
+L5 | 104 | Kam frikë nga bubullimat, sepse janë të forta. | Ich habe Angst vor Donner, weil er laut ist.
+L5 | 105 | A po mendon se vera asht më e mirë se dimri? | Denkst du, dass der Sommer besser ist als der Winter?
+L5 | 106 | Më pëlqen shiu, sepse freskon ajrin. | Ich mag den Regen, weil er die Luft erfrischt.
+L5 | 107 | Jam shumë i dashun për familjen time. | Ich bin meiner Familie sehr zugetan.
+L5 | 108 | Kjo lule asht më e bukura në kopsht. | Diese Blume ist die schönste im Garten.
+L5 | 109 | Sot kam gëzim të madh, sepse vjen nana. | Heute habe ich große Freude, weil Mama kommt.
+L5 | 110 | Në verë bën vapë, ndërsa në dimër bën ftohtë. | Im Sommer ist es heiß, während es im Winter kalt ist.
+L5 | 111 | A beson se natyrën duhet me e mbrojtë? | Glaubst du, dass man die Natur schützen muss?
+L5 | 112 | Ky mal asht më i larti në Kosovë, sepse ka shumë borë. | Dieser Berg ist der höchste im Kosovo, weil er viel Schnee hat.
+══════════════════════════════════════════════════
+LEVEL 6 — MITTELSTUFE III — Reisen, Einkaufen, Technologie, Relativsätze
+112 Sätze
+══════════════════════════════════════════════════
+
+L6 | 001 | A je tu shkue n'treg me blejtë ca mollë? | Gehst du zum Markt um ein paar Äpfel zu kaufen?
+L6 | 002 | Autobusi që shkon n'Prishtinë niset n'ora pesë. | Der Bus, der nach Pristina fährt, startet um fünf Uhr.
+L6 | 003 | Sa kushton kjo veturë që po shof? | Wie viel kostet dieses Auto, das ich sehe?
+L6 | 004 | Kam blejtë nji telefon të ri që ka kamër të mirë. | Ich habe ein neues Telefon gekauft, das eine gute Kamera hat.
+L6 | 005 | A mund të më tregosh kah asht stacioni i autobusit? | Kannst du mir zeigen, wo die Bushaltestelle ist?
+L6 | 006 | Kjo çantë kushton shumë, por ajo asht më e lirë. | Diese Tasche kostet viel, aber jene ist billiger.
+L6 | 007 | Furgoni që shkon n'Prizren niset n'ora gjashtë. | Der Kleinbus, der nach Prizren fährt, startet um sechs Uhr.
+L6 | 008 | Sa para ke shpenzue për blerje sot? | Wie viel Geld hast du heute für Einkäufe ausgegeben?
+L6 | 009 | Kompjuteri që kam blejtë asht shumë i shpejtë. | Der Computer, den ich gekauft habe, ist sehr schnell.
+L6 | 010 | Kthehu majtas në semafor, pastaj vazhdo drejt. | Bieg an der Ampel links ab, dann fahr geradeaus.
+L6 | 011 | A ke para të mjaftueshme për biletë? | Hast du genug Geld für ein Ticket?
+L6 | 012 | Kjo rrugë që shkon në qendër asht shumë e ngarkume. | Diese Straße, die ins Zentrum führt, ist sehr befahren.
+L6 | 013 | Kam porositë nji laptop të ri për punë. | Ich habe einen neuen Laptop für die Arbeit bestellt.
+L6 | 014 | A din kah asht marketi më i afërm? | Weißt du, wo der nächste Supermarkt ist?
+L6 | 015 | Sa larg asht stacioni i trenit prej këtu? | Wie weit ist der Bahnhof von hier?
+L6 | 016 | Kjo kartelë bankare më lejon me paguë online. | Diese Bankkarte erlaubt mir, online zu bezahlen.
+L6 | 017 | A shesin mollë në këtë treg? | Verkaufen sie Äpfel auf diesem Markt?
+L6 | 018 | Makina që kam marrë me qira asht shumë e re. | Das Auto, das ich gemietet habe, ist sehr neu.
+L6 | 019 | Du me shkue n'Prishtinë me tren, por bileta s'asht lirë. | Ich will nach Pristina mit dem Zug fahren, aber das Ticket ist nicht billig.
+L6 | 020 | Sa shumë njerëz janë në këtë dyqan sot! | Wie viele Leute sind heute in diesem Geschäft!
+L6 | 021 | Telefoni im ka ekran që thyhet lehtë. | Mein Telefon hat einen Bildschirm, der leicht bricht.
+L6 | 022 | A je tu shkue n'qendër tregtare me blejtë rroba? | Gehst du ins Einkaufszentrum, um Kleidung zu kaufen?
+L6 | 023 | Mund të paguaj me kartelë apo me para në dorë? | Kann ich mit Karte oder bar bezahlen?
+L6 | 024 | Kjo asht rruga që shkon n'aeroport. | Das ist die Straße, die zum Flughafen führt.
+L6 | 025 | Sa kushton biletë vajtje-ardhje për n'Gjermani? | Wie viel kostet ein Hin- und Rückflugticket nach Deutschland?
+L6 | 026 | A ke provue këtë aplikacion që tregon hartën? | Hast du diese App ausprobiert, die die Karte zeigt?
+L6 | 027 | Kam marrë veturën me qira për tri ditë. | Ich habe das Auto für drei Tage gemietet.
+L6 | 028 | Dyqani që shet bukë asht në cep të rrugës. | Das Geschäft, das Brot verkauft, ist an der Ecke.
+L6 | 029 | Sa orë duhet me shkue prej Prishtinës n'Tiranë? | Wie viele Stunden braucht man von Pristina nach Tirana?
+L6 | 030 | Po kërkoj nji hotel që s'asht shumë i shtrenjtë. | Ich suche ein Hotel, das nicht sehr teuer ist.
+L6 | 031 | A ke lidhje interneti në shtëpi? | Hast du eine Internetverbindung zu Hause?
+L6 | 032 | Jam tu shkue n'treg me blejtë perime të freskëta. | Ich gehe zum Markt, um frisches Gemüse zu kaufen.
+L6 | 033 | Kjo veturë që shof atje asht e vllait tim. | Dieses Auto, das ich dort sehe, gehört meinem Bruder.
+L6 | 034 | Sa kushton në kilogram mollët? | Wie viel kostet ein Kilo Äpfel?
+L6 | 035 | Treni që shkon për n'Shkup niset n'ora tetë. | Der Zug, der nach Skopje fährt, startet um acht Uhr.
+L6 | 036 | Mund të më tregosh kah asht banka më e afërt? | Kannst du mir zeigen, wo die nächste Bank ist?
+L6 | 037 | Kam shpenzue shumë para për teknologji këtë muaj. | Ich habe diesen Monat viel Geld für Technologie ausgegeben.
+L6 | 038 | Këpucët që kam blejtë janë shumë komode. | Die Schuhe, die ich gekauft habe, sind sehr bequem.
+L6 | 039 | A ka nji stacion autobusi afër këtu? | Gibt es eine Bushaltestelle in der Nähe?
+L6 | 040 | Sa larg asht aeroporti prej qendrës? | Wie weit ist der Flughafen vom Zentrum entfernt?
+L6 | 041 | Porosia që kam ba online do të vij sonte. | Die Bestellung, die ich online gemacht habe, wird heute Abend kommen.
+L6 | 042 | A pranon kjo shitore kartela krediti? | Akzeptiert dieser Laden Kreditkarten?
+L6 | 043 | Unë kam shumë aplikacione në telefon që përdori çdo ditë. | Ich habe viele Apps auf dem Telefon, die ich jeden Tag benutze.
+L6 | 044 | Kthehu djathtas në udhëkryq, pastaj vazhdo drejt. | Bieg an der Kreuzung rechts ab, dann fahr geradeaus.
+L6 | 045 | Sa kushton nji biletë autobusi për në qytet? | Wie viel kostet ein Busticket in die Stadt?
+L6 | 046 | Restoranti që rekomandon ti asht shumë i mirë. | Das Restaurant, das du empfiehlst, ist sehr gut.
+L6 | 047 | Kam harruë portofolin në shtëpi me të gjitha paratë. | Ich habe das Portemonnaie mit dem ganzen Geld zu Hause vergessen.
+L6 | 048 | A je tu shkue n'pazar me blejtë mish? | Gehst du auf den Markt, um Fleisch zu kaufen?
+L6 | 049 | Furgoni që shkon n'Pejë niset prej këtu. | Der Kleinbus, der nach Peja fährt, startet von hier.
+L6 | 050 | Këto këpucë që kam provue janë shumë të shtrenjta. | Diese Schuhe, die ich anprobiert habe, sind sehr teuer.
+L6 | 051 | A ki para të mjaftueshme për të paguë qiranë? | Hast du genug Geld, um die Miete zu bezahlen?
+L6 | 052 | Taksi që na mori në aeroport ishte shumë i shpejtë. | Das Taxi, das uns am Flughafen abholte, war sehr schnell.
+L6 | 053 | Sa shumë trafik ka në këtë rrugë! | Wie viel Verkehr ist auf dieser Straße!
+L6 | 054 | Kjo aplikacion që shkarkova asht shumë e dobishme. | Diese App, die ich heruntergeladen habe, ist sehr nützlich.
+L6 | 055 | A din kah asht farmacia më e afërt? | Weißt du, wo die nächste Apotheke ist?
+L6 | 056 | Kam blejtë nji valixhe të re për udhëtim. | Ich habe einen neuen Koffer für die Reise gekauft.
+L6 | 057 | Çmimi që ke thânë asht fort i lartë. | Der Preis, den du gesagt hast, ist sehr hoch.
+L6 | 058 | Vazhdo drejt për dy kilometra, pastaj kthehu majtas. | Fahr zwei Kilometer geradeaus, dann bieg links ab.
+L6 | 059 | A ke provue me blé online ndonjëherë? | Hast du jemals online eingekauft?
+L6 | 060 | Ky smartphone që kam blejtë ka bateri të mirë. | Dieses Smartphone, das ich gekauft habe, hat einen guten Akku.
+L6 | 061 | Sa kushton me marrë nji veturë me qira për një javë? | Wie viel kostet es, ein Auto für eine Woche zu mieten?
+L6 | 062 | Në këtë dyqan shesin rroba që janë në modë. | In diesem Geschäft verkaufen sie Kleidung, die in Mode ist.
+L6 | 063 | A ka nji bankomat afër këtu? | Gibt es einen Geldautomaten in der Nähe?
+L6 | 064 | Hotel që kam rezervue asht pranë plazhit. | Das Hotel, das ich reserviert habe, ist am Strand.
+L6 | 065 | Kam shumë punë, por pak para. | Ich habe viel Arbeit, aber wenig Geld.
+L6 | 066 | Furgoni niset kah Gjakova n'ora nëntë. | Der Kleinbus fährt um neun Uhr Richtung Gjakova.
+L6 | 067 | A mund të paguaj me kartelë në këtë market? | Kann ich in diesem Supermarkt mit Karte bezahlen?
+L6 | 068 | Kjo rrugë që shkon n'stacion asht shumë e ngarkume. | Diese Straße, die zum Bahnhof führt, ist sehr befahren.
+L6 | 069 | Sa kushton nji kilogram mish pule? | Wie viel kostet ein Kilo Hühnerfleisch?
+L6 | 070 | Telefoni im ka nji kamerë që bën fotografi të bukura. | Mein Telefon hat eine Kamera, die schöne Fotos macht.
+L6 | 071 | Du me shkue n'Tiranë me aeroplan javën tjetër. | Ich will nächste Woche mit dem Flugzeug nach Tirana fliegen.
+L6 | 072 | A shesin peshk të freskët në këtë treg? | Verkaufen sie frischen Fisch auf diesem Markt?
+L6 | 073 | Kam harruë fjalëkalimin për llogarinë time. | Ich habe das Passwort für mein Konto vergessen.
+L6 | 074 | Restoranti që asht përballë stacionit asht i mirë. | Das Restaurant, das gegenüber dem Bahnhof ist, ist gut.
+L6 | 075 | Sa shumë shitore ka në këtë qendër tregtare! | Wie viele Geschäfte es in diesem Einkaufszentrum gibt!
+L6 | 076 | A je tu pritë autobusin që shkon në qytet? | Wartest du auf den Bus, der in die Stadt fährt?
+L6 | 077 | Ky çmim asht fort i ulët për këtë produkt. | Dieser Preis ist sehr niedrig für dieses Produkt.
+L6 | 078 | Kam blejtë nji biletë online për koncert. | Ich habe ein Ticket online für das Konzert gekauft.
+L6 | 079 | Rruga që shkon n'plazh asht shumë e bukur. | Die Straße, die zum Strand führt, ist sehr schön.
+L6 | 080 | A din kah asht hyrja për në park? | Weißt du, wo der Eingang zum Park ist?
+L6 | 081 | Kam shkarkue nji program që më ndihmon me mësue gjuhë. | Ich habe ein Programm heruntergeladen, das mir beim Sprachenlernen hilft.
+L6 | 082 | Sa kushton me dërgu nji parcelë n'Gjermani? | Wie viel kostet es, ein Paket nach Deutschland zu schicken?
+L6 | 083 | A shesin bukë të freskët në këtë furrë? | Verkaufen sie frisches Brot in dieser Bäckerei?
+L6 | 084 | Kjo veturë që po shof ka ngjyrë të kuqe. | Dieses Auto, das ich sehe, hat eine rote Farbe.
+L6 | 085 | Jam tu shkue në stacion me marrë trenin për n'shpi. | Ich gehe zum Bahnhof, um den Zug nach Hause zu nehmen.
+L6 | 086 | Kam shumë fotografi në telefon që du me i ruajtë. | Ich habe viele Fotos auf dem Telefon, die ich speichern muss.
+L6 | 087 | A pranon kjo furrë pagesë me kartelë? | Akzeptiert diese Bäckerei Kartenzahlung?
+L6 | 088 | Stacioni i autobusit që kërkon ti asht aty prapa. | Die Bushaltestelle, die du suchst, ist dort hinten.
+L6 | 089 | Sa orë udhëtim asht prej Prishtinës në Shkup? | Wie viele Stunden Fahrt ist es von Pristina nach Skopje?
+L6 | 090 | A ke pa çmimet e reja në këtë dyqan? — Janë fort të larta. | Hast du die neuen Preise in diesem Geschäft gesehen? — Sie sind sehr hoch.
+L6 | 091 | Kjo faqe interneti që përdori asht shumë e shpejtë. | Diese Website, die ich benutze, ist sehr schnell.
+L6 | 092 | A je tu shkue në aeroport me pritë motrën? | Gehst du zum Flughafen, um die Schwester abzuholen?
+L6 | 093 | Kam hapë nji llogari bankare për kursim parash. | Ich habe ein Bankkonto zum Geldsparen eröffnet.
+L6 | 094 | Rruga më e shkurtër për n'qendër asht këndej. | Der kürzeste Weg ins Zentrum ist hier entlang.
+L6 | 095 | Sa shumë para kam shpenzue për teknologji këtë vit! | Wie viel Geld ich dieses Jahr für Technologie ausgegeben habe!
+L6 | 096 | A shetin qumësht organik në këtë market? | Verkaufen sie Bio-Milch in diesem Supermarkt?
+L6 | 097 | Laptopi që kam blejtë asht më i miri për programim. | Der Laptop, den ich gekauft habe, ist der beste zum Programmieren.
+L6 | 098 | Mund të më tregosh kah asht dalja për n'Tiranë? | Kannst du mir zeigen, wo die Ausfahrt nach Tirana ist?
+L6 | 099 | Kam blejtë pak fruta dhe shumë perime në treg. | Ich habe wenig Obst und viel Gemüse auf dem Markt gekauft.
+L6 | 100 | A ke provue këtë ruter që ka sinjal më të fortë? | Hast du diesen Router ausprobiert, der ein stärkeres Signal hat?
+L6 | 101 | Në këtë rrugë që shkon n'shkollë ka shumë makina. | Auf dieser Straße, die zur Schule führt, gibt es viele Autos.
+L6 | 102 | Sa kushton me mbushë veturën me benzinë? | Wie viel kostet es, das Auto zu betanken?
+L6 | 103 | A ka nji stacion të autobusit që shkon n'Prishtinë? | Gibt es eine Bushaltestelle, die nach Pristina fährt?
+L6 | 104 | Kjo kartelë debiti më ndihmon me menaxhu paratë. | Diese Debitkarte hilft mir, das Geld zu verwalten.
+L6 | 105 | Jam tu shkue në treg me blejtë pak djathë e shumë ullinj. | Ich gehe zum Markt, um wenig Käse und viele Oliven zu kaufen.
+L6 | 106 | A din për nji aplikacion që tregon trafikun në kohë reale? | Weißt du von einer App, die den Verkehr in Echtzeit zeigt?
+L6 | 107 | Udhëtimi që kam planifikue për verë asht shumë i gjatë. | Die Reise, die ich für den Sommer geplant habe, ist sehr lang.
+L6 | 108 | Sa kushton nji orë dore që ka GPS? | Wie viel kostet eine Armbanduhr, die GPS hat?
+L6 | 109 | Këpucët që kam blejtë në zbritje ishin fort lirë. | Die Schuhe, die ich im Angebot gekauft habe, waren sehr billig.
+L6 | 110 | A ke shkue ndonjëherë n'Tiranë me autobus? | Bist du jemals mit dem Bus nach Tirana gefahren?
+L6 | 111 | Ky telefon që kam blejtë ka një ekran shumë të madh. | Dieses Telefon, das ich gekauft habe, hat einen sehr großen Bildschirm.
+L6 | 112 | Kam porositë shumë sende online, por pak kanë ardhë deri tash. | Ich habe viele Sachen online bestellt, aber wenige sind bis jetzt angekommen.
+══════════════════════════════════════════════════
+LEVEL 7 — FORTGESCHRITTEN I — Abstrakte Konzepte, Bedingungssätze, Modalverben
+114 Sätze
+══════════════════════════════════════════════════
+
+L7 | 001 | Nëse ki besim n'vetvete, mun me ba çka t'dashish. | Wenn du Vertrauen in dich selbst hast, kannst du machen, was du willst.
+L7 | 002 | Gjithmonë duhet me shpresu për më t'mirë. | Man muss immer auf das Beste hoffen.
+L7 | 003 | Liria asht nji e drejtë që s'mun t'na merr kush. | Freiheit ist ein Recht, das uns niemand nehmen kann.
+L7 | 004 | Nëse don me arrit sukses, duhet me punu fort. | Wenn du Erfolg erzielen willst, musst du hart arbeiten.
+L7 | 005 | Drejtësia vjen ngadalë, por gjithmonë vjen. | Gerechtigkeit kommt langsam, aber sie kommt immer.
+L7 | 006 | Paqja asht gjaja më e çmueshme për njerëzimin. | Der Frieden ist das Wertvollste für die Menschheit.
+L7 | 007 | Nëse s'ki shpresë, s'ki as jetë. | Wenn du keine Hoffnung hast, hast du auch kein Leben.
+L7 | 008 | Dëshiroj me t'pa sa më shpejt. | Ich wünsche, dich so schnell wie möglich zu sehen.
+L7 | 009 | Besimi n'familje asht gjithçka. | Vertrauen in die Familie ist alles.
+L7 | 010 | Nëse vjen nesër, mun mi marrë sendet. | Wenn du morgen kommst, kannst du die Sachen abholen.
+L7 | 011 | Shpresa asht ajo që na mban gjallë. | Hoffnung ist das, was uns am Leben hält.
+L7 | 012 | Kurrë mos e lsho shpresën, se pa t'keq s'ka t'mirë. | Gib niemals die Hoffnung auf, denn ohne Schlechtes gibt es kein Gutes.
+L7 | 013 | Mundesh me ardhë n'çdo kohë që t'vjen përshtat. | Du kannst zu jeder Zeit kommen, die dir passt.
+L7 | 014 | Nëse e do lirinë, duhet me luftu për t'. | Wenn du die Freiheit liebst, musst du für sie kämpfen.
+L7 | 015 | Fëmijët janë e ardhmja jona. | Die Kinder sind unsere Zukunft.
+L7 | 016 | Gjithmonë ki mendjen kah po shkon. | Hab immer im Kopf, wohin du gehst.
+L7 | 017 | Nëse don paqe, përgatitu për luftë. | Wenn du Frieden willst, bereite dich auf den Krieg vor.
+L7 | 018 | Drejtësia s'asht veç nji fjalë, asht nji veprim. | Gerechtigkeit ist nicht nur ein Wort, sie ist eine Handlung.
+L7 | 019 | Kam shpresë se moti do të mirësohet. | Ich habe Hoffnung, dass das Wetter besser wird.
+L7 | 020 | Nëse s'flet ngadalë, s'po t'kuptoj. | Wenn du nicht langsam sprichst, verstehe ich dich nicht.
+L7 | 021 | Besimi yt te Zoti asht i fortë. | Dein Vertrauen zu Gott ist stark.
+L7 | 022 | Duhet me ba më shumë për paqe n'botë. | Man muss mehr für den Frieden in der Welt tun.
+L7 | 023 | Nëse vjen shpejt, mun të pres n'stacion. | Wenn du schnell kommst, kann ich dich an der Station erwarten.
+L7 | 024 | Liria e fjalës asht nji e drejtë themelore. | Die Meinungsfreiheit ist ein grundlegendes Recht.
+L7 | 025 | Sa fort ke punu, more vlla! | Wie hart du gearbeitet hast, Bruder!
+L7 | 026 | Nëse do me mujtë, duhet me besu n'vetvete. | Wenn du können willst, musst du an dich selbst glauben.
+L7 | 027 | Gjithmonë ka shpresë, edhe kur duket e pamundshme. | Es gibt immer Hoffnung, auch wenn es unmöglich scheint.
+L7 | 028 | Dëshiroj me t'pa nesër n'mëngjes. | Ich wünsche, dich morgen früh zu sehen.
+L7 | 029 | Nëse ki durim, gjithçka vjen në kohë. | Wenn du Geduld hast, kommt alles zu seiner Zeit.
+L7 | 030 | Drejtësia pa liri s'asht gjë. | Gerechtigkeit ohne Freiheit ist nichts.
+L7 | 031 | A mundesh me m'ndihmua me këtë punë? | Kannst du mir bei dieser Arbeit helfen?
+L7 | 032 | Nëse ma jep besën, unë ta jap timën. | Wenn du mir dein Ehrenwort gibst, gebe ich dir meines.
+L7 | 033 | Shpresoj se gjithçka ka me shku mirë. | Ich hoffe, dass alles gut gehen wird.
+L7 | 034 | Paqja n'familje asht më e rândësishmja. | Der Frieden in der Familie ist das Wichtigste.
+L7 | 035 | Nëse të du, t'du fort, moj zêmër. | Wenn ich dich liebe, liebe ich dich stark, mein Herz.
+L7 | 036 | Gjithmonë duhet me ndjek ëndrrat tua. | Man muss immer seinen Träumen folgen.
+L7 | 037 | Liria s'vjen falas, duhet me e fitu. | Freiheit kommt nicht umsonst, man muss sie verdienen.
+L7 | 038 | Nëse s'bon shpejt, na vonohemi. | Wenn du nicht schnell machst, kommen wir zu spät.
+L7 | 039 | Besimi te miqtë asht nji dhuratë e çmueshme. | Vertrauen zu Freunden ist ein wertvolles Geschenk.
+L7 | 040 | Kurrë mos thuaj kurrë, se jeta asht e gjatë. | Sag niemals nie, denn das Leben ist lang.
+L7 | 041 | Nëse don me ndryshu botën, fillo prej vetes. | Wenn du die Welt verändern willst, fang bei dir selbst an.
+L7 | 042 | Duhet me folë t'vërtetën, sado e vështirë të jetë. | Man muss die Wahrheit sagen, so schwer sie auch sei.
+L7 | 043 | Shpresa asht ajo që na bën me ecë përpara. | Hoffnung ist das, was uns vorwärts gehen lässt.
+L7 | 044 | Nëse ki kurajë, mun me i kalu të gjitha vështirësitë. | Wenn du Mut hast, kannst du alle Schwierigkeiten überwinden.
+L7 | 045 | Unë gjithmonë kam besu te njerëzit e mirë. | Ich habe immer an die guten Menschen geglaubt.
+L7 | 046 | Paqja fillon n'zemrën e njeriut. | Der Frieden beginnt im Herzen des Menschen.
+L7 | 047 | Nëse s'vonon, na mun me hangër bashkë. | Wenn du nicht zu spät kommst, können wir zusammen essen.
+L7 | 048 | Dëshiroj me t'pa të lumtun gjithmonë. | Ich wünsche, dich immer glücklich zu sehen.
+L7 | 049 | Nëse asht dashtë Zoti, na takohemi prapë. | Wenn Gott will, treffen wir uns wieder.
+L7 | 050 | Drejtësia duhet me dalë n'pah gjithmonë. | Gerechtigkeit muss immer ans Licht kommen.
+L7 | 051 | Lirinë s'mun me e ble as me pare. | Freiheit kann man nicht einmal mit Geld kaufen.
+L7 | 052 | Nëse punon fort, ki sukses n'jetë. | Wenn du hart arbeitest, hast du Erfolg im Leben.
+L7 | 053 | Shpresoj se ki me ardhë n'dasëm. | Ich hoffe, du wirst zur Hochzeit kommen.
+L7 | 054 | Besimi yt më bënë më të fortë. | Dein Vertrauen macht mich stärker.
+L7 | 055 | Nëse don me dalë sonte, më thirr. | Wenn du heute Abend ausgehen willst, ruf mich an.
+L7 | 056 | Gjithmonë ki nji plan B, se jeta s'asht e sigurt. | Hab immer einen Plan B, denn das Leben ist nicht sicher.
+L7 | 057 | Paqja mondiale asht qëllimi ynë i përbashkët. | Der Weltfrieden ist unser gemeinsames Ziel.
+L7 | 058 | Nëse s'ki besim, s'ki as miq. | Wenn du kein Vertrauen hast, hast du auch keine Freunde.
+L7 | 059 | Kurrë mos u dorëzo, edhe kur asht më s'vështiri. | Gib niemals auf, auch wenn es am schwierigsten ist.
+L7 | 060 | Drejtësia sociale asht e nevojshme për nji shoqëri të shëndoshë. | Soziale Gerechtigkeit ist notwendig für eine gesunde Gesellschaft.
+L7 | 061 | Nëse do me m'pa, e di kah jom. | Wenn du mich sehen willst, weißt du, wo ich bin.
+L7 | 062 | Kam shpresë se bota ka me ndryshu për mirë. | Ich habe Hoffnung, dass sich die Welt zum Besseren ändern wird.
+L7 | 063 | Liria personale asht e shenjtë. | Die persönliche Freiheit ist heilig.
+L7 | 064 | Nëse s'pushon, do t'lodhesh fort. | Wenn du dich nicht ausruhst, wirst du sehr müde werden.
+L7 | 065 | Besimi n'Zot i jep kuptim jetës. | Der Glaube an Gott gibt dem Leben Sinn.
+L7 | 066 | Gjithmonë duhet me ndihmu ata që janë n'nevojë. | Man muss immer denen helfen, die in Not sind.
+L7 | 067 | Nëse don paqe, respekto tjetrin. | Wenn du Frieden willst, respektiere den Anderen.
+L7 | 068 | Shpejt a vonë, drejtësia ka me dalë n'sipërfaqe. | Früher oder später wird die Gerechtigkeit an die Oberfläche kommen.
+L7 | 069 | Dëshiroj me t'falë për gjithçka. | Ich wünsche, dir für alles zu vergeben.
+L7 | 070 | Nëse vjen me makinë, mun me ardhë më shpejt. | Wenn du mit dem Auto kommst, kannst du schneller kommen.
+L7 | 071 | Shpresën e fundit kurrë mos e humb. | Die letzte Hoffnung verliere niemals.
+L7 | 072 | Liria e mendimit asht nji e drejtë e patjetërsueshme. | Die Gedankenfreiheit ist ein unveräußerliches Recht.
+L7 | 073 | Nëse ki durim, gjithçka vjen në rregull. | Wenn du Geduld hast, kommt alles in Ordnung.
+L7 | 074 | Sa fort t'du, vllai im! | Wie sehr ich dich liebe, mein Bruder!
+L7 | 075 | Besimi te vetja asht gjysma e suksesit. | Das Vertrauen in sich selbst ist die Hälfte des Erfolgs.
+L7 | 076 | Gjithmonë ka nji shpresë për nji ditë më të mirë. | Es gibt immer eine Hoffnung auf einen besseren Tag.
+L7 | 077 | Nëse s'jen mirë, m'thirr. | Wenn es dir nicht gut geht, ruf mich an.
+L7 | 078 | Drejtësia s'asht e verbër, por ndonjëherë shtiret. | Gerechtigkeit ist nicht blind, aber manchmal tut sie so.
+L7 | 079 | Paqja fillon aty ku mbaron egoizmi. | Frieden beginnt dort, wo der Egoismus endet.
+L7 | 080 | Nëse don me mësue gjuhën, duhet me praktikue shumë. | Wenn du die Sprache lernen willst, musst du viel üben.
+L7 | 081 | Kam besim se do t'ja dalim. | Ich habe Vertrauen, dass wir es schaffen werden.
+L7 | 082 | Shpresoj se nuk asht vonë për me fillue. | Ich hoffe, es ist nicht zu spät, um anzufangen.
+L7 | 083 | Nëse asht e mundshme, hajde sa më shpejt. | Wenn es möglich ist, komm so schnell wie möglich.
+L7 | 084 | Liria pa përgjegjësi s'asht liri. | Freiheit ohne Verantwortung ist keine Freiheit.
+L7 | 085 | Gjithmonë duhet me shpresu për mrekulli. | Man muss immer auf Wunder hoffen.
+L7 | 086 | Nëse m'shkon mendja, ai ka ardhë dje. | Wenn ich mich recht erinnere, ist er gestern gekommen.
+L7 | 087 | Duhet me folë ngadalë se fëmija po fle. | Du musst leise sprechen, denn das Kind schläft.
+L7 | 088 | Besimi ynë si popull asht i pathyeshëm. | Unser Glaube als Volk ist unzerbrechlich.
+L7 | 089 | Kurrë mos e harro prej kah je. | Vergiss niemals, woher du kommst.
+L7 | 090 | Nëse don me shkue n'Kosovë, duhet me pasë pasaportë. | Wenn du in den Kosovo reisen willst, musst du einen Pass haben.
+L7 | 091 | Paqja e zemrës asht më e rëndësishme se pasunia. | Der Frieden des Herzens ist wichtiger als Reichtum.
+L7 | 092 | Sa shpejt kalon koha kur je me njerëzit e dashtun! | Wie schnell die Zeit vergeht, wenn man bei den Liebsten ist!
+L7 | 093 | Drejtësia kërkon guxim për me u zbatu. | Gerechtigkeit erfordert Mut, um umgesetzt zu werden.
+L7 | 094 | Nëse don me pasë sukses, duhet me sakrifikue. | Wenn du Erfolg haben willst, musst du opfern.
+L7 | 095 | Shpresa ynë asht te brezi i ri. | Unsere Hoffnung liegt in der jungen Generation.
+L7 | 096 | Liria asht si era — s'mun me e pa, por e ndjen. | Freiheit ist wie der Wind — man kann sie nicht sehen, aber man fühlt sie.
+L7 | 097 | Nëse je i lodhun, pusho nji çikë. | Wenn du müde bist, ruh dich ein bisschen aus.
+L7 | 098 | Duhet me besu më shumë te vetja jote. | Du musst mehr an dich selbst glauben.
+L7 | 099 | Gjithmonë ka nji rrugëdalje, s'ka kah me shkue. | Es gibt immer einen Ausweg, es muss einen geben.
+L7 | 100 | Nëse don me m'folë, m'thirr n'çdo kohë. | Wenn du mit mir sprechen willst, ruf mich jederzeit an.
+L7 | 101 | Paqja n'shpi asht baza e çdo suksesi. | Der Frieden zu Hause ist die Basis jedes Erfolgs.
+L7 | 102 | Drejtësia e Zotit vonon, por nuk harron. | Die Gerechtigkeit Gottes kommt spät, aber sie vergisst nicht.
+L7 | 103 | Nëse shiu ndalet, dalim për nji shëtitje. | Wenn der Regen aufhört, gehen wir spazieren.
+L7 | 104 | Kam besim se edhe këtë vështirësi ka me e kalu. | Ich habe Vertrauen, dass er auch diese Schwierigkeit überwinden wird.
+L7 | 105 | Shpresoj se nuk ke harru premtimin tând. | Ich hoffe, du hast dein Versprechen nicht vergessen.
+L7 | 106 | Nëse don me jetu n'paqe, jeto n'harmoni me natyrën. | Wenn du in Frieden leben willst, lebe in Harmonie mit der Natur.
+L7 | 107 | Liria e besimit asht nji e drejtë e njeriut. | Die Religionsfreiheit ist ein Menschenrecht.
+L7 | 108 | Gjithmonë duhet me kujtu se çka asht e rëndësishme n'jetë. | Man muss immer daran denken, was im Leben wichtig ist.
+L7 | 109 | Nëse deshton, mos u mërzit — provo prapë. | Wenn du scheiterst, ärgere dich nicht — versuch es wieder.
+L7 | 110 | Besimi yt më jep forcë për me vazhdue. | Dein Vertrauen gibt mir Kraft, weiterzumachen.
+L7 | 111 | Shpresa asht dielli që ndriçon edhe natën më të errët. | Hoffnung ist die Sonne, die selbst in der dunkelsten Nacht leuchtet.
+L7 | 112 | Nëse don me shkue larg, duhet me fillue prej nji hapi. | Wenn du weit gehen willst, musst du mit einem Schritt beginnen.
+L7 | 113 | Kurrë mos thuaj s'mun, se ti mun mâ shumë se ç'bon. | Sag niemals, du kannst nicht, denn du kannst mehr, als du tust.
+L7 | 114 | Gjithmonë, në çdo situatë, ruaj qetësinë tande. | Bewahre immer, in jeder Situation, deine Ruhe.
+══════════════════════════════════════════════════
+LEVEL 8 — FORTGESCHRITTEN II — Idiome, Redewendungen, Kultur, Passiv
+114 Sätze
+══════════════════════════════════════════════════
+
+L8 | 001 | Pasha Zotin, besa e shqiptarit s'shitet e s'bletë! | Ich schwöre bei Gott, die Besa eines Albaners wird nicht verkauft und nicht gekauft!
+L8 | 002 | Megjithatë, gjykata ka marrë nji vendim të drejtë. | Trotzdem hat das Gericht eine gerechte Entscheidung getroffen.
+L8 | 003 | Amanet, ore, ruju prej atij njeriu! | Pass auf, Alter, hüte dich vor diesem Menschen!
+L8 | 004 | Besa ime asht e pathyeshme — pasha nonën! | Mein Ehrenwort ist unzerbrechlich — ich schwöre bei meiner Mutter!
+L8 | 005 | Prandaj, kontrata u nënshkrua dje n'zyrën e avokatit. | Deshalb wurde der Vertrag gestern im Büro des Anwalts unterschrieben.
+L8 | 006 | Ndërkohë, ndërtimi i shkollës së re ka përfundue. | Inzwischen ist der Bau der neuen Schule abgeschlossen worden.
+L8 | 007 | I gjithë fisi u mblodh n'darsmën e vllaut t'madh. | Der ganze Clan versammelte sich auf der Hochzeit des großen Bruders.
+L8 | 008 | Pasha Zotin, këtë punë e kam ba me nder e me besë. | Ich schwöre bei Gott, diese Arbeit habe ich mit Ehre und Treue gemacht.
+L8 | 009 | Megjithatë, vendimi i gjykatës pritet me u apelue. | Trotzdem wird die Entscheidung des Gerichts voraussichtlich angefochten werden.
+L8 | 010 | Kjo shpi i përket familjes sonë prej shekujsh. | Dieses Haus gehört seit Jahrhunderten unserer Familie.
+L8 | 011 | Besa e dhânë s'kthehet mrapa — ashtu asht Kanuni. | Ein gegebenes Ehrenwort wird nicht zurückgenommen — so ist der Kanun.
+L8 | 012 | Prandaj, pagesa duhet me u krye brenda shtatë ditëve. | Deshalb muss die Zahlung innerhalb von sieben Tagen erfolgen.
+L8 | 013 | N'besë të Zotit, unë s'kam pasë kurrë me t'gënjye! | Bei Gottes Treue, ich hatte nie die Absicht, dich zu belügen!
+L8 | 014 | Ndërkohë që prindit punojnë, fëmijët janë n'shkollë. | Während die Eltern arbeiten, sind die Kinder in der Schule.
+L8 | 015 | Ligji i ri është miratu nga Kuvendi i Kosovës. | Das neue Gesetz wurde von der Kosovo-Versammlung verabschiedet.
+L8 | 016 | Amanet, vlla, mos i lsho fëmijët pa mbikëqyrje! | Pass auf, Bruder, lass die Kinder nicht unbeaufsichtigt!
+L8 | 017 | Megjithatë, prokurori ka kërkue dënim më të rëndë. | Trotzdem hat der Staatsanwalt eine strengere Strafe gefordert.
+L8 | 018 | Me dalë n'shpirt më ke nxjerrë me këtë zhurmë! | Du gehst mir auf die Nerven mit diesem Lärm!
+L8 | 019 | Prandaj, patenta e shoferit iu konfiskue për shkak të shpejtësisë. | Deshalb wurde der Führerschein wegen Geschwindigkeitsüberschreitung beschlagnahmt.
+L8 | 020 | Besa e shqiptarit si çeliku i veriut asht. | Das Ehrenwort des Albaners ist wie nordischer Stahl.
+L8 | 021 | Ndërkohë, palët janë duke u pajtue n'gjykatë. | Inzwischen einigen sich die Parteien vor Gericht.
+L8 | 022 | Pasha vetën, këtë sekret s'ma ka nxjerrë kush! | Ich schwöre bei mir selbst, dieses Geheimnis hat mir niemand entlockt!
+L8 | 023 | Kjo pronë s'lejohet me u shitë pa pëlqimin e bashkëshortit. | Dieses Eigentum darf nicht ohne Zustimmung des Ehepartners verkauft werden.
+L8 | 024 | Megjithatë, ai kurrë s'e prishi besën e dhânë. | Trotzdem hat er sein gegebenes Ehrenwort nie gebrochen.
+L8 | 025 | Me ra n'mend më ka ardhë ajo ditë kur u njohëm. | Mir ist jener Tag in den Sinn gekommen, als wir uns kennenlernten.
+L8 | 026 | Prandaj, këto dokumenta duhet me u dorëzue n'arkiva. | Deshalb müssen diese Dokumente im Archiv abgegeben werden.
+L8 | 027 | Shpija e shqiptarit asht e Zotit — mikpritja asht e shenjtë. | Das Haus des Albaners gehört Gott — die Gastfreundschaft ist heilig.
+L8 | 028 | Ndërkohë, hetimi policor vazhdon për këtë rast. | Inzwischen läuft die polizeiliche Ermittlung zu diesem Fall weiter.
+L8 | 029 | Dënimi u shqiptue nga gjykata për shkak të vjedhjes. | Die Strafe wurde vom Gericht wegen des Diebstahls verhängt.
+L8 | 030 | Amanet, more, këtë amanet ma ke për me e krye! | Ich beschwöre dich, Mädchen, diesen Auftrag musst du für mich erledigen!
+L8 | 031 | Pasha Zotin, na kurrë s'jemi nda! | Ich schwöre bei Gott, wir haben uns nie getrennt!
+L8 | 032 | Megjithatë, vendimi i gjykatës nuk ishte i drejtë për të gjithë. | Trotzdem war die Entscheidung des Gerichts nicht für alle gerecht.
+L8 | 033 | Këto para janë marrë hua nga banka me interes 5%. | Dieses Geld wurde von der Bank zu 5% Zinsen geliehen.
+L8 | 034 | Prandaj, mos i jep besën kujt s'duhet. | Deshalb gib dein Ehrenwort nicht, wem du nicht sollst.
+L8 | 035 | Ndërkohë, çmimet e shtëpive janë rritë n'tërë qytetin. | Inzwischen sind die Hauspreise in der ganzen Stadt gestiegen.
+L8 | 036 | Me marrë n'telefon ma ka thânë se vjen nesër. | Am Telefon hat er mir gesagt, dass er morgen kommt.
+L8 | 037 | Besa asht më e fortë se çdo kontratë e shkrueme. | Das Ehrenwort ist stärker als jeder schriftliche Vertrag.
+L8 | 038 | Megjithatë, ai nuk u deklarua fajtor n'gjyq. | Trotzdem hat er sich vor Gericht nicht schuldig bekannt.
+L8 | 039 | Kjo çështje duhet me u zgjidhë n'gjykatën e lartë. | Diese Angelegenheit muss vor dem Obersten Gericht gelöst werden.
+L8 | 040 | Pasha nonën, unë këtë s'e kam ba! | Ich schwöre bei meiner Mutter, das habe ich nicht getan!
+L8 | 041 | Prandaj, tatimi për këtë muaj duhet me u paguë deri më 15. | Deshalb muss die Steuer für diesen Monat bis zum 15. bezahlt werden.
+L8 | 042 | Ndërkohë, djali ynë ka krye universitetin dhe kërkon punë. | Inzwischen hat unser Sohn die Universität abgeschlossen und sucht Arbeit.
+L8 | 043 | Me ba nji kafe bashkë — a po vjen ore? | Einen Kaffee zusammen trinken — kommst du, Alter?
+L8 | 044 | Ligjërisht, kjo marrëveshje asht e vlefshme. | Rechtlich gesehen ist diese Vereinbarung gültig.
+L8 | 045 | Megjithatë, dëshmitari nuk dëshmoi të vërtetën n'gjyq. | Trotzdem hat der Zeuge vor Gericht nicht die Wahrheit ausgesagt.
+L8 | 046 | Amanet, këtë fëmi mos e lsho pa përcjellë! | Pass auf, lass dieses Kind nicht ohne Begleitung!
+L8 | 047 | Pasuria e tij u konfiskue nga shteti për shkak të korrupsionit. | Sein Vermögen wurde vom Staat wegen Korruption beschlagnahmt.
+L8 | 048 | Prandaj, kush e prish besën, prish nderin e vet. | Deshalb, wer das Ehrenwort bricht, zerstört seine eigene Ehre.
+L8 | 049 | Ndërkohë, stina e verës ka sjellë shumë turistë në Kosovë. | Inzwischen hat die Sommersaison viele Touristen in den Kosovo gebracht.
+L8 | 050 | Pasha Zotin, këtë punë e kam krye me nder! | Ich schwöre bei Gott, diese Arbeit habe ich mit Ehre erledigt!
+L8 | 051 | Me lanë n'baltë shokun kur asht n'nevojë — s'bon ashtu! | Den Freund im Stich zu lassen, wenn er in Not ist — das tut man nicht!
+L8 | 052 | Megjithatë, gjoba u paguë brenda afatit të caktuar. | Trotzdem wurde die Geldstrafe innerhalb der festgesetzten Frist bezahlt.
+L8 | 053 | Kjo kërkesë për leje qëndrimi është refuzue. | Dieser Antrag auf Aufenthaltsgenehmigung wurde abgelehnt.
+L8 | 054 | Prandaj, rri n'besë e mos u lsho! | Deshalb, bleib treu und lass nicht locker!
+L8 | 055 | Ndërkohë, tradita e mikpritjes vazhdon në çdo shtëpi kosovare. | Inzwischen lebt die Tradition der Gastfreundschaft in jedem kosovarischen Haus weiter.
+L8 | 056 | Besën e dhânë s'mun me e prishë, se asht çnonim! | Ein gegebenes Ehrenwort kann man nicht brechen, das wäre entehrend!
+L8 | 057 | Ankesa u paraqit n'gjykatë brenda afatit ligjor. | Die Beschwerde wurde fristgerecht beim Gericht eingereicht.
+L8 | 058 | Megjithatë, ai mbeti n'burg deri në përfundim të hetimeve. | Trotzdem blieb er bis zum Abschluss der Ermittlungen im Gefängnis.
+L8 | 059 | Me ra zêmra m'ka marrë kur pashë atë aksident! | Mir ist das Herz gefallen, als ich diesen Unfall sah!
+L8 | 060 | Prandaj, firmosi këtu ku t'kam thânë! | Deshalb unterschreib hier, wo ich dir gesagt habe!
+L8 | 061 | Ndërkohë, çmimi i naftës ka shku deri në qiell. | Inzwischen ist der Benzinpreis in die Höhe geschossen.
+L8 | 062 | Kuvendi i Kosovës miratoi buxhetin për vitin e ardhshëm. | Die Kosovo-Versammlung hat den Haushalt für das kommende Jahr verabschiedet.
+L8 | 063 | Me i marrë mendtë po më bon kjo situatë! | Diese Situation macht mich verrückt!
+L8 | 064 | Pasha Zotin, unë për këtë s'dija gja! | Ich schwöre bei Gott, ich wusste nichts davon!
+L8 | 065 | Megjithatë, dokumenti u firmos nga të dy palët. | Trotzdem wurde das Dokument von beiden Parteien unterschrieben.
+L8 | 066 | Prandaj, nëse don me pasë miq të vërtetë, jep besën e mbaje. | Deshalb, wenn du wahre Freunde haben willst, gib dein Ehrenwort und halte es.
+L8 | 067 | Ndërkohë, policia ka arrestue tre persona të dyshuar. | Inzwischen hat die Polizei drei verdächtige Personen festgenommen.
+L8 | 068 | Me pi gjak e me marrë gjak — këto janë koncepte të Kanunit. | Blut trinken und Blut nehmen — das sind Konzepte des Kanun.
+L8 | 069 | Besa asht nji koncept që s'kuptohet jashtë traditës sonë. | Besa ist ein Konzept, das außerhalb unserer Tradition nicht verstanden wird.
+L8 | 070 | Megjithatë, gjykata e hodhi poshtë akuzën për mungesë provash. | Trotzdem wies das Gericht die Anklage mangels Beweisen ab.
+L8 | 071 | Kjo leje ndërtimi është lëshue nga komuna. | Diese Baugenehmigung wurde von der Gemeinde ausgestellt.
+L8 | 072 | Prandaj, mos u tut ore se s'ka gja! | Deshalb, hab keine Angst, Alter, es ist nichts!
+L8 | 073 | Ndërkohë, djali i tyre shërben n'ushtrinë e Kosovës. | Inzwischen dient ihr Sohn in der Kosovo-Armee.
+L8 | 074 | Me i dhânë besën dikujt asht nji nder i madh. | Jemandem sein Ehrenwort zu geben, ist eine große Ehre.
+L8 | 075 | Pasha Zotin, në këtë shtëpi gjithmonë ke mirëseardhje! | Ich schwöre bei Gott, in diesem Haus bist du immer willkommen!
+L8 | 076 | Megjithatë, procedura gjyqësore zgjati më shumë se një vit. | Trotzdem dauerte das Gerichtsverfahren länger als ein Jahr.
+L8 | 077 | Pasaporta juaj duhet me u rinue përpara udhëtimit. | Ihr Reisepass muss vor der Reise erneuert werden.
+L8 | 078 | Prandaj, më mirë vonë se kurrë për me kërkue falje. | Deshalb, besser spät als nie, um Vergebung zu bitten.
+L8 | 079 | Ndërkohë, brezi i ri po mëson gjuhën shqipe me shumë dashuni. | Inzwischen lernt die junge Generation die albanische Sprache mit viel Liebe.
+L8 | 080 | Kanuni i Lekë Dukagjinit asht baza e traditës sonë. | Der Kanun von Lekë Dukagjini ist die Basis unserer Tradition.
+L8 | 081 | Kjo çështje u zgjidh n'mënyrë paqësore ndërmjet familjeve. | Diese Angelegenheit wurde friedlich zwischen den Familien gelöst.
+L8 | 082 | Megjithatë, unë ende kam shpresë për nji t'ardhën më të mirë. | Trotzdem habe ich noch Hoffnung auf eine bessere Zukunft.
+L8 | 083 | Pasha Zotin, për nder të familjes sonë! Kështu asht! | Ich schwöre bei Gott, bei der Ehre unserer Familie! So ist es!
+L8 | 084 | Prandaj, mos i lsho fjalët n'erë se kanë peshë. | Deshalb, lass die Worte nicht im Wind verwehen, denn sie haben Gewicht.
+L8 | 085 | Ndërkohë, tregu i Kosovës po zhvillohet dita-ditës. | Inzwischen entwickelt sich der Kosovo-Markt Tag für Tag.
+L8 | 086 | Amanet, bre, këtë send s'mun me e lanë askund! | Pass auf, Mann, diesen Gegenstand darfst du nirgends liegen lassen!
+L8 | 087 | Me mbajtë besën deri n'fund asht nji virtyt i madh. | Das Ehrenwort bis zum Ende zu halten, ist eine große Tugend.
+L8 | 088 | Megjithatë, ai vazhdoi me mohue çdo përgjegjësi. | Trotzdem fuhr er fort, jede Verantwortung zu leugnen.
+L8 | 089 | Dëshmia e tij nuk u pranue nga gjykata. | Seine Aussage wurde vom Gericht nicht angenommen.
+L8 | 090 | Prandaj, rri n'besë me ata që t'duan. | Deshalb, bleib treu zu denen, die dich lieben.
+L8 | 091 | Ndërkohë, shiu po bjen dhe unë s'kam çadër. | Inzwischen regnet es und ich habe keinen Schirm.
+L8 | 092 | Me prishë besën asht mëkati më i madh n'kulturën tonë. | Das Ehrenwort zu brechen, ist die größte Sünde in unserer Kultur.
+L8 | 093 | Pasha Zotin, kam me t'pritë n'shtëpinë time si mik! | Ich schwöre bei Gott, ich werde dich in meinem Haus als Gast empfangen!
+L8 | 094 | Kjo marrëveshje duhet me u nënshkrue para noterit. | Diese Vereinbarung muss vor dem Notar unterschrieben werden.
+L8 | 095 | Megjithatë, shumë qytetarë nuk janë të kënaqun me qeverinë. | Trotzdem sind viele Bürger nicht zufrieden mit der Regierung.
+L8 | 096 | Prandaj, gjithmonë ki nji besë për nji mik. | Deshalb, hab immer ein Ehrenwort für einen Freund bereit.
+L8 | 097 | Ndërkohë, industria e teknologjisë po rritet në Kosovë. | Inzwischen wächst die Technologieindustrie im Kosovo.
+L8 | 098 | N'besë të Zotit, kjo asht e vërteta! | Bei Gottes Treue, das ist die Wahrheit!
+L8 | 099 | Me dalë n'skenë më në fund rezultati i punës s'me! | Endlich ist das Ergebnis meiner Arbeit zum Vorschein gekommen!
+L8 | 100 | Megjithatë, gjoba u zvogëlue për shkak të rrethanave lehtësuese. | Trotzdem wurde die Geldstrafe wegen mildernder Umstände reduziert.
+L8 | 101 | Kjo ish pronë shtetërore, por tash asht privatizue. | Dies war Staatseigentum, aber jetzt ist es privatisiert worden.
+L8 | 102 | Prandaj, respekto besën se ajo asht pasuria jote më e madhe. | Deshalb, respektiere das Ehrenwort, denn es ist dein größter Reichtum.
+L8 | 103 | Ndërkohë, dëndërit po përgatiten për dasmën e madhe. | Inzwischen bereiten sich die Hochzeitsgäste auf die große Hochzeit vor.
+L8 | 104 | Pasha Zotin, këtë sekret e marr me vete n'varr! | Ich schwöre bei Gott, dieses Geheimnis nehme ich mit ins Grab!
+L8 | 105 | Çdo kontratë pune duhet me u regjistrue n'zyrën përkatëse. | Jeder Arbeitsvertrag muss beim entsprechenden Amt registriert werden.
+L8 | 106 | Megjithatë, ai s'pranoi me paguë gjobën e caktueme. | Trotzdem weigerte er sich, die festgesetzte Geldstrafe zu bezahlen.
+L8 | 107 | Amanet, mori, qysh po rritet kjo çikë! | Pass auf, Mädchen, wie dieses Mädchen heranwächst!
+L8 | 108 | Me i marrë mendtë po më bon kjo punë pa fund! | Diese endlose Arbeit macht mich verrückt!
+L8 | 109 | Prandaj, ruaje nderin tënd si sytë e ballit! | Deshalb, bewahre deine Ehre wie deine Augäpfel!
+L8 | 110 | Ndërkohë, gjenerata e re po tregon interes për Kanunin e vjetër. | Inzwischen zeigt die junge Generation Interesse am alten Kanun.
+L8 | 111 | Besa e dhânë e ka peshën më të madhe se çdo ligj njerëzor. | Ein gegebenes Ehrenwort hat mehr Gewicht als jedes menschliche Gesetz.
+L8 | 112 | Megjithatë, mos e harro kurrë prej kah vjen fisit tënd. | Trotzdem, vergiss niemals, woher dein Clan kommt.
+L8 | 113 | Kjo pronë u trashëgue brez pas brezi për më shumë se 200 vjet. | Dieses Eigentum wurde Generation für Generation über mehr als 200 Jahre vererbt.
+L8 | 114 | Pasha Zotin, unë kam me dalë n'sipërfaqe të vërtetën! | Ich schwöre bei Gott, ich werde die Wahrheit ans Licht bringen!
+══════════════════════════════════════════════════
+LEVEL 9 — EXPERTE — Komplexe Satzgefüge, Politik, Wissenschaft, formelle Sprache
+114 Sätze
+══════════════════════════════════════════════════
+
+L9 | 001 | Qeveria që ka premtu përparim, duhet me tregu rezultate konkrete nëse do me fitu besimin e popullit. | Die Regierung, die Fortschritt versprochen hat, muss konkrete Ergebnisse zeigen, wenn sie das Vertrauen des Volkes gewinnen will.
+L9 | 002 | Edhe pse kemi pasur vështirësi të shumta, na kurrë s'kemi humb shpresën për nji t'ardhën më të mirë. | Obwohl wir viele Schwierigkeiten hatten, haben wir nie die Hoffnung auf eine bessere Zukunft verloren.
+L9 | 003 | Shkencëtarët që studiojnë ndryshimin klimatik, kanë ardhë në përfundim se duhet me veprue menjëherë para se të jetë vonë. | Die Wissenschaftler, die den Klimawandel erforschen, sind zu dem Schluss gekommen, dass sofort gehandelt werden muss, bevor es zu spät ist.
+L9 | 004 | Përderisa demokracia kërkon pjesëmarrjen e të gjithëve, ne duhet me dalë me votue në çdo zgjedhje, sepse çdo zë ka rëndësi. | Solange die Demokratie die Teilnahme aller erfordert, müssen wir bei jeder Wahl wählen gehen, denn jede Stimme zählt.
+L9 | 005 | Nëse don të kuptosh realitetin kompleks të Kosovës, duhet me studjue historinë e saj që nga kohët e lashta deri në ditët e sotme. | Wenn du die komplexe Realität des Kosovo verstehen willst, musst du seine Geschichte von der Antike bis heute studieren.
+L9 | 006 | Artikulli që botoi ajo gazetare e njohun, analizon ndikimin e politikës ndërkombëtare në zhvillimin ekonomik të rajonit tonë. | Der Artikel, den diese bekannte Journalistin veröffentlichte, analysiert den Einfluss der internationalen Politik auf die wirtschaftliche Entwicklung unserer Region.
+L9 | 007 | Në universitetin e Prishtinës, studentët që studiojnë drejtësinë, mësojnë jo vetëm ligjet moderne, por edhe Kanunin tradicional shqiptar. | An der Universität Prishtina lernen die Studenten, die Jura studieren, nicht nur die modernen Gesetze, sondern auch den traditionellen albanischen Kanun.
+L9 | 008 | Edhe pse kushtet ekonomike janë të vështira, ai ka vendosë me investue në arsim, sepse e di që dituria asht e vetmja rrugë për sukses. Obwohl die wirtschaftlichen Bedingungen schwierig sind, hat er beschlossen, | in Bildung zu investieren, weil er weiß, dass Wissen der einzige Weg zum Erfolg ist. Sipas raportit të fundit të Kombeve të Bashkueme, niveli i ndotjes së ajrit
+L9 | 009 | në qytetet kryesore të rajonit ka tejkalu çdo standard ndërkombëtar. | Laut dem letzten Bericht der Vereinten Nationen hat die Luftverschmutzung in den Hauptstädten der Region jeden internationalen Standard überschritten.
+L9 | 010 | Nëse analizojmë statistikat e fundit për papunësi, vërejmë se situata asht përmirësue, por ende s'asht ajo që dëshirojmë. | Wenn wir die letzten Arbeitslosenstatistiken analysieren, stellen wir fest, dass sich die Situation verbessert hat, aber noch nicht das ist, was wir wünschen.
+L9 | 011 | Gjyqtari, pasi i dëgjoi të gjitha palët me vëmendje, mori nji vendim që bazonte në ligj dhe në drejtësi, edhe pse nuk ishte popullor. | Der Richter, nachdem er alle Parteien aufmerksam angehört hatte, traf eine Entscheidung, die auf Gesetz und Gerechtigkeit basierte, obwohl sie nicht populär war.
+L9 | 012 | Shpresojmë se marrëveshja e paqes që u nënshkrua në Bruksel, ka me sjellë stabilitet të qëndrueshëm për tërë Ballkanin Perëndimor. | Wir hoffen, dass das Friedensabkommen, das in Brüssel unterzeichnet wurde, dauerhafte Stabilität für den gesamten Westbalkan bringen wird.
+L9 | 013 | Një shoqëri që nuk investon në arsim dhe në shkencë, asht e dënueme me mbetje prapa në zhvillimin global të botës moderne. | Eine Gesellschaft, die nicht in Bildung und Wissenschaft investiert, ist dazu verurteilt, in der globalen Entwicklung der modernen Welt zurückzubleiben.
+L9 | 014 | Edhe pse shumë ekspertë kanë paralajmërue për pasojat e ndryshimit klimatik, akoma ka nga ata që nuk i marrin seriozisht këto paralajmërime. | Obwohl viele Experten vor den Folgen des Klimawandels gewarnt haben, gibt es immer noch diejenigen, die diese Warnungen nicht ernst nehmen.
+L9 | 015 | Profesori ynë i historisë, i cili ka shkrue disa libra për identitetin kombëtar, na shpjegoi se si tradita dhe moderniteti mund të bashkëjetojnë. | Unser Geschichtsprofessor, der mehrere Bücher über die nationale Identität geschrieben hat, erklärte uns, wie Tradition und Moderne koexistieren können.
+L9 | 016 | Nëse don me kuptue letërsinë e Ismail Kadaresë, duhet me njohë thellë historinë dhe mitologjinë shqiptare që ndërthuren në veprat e tij. | Wenn du die Literatur von Ismail Kadare verstehen willst, musst du die albanische Geschichte und Mythologie kennen, die sich in seinen Werken verflechten.
+L9 | 017 | Pasi të keni plotësue formularin e aplikacionit, ju lutem dorëzojeni në zyrën e regjistrimit bashkë me dokumentat e nevojshme. | Nachdem Sie das Antragsformular ausgefüllt haben, reichen Sie es bitte im Registrierungsbüro zusammen mit den erforderlichen Dokumenten ein.
+L9 | 018 | Reforma në sistemin gjyqësor, të cilën e ka premtue qeveria e re, asht e domosdoshme për me rritë besimin e qytetarëve n' institucione. | Die Reform des Justizsystems, die die neue Regierung versprochen hat, ist notwendig, um das Vertrauen der Bürger in die Institutionen zu stärken.
+L9 | 019 | Sa më shumë që thellohemi në studimin e gjuhës shqipe, aq më shumë na habit pasuria e saj leksikore dhe struktura gramatikore. | Je tiefer wir uns in das Studium der albanischen Sprache vertiefen, desto mehr erstaunt uns ihr lexikalischer Reichtum und ihre grammatikalische Struktur.
+L9 | 020 | Nëse qeveria nuk ndërmerr masa konkrete për me luftu korrupsionin, investitorët e huaj s'do të kenë besim për me investue në vend. | Wenn die Regierung keine konkreten Maßnahmen zur Korruptionsbekämpfung ergreift, werden ausländische Investoren kein Vertrauen haben, um im Land zu investieren.
+L9 | 021 | Ai studim shkencor, i cili u publikua në nji revistë ndërkombëtare, tregon se ndryshimet klimatike po ndikojnë direkt në bujqësinë e rajonit. | Jene wissenschaftliche Studie, die in einer internationalen Zeitschrift veröffentlicht wurde, zeigt, dass der Klimawandel die Landwirtschaft der Region direkt beeinflusst.
+L9 | 022 | Edhe pse shqipja asht nji gjuhë e lashtë, ajo vazhdon me u zhvillue dhe me iu përshtatë nevojave të botës moderne teknologiike. | Obwohl Albanisch eine alte Sprache ist, entwickelt sie sich weiter und passt sich den Bedürfnissen der modernen technologischen Welt an.
+L9 | 023 | Integrimi i Kosovës në Bashkimin Evropian, për të cilin shumë breza kanë ëndërrue, kërkon reforma të thella në të gjitha sektorët. | Die Integration des Kosovo in die Europäische Union, von der viele Generationen geträumt haben, erfordert tiefgreifende Reformen in allen Sektoren.
+L9 | 024 | Nëse don me pasë sukses në biznesin tënd, nuk mjafton veç me puntë fort — duhet me pasë edhe nji strategji të qartë dhe me marrë vendime të guximshme. | Wenn du in deinem Geschäft erfolgreich sein willst, reicht es nicht, nur hart zu arbeiten — du brauchst auch eine klare Strategie und musst mutige Entscheidungen treffen.
+L9 | 025 | Politika e jashtme e shtetit tonë, e cila bazohet në bashkëpunim rajonal, ka për qëllim me forcue marrëdhëniet me fqinjët dhe me garantue paqen. | Die Außenpolitik unseres Staates, die auf regionaler Zusammenarbeit basiert, hat das Ziel, die Beziehungen zu den Nachbarn zu stärken und den Frieden zu garantieren.
+L9 | 026 | Pasi mbarova studimet master në Gjermani, u ktheva në Kosovë me nji vizion të ri për me kontribuue në zhvillimin e vendit tim. | Nachdem ich mein Masterstudium in Deutschland abgeschlossen hatte, kehrte ich mit einer neuen Vision in den Kosovo zurück, um zur Entwicklung meines Landes beizutragen.
+L9 | 027 | Shumë të rinj që studiojnë jashtë vendit, përballen me sfidën e ruajtjes së identitetit të tyre kulturor, ndërkohë që përshtaten me një kulturë të re. | Viele junge Leute, die im Ausland studieren, stehen vor der Herausforderung, ihre kulturelle Identität zu bewahren, während sie sich an eine neue Kultur anpassen.
+L9 | 028 | Nëse nuk ndërmarrim masa urgjente për me mbrojtë mjedisin, gjeneratat e ardhshme do të trashëgojnë nji planet të dëmtue në mënyrë të pariparueshme. | Wenn wir keine dringenden Maßnahmen zum Umweltschutz ergreifen, werden die kommenden Generationen einen irreparabel geschädigten Planeten erben.
+L9 | 029 | Deklarata e presidentit, të cilën e ndoqën miliona njerëz në televizion, theksoi rëndësinë e bashkimit kombëtar në momente të vështira. | Die Erklärung des Präsidenten, die Millionen Menschen im Fernsehen verfolgten, betonte die Bedeutung der nationalen Einheit in schwierigen Momenten.
+L9 | 030 | Kjo tezë doktorate, e cila trajton çështjen e identitetit në letërsinë bashkëkohore shqiptare, ka marrë vlerësime pozitive nga profesorët. | Diese Doktorarbeit, die die Frage der Identität in der zeitgenössischen albanischen Literatur behandelt, hat positive Bewertungen von den Professoren erhalten.
+L9 | 031 | Sipas ekspertëve të ekonomisë, zhvillimi i sektorit privat asht çelësi për me zvogëlue papunësinë dhe me përmirësue standardin e jetesës. | Laut Wirtschaftsexperten ist die Entwicklung des Privatsektors der Schlüssel zur Verringerung der Arbeitslosigkeit und zur Verbesserung des Lebensstandards.
+L9 | 032 | Edhe pse teknologjia moderne na ka lehtësue shumë aspekte të jetës, ajo gjithashtu ka sjellë sfida të reja që kërkojnë zgjidhje kreative. | Obwohl die moderne Technologie uns viele Aspekte des Lebens erleichtert hat, hat sie auch neue Herausforderungen gebracht, die kreative Lösungen erfordern.
+L9 | 033 | Nëse do me apliku për këtë bursë, duhet me dorëzue nji ese të shkrueme në gjuhën angleze dhe dy letra rekomandimi nga profesorët. | Wenn du dich für dieses Stipendium bewerben willst, musst du einen auf Englisch verfassten Aufsatz und zwei Empfehlungsschreiben von Professoren einreichen.
+L9 | 034 | Ai film dokumentar, që trajtonte historinë e Kosovës gjatë luftës së fundit, u shfaq në shumë festivale ndërkombëtare dhe fitoi çmime të rëndësishme. | Jener Dokumentarfilm, der die Geschichte des Kosovo während des letzten Krieges behandelte, wurde auf vielen internationalen Festivals gezeigt und gewann wichtige Preise.
+L9 | 035 | Pasi të keni lexue me kujdes kontratën, ju lutem firmoseni në faqen e fundit dhe ktheni nji kopje në zyrën tonë brenda pesë ditëve. | Nachdem Sie den Vertrag sorgfältig gelesen haben, unterschreiben Sie bitte auf der letzten Seite und geben Sie eine Kopie innerhalb von fünf Tagen in unserem Büro ab.
+L9 | 036 | Shkolla jonë, e cila ka nji traditë të gjatë në edukimin e brezave, ka nisë nji program të ri për talente të reja në fushën e teknologjisë. | Unsere Schule, die eine lange Tradition in der Bildung von Generationen hat, hat ein neues Programm für junge Talente im Bereich Technologie gestartet.
+L9 | 037 | Diplomatët kosovarë që punojnë në misione të ndryshme nëpër botë, kanë nji përgjegjësi të madhe për me përfaqësue vendin tonë me dinjitet. | Die kosovarischen Diplomaten, die in verschiedenen Missionen auf der ganzen Welt arbeiten, haben eine große Verantwortung, unser Land mit Würde zu vertreten.
+L9 | 038 | Nëse shqyrtojmë me kujdes statistikat e fundit, vërejmë se emigracioni i të rinjve ka rënë në krahasim me vitet e kaluara. | Wenn wir die letzten Statistiken sorgfältig prüfen, stellen wir fest, dass die Auswanderung der Jugend im Vergleich zu den Vorjahren zurückgegangen ist.
+L9 | 039 | Edhe pse Kosova asht nji vend i ri në hartën politike të botës, ajo ka nji histori të pasur që shtrihet mijëra vjet prapa në kohë. | Obwohl der Kosovo ein junges Land auf der politischen Landkarte der Welt ist, hat er eine reiche Geschichte, die Jahrtausende zurückreicht.
+L9 | 040 | Artikulli kushtetues që garanton lirinë e medias, duhet me u mbrojtë me çdo kusht, sepse përbën bazën e nji shoqërie demokratike. | Der Verfassungsartikel, der die Pressefreiheit garantiert, muss um jeden Preis geschützt werden, denn er bildet die Grundlage einer demokratischen Gesellschaft.
+L9 | 041 | Politikanët që premtojnë ndryshime pa pasur nji plan konkret, zakonisht nuk arrijnë me realizue asgjë, sepse u mungon vizioni dhe vullneti. | Politiker, die Veränderungen versprechen, ohne einen konkreten Plan zu haben, erreichen gewöhnlich nichts, weil ihnen die Vision und der Wille fehlen.
+L9 | 042 | Globalizimi, për të cilin flitet kaq shumë kohët e fundit, ka sjellë mundësi të reja, por edhe rreziqe për kulturat tradicionale. | Die Globalisierung, von der in letzter Zeit so viel gesprochen wird, hat neue Chancen, aber auch Risiken für traditionelle Kulturen gebracht.
+L9 | 043 | Nëse don me shkëlqye në fushën e programimit, duhet me mësue vazhdimisht dhe me ndjekë zhvillimet më të reja të teknologjisë. | Wenn du im Bereich Programmierung glänzen willst, musst du ständig lernen und die neuesten technologischen Entwicklungen verfolgen.
+L9 | 044 | Sipas mendimit tim, zgjidhja më e mirë për këtë problem asht dialoga konstruktiv ndërmjet palëve, në vend të konfrontimit dhe akuzave. | Meiner Meinung nach ist die beste Lösung für dieses Problem ein konstruktiver Dialog zwischen den Parteien, anstatt Konfrontation und Beschuldigungen.
+L9 | 045 | Pasi përfundoi lufta, populli i Kosovës u përball me sfidën e rindërtimit të vendit dhe të krijimit të institucioneve të reja shtetërore. | Nachdem der Krieg vorbei war, stand das Volk des Kosovo vor der Herausforderung, das Land wieder aufzubauen und neue staatliche Institutionen zu schaffen.
+L9 | 046 | Studentët që marrin pjesë në këtë seminar ndërkombëtar, kanë mundësinë me shkëmbye përvoja me kolegë nga vende të ndryshme të botës. | Die Studenten, die an diesem internationalen Seminar teilnehmen, haben die Möglichkeit, Erfahrungen mit Kollegen aus verschiedenen Ländern der Welt auszutauschen.
+L9 | 047 | Nëse don të kuptosh thelbin e filozofisë shqiptare, duhet me studjue veprat e Shën Gjergj Fishtës dhe të Pashko Vasës. | Wenn du das Wesen der albanischen Philosophie verstehen willst, musst du die Werke von Gjergj Fishta und Pashko Vasa studieren.
+L9 | 048 | Qeveria ka ndërmarrë masa të rëndësishme për me përmirësue klimën e biznesit, gjë që ka sjellë rritje të investimeve të huaja direkte. | Die Regierung hat wichtige Maßnahmen zur Verbesserung des Geschäftsklimas ergriffen, was zu einem Anstieg der ausländischen Direktinvestitionen geführt hat.
+L9 | 049 | Edhe pse jam rritë në Gjermani, unë kurrë s'e kam harru gjuhën time amtare, sepse prindit e mi kanë folë gjithmonë shqip në shtëpi. | Obwohl ich in Deutschland aufgewachsen bin, habe ich nie meine Muttersprache vergessen, weil meine Eltern zu Hause immer Albanisch gesprochen haben.
+L9 | 050 | Koncepti i Besës, i cili asht aq i rëndësishëm në kulturën shqiptare, nënkupton nji angazhim moral që s'mun të thyhet për asnjë çmim. | Das Konzept der Besa, das in der albanischen Kultur so wichtig ist, bedeutet eine moralische Verpflichtung, die um keinen Preis gebrochen werden kann.
+L9 | 051 | Reforma në arsim, për të cilën debatohet prej vitesh, kërkon nji qasje gjithëpërfshirëse që përfshin kurrikulën, infrastrukturën dhe trajnimin e mësimdhënësve. | Die Bildungsreform, über die seit Jahren debattiert wird, erfordert einen umfassenden Ansatz, der das Curriculum, die Infrastruktur und die Lehrerausbildung umfasst.
+L9 | 052 | Nëse nuk investojmë në energjinë e ripërtëritshme, do të përballemi me nji krizë energjetike që do të ndikojë në të gjithë ekonominë. | Wenn wir nicht in erneuerbare Energien investieren, werden wir mit einer Energiekrise konfrontiert sein, die die gesamte Wirtschaft beeinträchtigen wird.
+L9 | 053 | Ai shkrimtar i madh, veprat e të cilit janë përkthye në shumë gjuhë të botës, e ka përshkrue me mjeshtëri tragjedinë dhe shpresën e popullit shqiptar. | Jener große Schriftsteller, dessen Werke in viele Sprachen der Welt übersetzt wurden, hat die Tragödie und die Hoffnung des albanischen Volkes meisterhaft beschrieben.
+L9 | 054 | Pasi mbarova takimin me përfaqësuesit e Bankës Botërore, kuptova se zhvillimi i qëndrueshëm kërkon bashkëpunimin e të gjithë sektorëve. | Nachdem ich das Treffen mit den Vertretern der Weltbank beendet hatte, verstand ich, dass nachhaltige Entwicklung die Zusammenarbeit aller Sektoren erfordert.
+L9 | 055 | Edhe pse shumë njerëz mendojnë se diaspora nuk luan rol të rëndësishëm, statistikat tregojnë se remitencat e saj kanë nji ndikim të madh në ekonominë kosovare. | Obwohl viele Menschen denken, dass die Diaspora keine wichtige Rolle spielt, zeigen Statistiken, dass ihre Überweisungen einen großen Einfluss auf die kosovarische Wirtschaft haben.
+L9 | 056 | Në Analet e Historisë Shqiptare shkruhet se gjuhë shqipe asht aq e lashtë sa vetë ilirët, paraardhësit tanë të drejtpërdrejtë. | In den Annalen der albanischen Geschichte steht geschrieben, dass die albanische Sprache so alt ist wie die Illyrer selbst, unsere direkten Vorfahren.
+L9 | 057 | Organizatat joqeveritare që merren me mbrojtjen e të drejtave të njeriut, kanë raportue për përmirësime të dukshme në këtë fushë gjatë vitit të fundit. | Die Nichtregierungsorganisationen, die sich mit dem Schutz der Menschenrechte befassen, haben im letzten Jahr deutliche Verbesserungen in diesem Bereich gemeldet.
+L9 | 058 | Nëse don me shkue në Gjermani për me studjue, duhet me mësue gjermanishten në nivelin B2 dhe me sigurue nji vend në universitet. | Wenn du nach Deutschland gehen willst, um zu studieren, musst du Deutsch auf B2-Niveau lernen und dir einen Platz an der Universität sichern.
+L9 | 059 | Përkundër vështirësive ekonomike, sipërmarrësit kosovarë kanë tregue nji qëndresë dhe kreativitet të jashtëzakonshëm në bizneset e tyre. | Trotz wirtschaftlicher Schwierigkeiten haben kosovarische Unternehmer eine außergewöhnliche Widerstandsfähigkeit und Kreativität in ihren Geschäften gezeigt.
+L9 | 060 | Instituti i Historisë në Prishtinë ka botue nji studim të ri që hedh dritë mbi periudhën e ilirëve dhe lidhjen e tyre me shqiptarët e sotëm. | Das Institut für Geschichte in Prishtina hat eine neue Studie veröffentlicht, die Licht auf die Periode der Illyrer und ihre Verbindung zu den heutigen Albanern wirft.
+L9 | 061 | Nëse qytetarët nuk janë të informue për të drejtat e tyre, ata s'mun me i kërkue ato — prandaj edukimi qytetar asht thelbësor për demokracinë. | Wenn die Bürger nicht über ihre Rechte informiert sind, können sie diese nicht einfordern — daher ist die staatsbürgerliche Bildung für die Demokratie wesentlich.
+L9 | 062 | Pasi përfundoi dorëshkrimi i romanit, autori kaloi nji vit tjetër duke e redaktue dhe duke kërkue botuesin e duhur për veprën e tij. | Nachdem das Manuskript des Romans fertig war, verbrachte der Autor ein weiteres Jahr damit, es zu redigieren und den richtigen Verlag für sein Werk zu suchen.
+L9 | 063 | Dialogu ndërmjet komuniteteve të ndryshme etnike në Kosovë, edhe pse ndonjëherë i vështirë, asht i domosdoshëm për paqe të qëndrueshme. | Der Dialog zwischen den verschiedenen ethnischen Gemeinschaften im Kosovo ist, obwohl manchmal schwierig, für einen dauerhaften Frieden unerlässlich.
+L9 | 064 | Nëse analizojmë zhvillimet e fundit në tregjet globale, vërejmë se çmimet e ushqimeve janë rritë ndjeshëm për shkak të inflacionit. | Wenn wir die letzten Entwicklungen auf den globalen Märkten analysieren, stellen wir fest, dass die Lebensmittelpreise aufgrund der Inflation deutlich gestiegen sind.
+L9 | 065 | Ai profesor i nderuar, të cilin e kujtojmë me shumë respekt, na ka mësue se ditunia asht arma më e fortë për me ndryshue botën. | Jener geehrte Professor, an den wir mit großem Respekt zurückdenken, hat uns gelehrt, dass Wissen die stärkste Waffe ist, um die Welt zu verändern.
+L9 | 066 | Industria e turizmit në Kosovë, e cila ka nji potencial të madh të pashfrytëzue, mund të bëhet nji shtyllë e rëndësishme e ekonomisë sonë. | Die Tourismusindustrie im Kosovo, die ein großes ungenutztes Potenzial hat, könnte zu einer wichtigen Säule unserer Wirtschaft werden.
+L9 | 067 | Edhe pse shumë prej nesh jetojnë larg njëri-tjetrit, lidhja jonë shpirtërore me atdhe mbetet po aq e fortë, nëse jo edhe më e fortë. | Obwohl viele von uns weit voneinander entfernt leben, bleibt unsere seelische Verbindung zur Heimat genauso stark, wenn nicht sogar stärker.
+L9 | 068 | Pasi përgatiti projekt-buxhetin për vitin e ardhshëm, ministri i financave e paraqiti atë para komisionit parlamentar për diskutim. | Nachdem er den Haushaltsentwurf für das nächste Jahr vorbereitet hatte, legte der Finanzminister ihn dem parlamentarischen Ausschuss zur Diskussion vor.
+L9 | 069 | Shkencëtarët që merren me studimin e trurit të njeriut, kanë zbulue se neuroplasticiteti mund të ndihmojë në riparimin e dëmeve neurologjike. | Wissenschaftler, die sich mit der Erforschung des menschlichen Gehirns befassen, haben entdeckt, dass Neuroplastizität bei der Reparatur neurologischer Schäden helfen kann.
+L9 | 070 | Nëse don me shkrue nji roman të suksesshëm, nuk mjafton me pasë veç talent — duhet edhe me lexu shumë e me praktikue çdo ditë. | Wenn du einen erfolgreichen Roman schreiben willst, reicht nicht nur Talent — du musst auch viel lesen und jeden Tag üben.
+L9 | 071 | Vendimi i Gjykatës Kushtetuese, i cili pritet të shpallet javën tjetër, do të ketë pasoja të rëndësishme për sistemin ligjor të vendit. | Die Entscheidung des Verfassungsgerichts, die nächste Woche verkündet werden soll, wird wichtige Folgen für das Rechtssystem des Landes haben.
+L9 | 072 | Edhe pse teknologjia e inteligjencës artificiale po përparon me shpejtësi, ne duhet me reflektue për aspektet etike të përdorimit të saj. | Obwohl die Technologie der künstlichen Intelligenz rasant voranschreitet, müssen wir über die ethischen Aspekte ihrer Nutzung nachdenken.
+L9 | 073 | Liri dhe përgjegjësi janë dy anë të së njëjtës medalje, prandaj kush kërkon liri pa përgjegjësi, nuk e ka kuptue thelbin e demokracisë. | Freiheit und Verantwortung sind zwei Seiten derselben Medaille, deshalb hat, wer Freiheit ohne Verantwortung fordert, das Wesen der Demokratie nicht verstanden.
+L9 | 074 | Pasi u ktheva nga konferenca ndërkombëtare në Vjenë, shkrova nji raport të detajuar për të gjitha zbulimet e reja në fushën e mjekësisë. | Nachdem ich von der internationalen Konferenz in Wien zurückgekehrt war, schrieb ich einen detaillierten Bericht über alle neuen Entdeckungen im Bereich der Medizin.
+L9 | 075 | Brezi i ri i artistëve kosovarë, të cilët po eksperimentojnë me forma të reja të shprehjes, ka fillue me tërheqë vëmendjen e kritikës ndërkombëtare. | Die junge Generation kosovarischer Künstler, die mit neuen Ausdrucksformen experimentieren, hat begonnen, die Aufmerksamkeit der internationalen Kritik auf sich zu ziehen.
+L9 | 076 | Nëse don me ndërtue nji shoqëri të drejtë, duhet me fillue me barazinë në arsim, sepse ajo asht themeli i çdo zhvillimi shoqëror. | Wenn du eine gerechte Gesellschaft aufbauen willst, musst du mit der Gleichheit in der Bildung beginnen, denn sie ist das Fundament jeder gesellschaftlichen Entwicklung.
+L9 | 077 | Pavarësisht sfidave të shumta, populli i Kosovës ka tregue nji forcë të jashtëzakonshme për me kapërcye pengesat dhe për me ecur përpara. | Trotz der zahlreichen Herausforderungen hat das Volk des Kosovo eine außergewöhnliche Stärke gezeigt, Hindernisse zu überwinden und voranzuschreiten.
+L9 | 078 | Profesoresha e letërsisë, e cila ka doktoratë për veprat e Kadaresë, na shpjegoi si autori përdor simbolikën për me përshkrue realitetin shqiptar. | Die Literaturprofessorin, die einen Doktortitel über die Werke Kadares hat, erklärte uns, wie der Autor Symbolik verwendet, um die albanische Wirklichkeit zu beschreiben.
+L9 | 079 | Kur flasim për identitetin kombëtar, duhet me kuptue se ai asht nji koncept dinamik që ndryshon dhe evoluon me kalimin e kohës. | Wenn wir über die nationale Identität sprechen, müssen wir verstehen, dass sie ein dynamisches Konzept ist, das sich im Laufe der Zeit verändert und weiterentwickelt.
+L9 | 080 | Pasi mbaroi diskutimi i nxehtë në parlament, deputetët votuan për ligjin e ri që rregullon statusin e nëpunësve civilë. | Nach der hitzigen Diskussion im Parlament stimmten die Abgeordneten für das neue Gesetz, das den Status der Beamten regelt.
+L9 | 081 | Nëse don me kuptue muzikën tradicionale shqiptare, duhet me dëgjue lahutën dhe çiftelinë, instrumente që tregojnë historinë e trimave të vjetër. | Wenn du die traditionelle albanische Musik verstehen willst, musst du die Lahuta und die Çifteli hören, Instrumente, die die Geschichte der alten Helden erzählen.
+L9 | 082 | Organizata Botërore e Shëndetësisë ka rekomandue masa të reja për me përmirësue sistemin shëndetësor në vendet në zhvillim. | Die Weltgesundheitsorganisation hat neue Maßnahmen empfohlen, um das Gesundheitssystem in Entwicklungsländern zu verbessern.
+L9 | 083 | Edhe pse sfidat janë të mëdha, ne nuk duhet me harru se çdo vështirësi sjell me vete mundësi të reja për rritje dhe zhvillim personal. | Obwohl die Herausforderungen groß sind, dürfen wir nicht vergessen, dass jede Schwierigkeit neue Möglichkeiten für persönliches Wachstum und Entwicklung mit sich bringt.
+L9 | 084 | Ai shkencëtar i ri, kërkimet e të cilit fokusohen në energjinë diellore, ka fitu nji grant prestigjioz për me vazhdue studimet e tij. | Jener junge Wissenschaftler, dessen Forschung sich auf Solarenergie konzentriert, hat ein prestigeträchtiges Stipendium gewonnen, um seine Studien fortzusetzen.
+L9 | 085 | Pasi mora pjesë në atë forum për të drejtat e njeriut, kuptova se lufta për drejtësi asht nji proces që kurrë nuk mbaron. | Nachdem ich an jenem Forum für Menschenrechte teilgenommen hatte, verstand ich, dass der Kampf für Gerechtigkeit ein Prozess ist, der nie endet.
+L9 | 086 | Trashëgimia kulturore e Kosovës, e cila përfshin monumente të periudhave të ndryshme historike, duhet me u mbrojtë për brezat e ardhshëm. | Das kulturelle Erbe des Kosovo, das Denkmäler verschiedener historischer Perioden umfasst, muss für die kommenden Generationen geschützt werden.
+L9 | 087 | Nëse do me kontribuue në paqen botërore, fillo me respektue dhe me kuptue kulturat e tjera që janë të ndryshme nga e jotja. | Wenn du zum Weltfrieden beitragen willst, fang damit an, andere Kulturen, die anders sind als deine eigene, zu respektieren und zu verstehen.
+L9 | 088 | Edhe pse shumë njerëz e konsiderojnë shqipen nji gjuhë të vështirë, ajo ka nji strukturë logjike dhe të rregullt që e bën më të lehtë për me u mësue nga ata që kanë vullnet. | Obwohl viele Menschen Albanisch für eine schwierige Sprache halten, hat es eine logische und regelmäßige Struktur, die es für diejenigen, die den Willen haben, leichter zu lernen macht.
+L9 | 089 | Procesi i anëtarësimit në Bashkimin Evropian, për të cilin Kosova punon prej vitesh, kërkon plotësimin e shumë kushteve dhe kritereve. | Der Beitrittsprozess zur Europäischen Union, an dem der Kosovo seit Jahren arbeitet, erfordert die Erfüllung vieler Bedingungen und Kriterien.
+L9 | 090 | Nëse trajneri ynë nuk ndryshon strategjinë për ndeshjen e ardhshme, skuadra jonë rrezikon me humbë edhe në këtë kampionat të rëndësishëm. | Wenn unser Trainer die Strategie für das nächste Spiel nicht ändert, riskiert unsere Mannschaft, auch in dieser wichtigen Meisterschaft zu verlieren.
+L9 | 091 | Ai diplomat i përvojshëm, të cilin e respektojnë të gjithë për integritetin e tij, ka arritë me ndërmjetësue nji marrëveshje të rëndësishme. | Jener erfahrene Diplomat, den alle wegen seiner Integrität respektieren, hat es geschafft, ein wichtiges Abkommen zu vermitteln.
+L9 | 092 | Pasi kaloi nëpër shumë vështirësi dhe pengesa, ai më në fund arriti me realizue ëndrrën e tij për me hapë nji biznes të suksesshëm. | Nachdem er durch viele Schwierigkeiten und Hindernisse gegangen war, erreichte er endlich seinen Traum, ein erfolgreiches Geschäft zu eröffnen.
+L9 | 093 | Edukimi i vajzave, i cili për shumë kohë ka qenë i neglizhuem në disa vende, asht thelbësor për zhvillimin e qëndrueshëm të shoqërisë. | Die Bildung von Mädchen, die in manchen Ländern lange vernachlässigt worden ist, ist für die nachhaltige Entwicklung der Gesellschaft wesentlich.
+L9 | 094 | Nëse don me u bë mjek, duhet me studjue shumë vite dhe me pasë durim, sepse rruga për t'u bë nji profesionist i mirë asht e gjatë. | Wenn du Arzt werden willst, musst du viele Jahre studieren und Geduld haben, denn der Weg zu einem guten Fachmann ist lang.
+L9 | 095 | Konflikti i fundit ndërmjet dy kompanive, i cili u zgjidh n'gjykatën tregtare, tregon se sa e rëndësishme asht kontrata e mirë. | Der letzte Konflikt zwischen zwei Firmen, der vor dem Handelsgericht gelöst wurde, zeigt, wie wichtig ein guter Vertrag ist.
+L9 | 096 | Sipas parashikimeve të ekspertëve të klimës, temperaturat globale do të vazhdojnë me u rritë nëse nuk ndërmarrim masa drastike. | Laut den Vorhersagen der Klimaexperten werden die globalen Temperaturen weiter steigen, wenn wir keine drastischen Maßnahmen ergreifen.
+L9 | 097 | Edhe pse kemi kaluar shumë vështirësi si popull, ne kemi arritë me ruajtë gjuhën dhe kulturën tonë për shekuj me radhë. | Obwohl wir als Volk viele Schwierigkeiten durchgemacht haben, haben wir es geschafft, unsere Sprache und Kultur jahrhundertelang zu bewahren.
+L9 | 098 | Ajo organizatë humanitare, e cila punon në Kosovë që nga përfundimi i luftës, ka ndihmue mijëra familje në nevojë me ushqim e veshmbathje. | Jene humanitäre Organisation, die seit dem Ende des Krieges im Kosovo arbeitet, hat Tausenden von bedürftigen Familien mit Nahrung und Kleidung geholfen.
+L9 | 099 | Pasi lexova librin e tij për herë të dytë, kuptova shumë shtresa të reja kuptimi që s'i kisha vërejtë në leximin e parë. | Nachdem ich sein Buch zum zweiten Mal gelesen hatte, verstand ich viele neue Bedeutungsebenen, die ich beim ersten Lesen nicht bemerkt hatte.
+L9 | 100 | Marrëveshja e paqes, e cila u nënshkrua në prani të përfaqësuesve ndërkombëtarë, u prit me optimizëm nga opinioni publik. | Das Friedensabkommen, das in Anwesenheit internationaler Vertreter unterzeichnet wurde, wurde von der öffentlichen Meinung mit Optimismus aufgenommen.
+L9 | 101 | Nëse nuk ndryshojmë mënyrën si konsumojmë burimet natyrore, brezat e ardhshëm do të përballen me nji krizë ekologjike pa precedent. | Wenn wir nicht ändern, wie wir die natürlichen Ressourcen verbrauchen, werden die kommenden Generationen mit einer beispiellosen ökologischen Krise konfrontiert sein.
+L9 | 102 | Profesori ynë, i cili ka shkrue mbi 30 libra gjatë karrierës së tij, na inkurajonte gjithmonë me mendue në mënyrë kritike e me bâ pyetje. | Unser Professor, der während seiner Karriere über 30 Bücher geschrieben hat, ermutigte uns immer, kritisch zu denken und Fragen zu stellen.
+L9 | 103 | Edhe pse diaspora kosovare jeton shpërndarë nëpër botë, ajo vazhdon me kontribuue në zhvillimin ekonomik të vendit përmes investimeve. | Obwohl die kosovarische Diaspora über die ganze Welt verstreut lebt, trägt sie weiterhin durch Investitionen zur wirtschaftlichen Entwicklung des Landes bei.
+L9 | 104 | Pasi kaloi nëpër provimin e vështirë të jurisprudencës, ai u emërua gjyqtar në gjykatën themelore të Prishtinës. | Nachdem er die schwierige Jurisprudenzprüfung bestanden hatte, wurde er zum Richter am Grundgericht von Prishtina ernannt.
+L9 | 105 | Nëse don me pasë nji marrëdhënie të shëndoshë me fëmijët e tu, duhet me i dëgjue ata dhe me respektue mendimet e tyre, edhe kur nuk pajtohesh. | Wenn du eine gesunde Beziehung zu deinen Kindern haben willst, musst du ihnen zuhören und ihre Meinungen respektieren, auch wenn du nicht einverstanden bist.
+L9 | 106 | Festivali Ndërkombëtar i Filmit në Prishtinë, i cili mbahet çdo vit, ka sjellë në Kosovë artistë dhe regjisorë të famshëm nga e gjithë bota. | Das Internationale Filmfestival in Prishtina, das jedes Jahr stattfindet, hat berühmte Künstler und Regisseure aus der ganzen Welt in den Kosovo gebracht.
+L9 | 107 | Rezultatet e këtij studimi shkencor, të cilat u publikuan në nji revistë prestigjioze, konfirmojnë hipotezën tonë për shkaqet e sëmundjes. | Die Ergebnisse dieser wissenschaftlichen Studie, die in einer prestigeträchtigen Zeitschrift veröffentlicht wurden, bestätigen unsere Hypothese über die Ursachen der Krankheit.
+L9 | 108 | Edhe pse bota përballet me sfida të shumta, unë besoj se njerëzimi ka mençurinë dhe vullnetin për me gjetë zgjidhje për çdo problem. | Obwohl die Welt vor zahlreichen Herausforderungen steht, glaube ich, dass die Menschheit die Weisheit und den Willen hat, für jedes Problem eine Lösung zu finden.
+L9 | 109 | Pasi mbarova së lexuari poezinë e Lasgush Poradecit, mbeta i mahnitun nga bukuria dhe thellësia e fjalëve të tij. | Nachdem ich die Poesie von Lasgush Poradeci zu Ende gelesen hatte, war ich von der Schönheit und Tiefe seiner Worte überwältigt.
+L9 | 110 | Nëse gjeneratat e reja nuk mësojnë nga gabimet e së kaluarës, ato janë të dënueme me përsëritë të njëjtat tragjedi historike. | Wenn die jungen Generationen nicht aus den Fehlern der Vergangenheit lernen, sind sie dazu verurteilt, dieselben historischen Tragödien zu wiederholen.
+L9 | 111 | Integrimi evropian i Kosovës, për të cilin janë bërë shumë reforma, mbetet nji nga prioritetet kryesore të politikës së jashtme të vendit. | Die europäische Integration des Kosovo, für die viele Reformen durchgeführt wurden, bleibt eine der Hauptprioritäten der Außenpolitik des Landes.
+L9 | 112 | Ai që ka përjetue varfëninë dhe padrejtësinë, e di më së miri se sa vlejnë liria dhe mundësia për nji jetë më të mirë. | Derjenige, der Armut und Ungerechtigkeit erlebt hat, weiß am besten, wie viel Freiheit und die Möglichkeit für ein besseres Leben wert sind.
+L9 | 113 | Pasi të keni përfundue të gjitha procedurat administrative, ju do të merrni në njoftim për datën e fillimit të punës suaj të re. | Nachdem Sie alle administrativen Verfahren abgeschlossen haben, werden Sie eine Benachrichtigung über das Startdatum Ihrer neuen Arbeit erhalten.
+L9 | 114 | Në shoqërinë tonë, koncepti i mikpritjes shtrihet përtej detyrimit shoqëror — ai asht nji pjesë e thellë e identitetit tonë kulturor. | In unserer Gesellschaft geht das Konzept der Gastfreundschaft über die soziale Verpflichtung hinaus — es ist ein tiefer Teil unserer kulturellen Identität.

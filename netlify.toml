@@ -1,0 +1,32 @@
+# Netlify Config — Gheg Learning PWA
+
+# PWA: Service Worker muss mit richtigen Headern ausgeliefert werden
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+    Content-Type = "application/javascript; charset=utf-8"
+
+# SVG korrekt ausliefern
+[[headers]]
+  for = "*.svg"
+  [headers.values]
+    Content-Type = "image/svg+xml"
+
+# PNG Icons
+[[headers]]
+  for = "*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Manifest
+[[headers]]
+  for = "/manifest.json"
+  [headers.values]
+    Content-Type = "application/manifest+json"
+
+# SPA Fallback: Alle 404 zu index.html leiten
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

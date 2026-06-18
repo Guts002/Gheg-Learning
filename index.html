@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0a0a0f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Gheg — Kosovo-Albanisch Lernen</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png">
+  <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png">
+</head>
+<body>
+
+  <!-- ===========================
+       MAIN CONTENT
+       =========================== -->
+  <div class="main-content">
+
+    <!-- HOME PAGE -->
+    <div id="page-home" class="page active">
+      <div class="home-header">
+        <h1>Gheg Lernen</h1>
+        <p class="subtitle">Kosovo-Albanisch · Level für Level</p>
+        <div class="streak-bar">
+          <span class="streak-icon">🔥</span>
+          <span class="streak-text" id="streak-count">0</span>
+          <span class="streak-sub">Tage Serie</span>
+        </div>
+      </div>
+      <div class="level-map" id="level-map">
+        <!-- Levels rendered by JS -->
+      </div>
+    </div>
+
+    <!-- CURSES PAGE -->
+    <div id="page-curses" class="page">
+      <div class="curses-header">
+        <h1>Curses</h1>
+        <p class="subtitle">Kosovo-Schimpfwörter</p>
+      </div>
+      <div class="curses-warning">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M12 9v4"/><path d="M12 17h.01"/><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/></svg>
+        <span>Für informelle Situationen — mit Vorsicht verwenden!</span>
+      </div>
+      <div class="curses-progress" id="curses-progress-bar">
+        <div class="curses-progress-label">
+          <span>Fortschritt</span>
+          <span id="curses-progress-text">0 / 85 Wörter</span>
+        </div>
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="curses-progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+      <div class="level-map" id="curses-level-map">
+        <!-- Curses levels rendered by JS -->
+      </div>
+    </div>
+
+    <!-- SENTENCES PAGE -->
+    <div id="page-sentences" class="page">
+      <div class="sentences-header">
+        <h1>Sätze</h1>
+        <p class="subtitle">Beispielsätze zum Üben</p>
+      </div>
+      <div class="level-tabs" id="sentence-level-tabs">
+        <!-- Level tabs rendered by JS -->
+      </div>
+      <div class="search-bar">
+        <svg class="search-icon icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        <input type="text" id="sentence-search" placeholder="Suche Sätze..." oninput="filterSentences()">
+      </div>
+      <div class="sentence-list" id="sentence-list">
+        <!-- Sentences rendered by JS -->
+      </div>
+    </div>
+
+    <!-- TIMER PAGE -->
+    <div id="page-timer" class="page">
+      <div class="timer-header">
+        <h1>Timer</h1>
+        <p class="subtitle">Pomodoro Technik</p>
+      </div>
+      <div class="timer-container">
+        <div class="timer-circle">
+          <svg viewBox="0 0 260 260">
+            <defs>
+              <linearGradient id="timerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#8b5cf6"/>
+                <stop offset="100%" stop-color="#e63946"/>
+              </linearGradient>
+            </defs>
+            <circle class="bg-circle" cx="130" cy="130" r="120"/>
+            <circle class="progress-circle" id="timer-progress" cx="130" cy="130" r="120"
+              stroke-dasharray="753.98" stroke-dashoffset="0"/>
+          </svg>
+          <div class="timer-time" id="timer-display">25:00</div>
+        </div>
+        <div class="timer-modes">
+          <button class="timer-mode-btn active" id="mode-work" onclick="setTimerMode('work')">Arbeit</button>
+          <button class="timer-mode-btn" id="mode-break" onclick="setTimerMode('break')">Pause</button>
+        </div>
+        <div class="timer-controls">
+          <button class="timer-btn start" id="timer-start-btn" onclick="startTimer()">Start</button>
+          <button class="timer-btn stop hidden" id="timer-stop-btn" onclick="stopTimer()">Stop</button>
+          <button class="timer-btn reset" onclick="resetTimer()">Reset</button>
+        </div>
+        <div class="timer-sessions" id="timer-sessions">Sitzungen: 0</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ===========================
+       BOTTOM NAVIGATION
+       =========================== -->
+  <nav class="bottom-nav">
+    <button class="nav-tab active" data-page="home" onclick="switchTab('home')">
+      <svg viewBox="0 0 24 24" class="icon"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      <span>Home</span>
+    </button>
+    <button class="nav-tab" data-page="curses" onclick="switchTab('curses')">
+      <svg viewBox="0 0 24 24" class="icon"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+      <span>Curses</span>
+    </button>
+    <button class="nav-tab" data-page="sentences" onclick="switchTab('sentences')">
+      <svg viewBox="0 0 24 24" class="icon"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+      <span>Sätze</span>
+    </button>
+    <button class="nav-tab" data-page="timer" onclick="switchTab('timer')">
+      <svg viewBox="0 0 24 24" class="icon"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      <span>Timer</span>
+    </button>
+  </nav>
+
+  <!-- ===========================
+       LEARN OVERLAY
+       =========================== -->
+  <div class="learn-overlay" id="learn-overlay">
+    <div class="learn-header">
+      <button class="back-btn" onclick="closeLearn()">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+      </button>
+      <div class="learn-progress">
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="learn-progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+      <span class="learn-counter" id="learn-counter">1/5</span>
+    </div>
+    <div class="learn-body">
+      <div class="word-display">
+        <div class="direction-label" id="learn-direction">Übersetze ins Deutsche</div>
+        <div class="word" id="learn-word">Tung!</div>
+      </div>
+      <div class="answer-input-wrap">
+        <input type="text" class="answer-input" id="learn-input" placeholder="Deine Antwort..." autocomplete="off" autocapitalize="off">
+      </div>
+      <div class="feedback" id="learn-feedback"></div>
+      <button class="submit-btn" id="learn-submit" onclick="checkLearnAnswer()">Prüfen</button>
+    </div>
+  </div>
+
+  <!-- ===========================
+       TEST OVERLAY
+       =========================== -->
+  <div class="test-overlay" id="test-overlay">
+    <div class="test-header">
+      <button class="back-btn" onclick="closeTest()">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+      </button>
+      <div class="learn-progress">
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="test-progress-fill" style="width: 0%"></div>
+        </div>
+      </div>
+      <span class="learn-counter" id="test-counter">1/15</span>
+    </div>
+    <div class="learn-body">
+      <div class="test-question">
+        <div class="question-num" id="test-question-num">Frage 1</div>
+        <div class="question-word" id="test-question-word">Tung!</div>
+        <div class="question-dir" id="test-question-dir">Übersetze ins Deutsche</div>
+      </div>
+      <div class="answer-input-wrap">
+        <input type="text" class="answer-input" id="test-input" placeholder="Deine Antwort..." autocomplete="off" autocapitalize="off">
+      </div>
+      <div class="feedback" id="test-feedback"></div>
+      <button class="submit-btn" id="test-submit" onclick="checkTestAnswer()">Prüfen</button>
+    </div>
+  </div>
+
+  <!-- ===========================
+       RESULT OVERLAY
+       =========================== -->
+  <div class="result-overlay" id="result-overlay">
+    <div class="result-content">
+      <div class="result-grade" id="result-grade">
+        <span class="grade-num" id="result-grade-num">2</span>
+        <span class="grade-label" id="result-grade-label">Gut</span>
+      </div>
+      <div class="result-score-text" id="result-score-text">12 / 15 richtig (80%)</div>
+      <div class="result-message" id="result-message">Gut gemacht! Nächste Level freigeschaltet.</div>
+
+      <div class="result-words" id="result-words">
+        <h4>Richtig ✅</h4>
+        <div id="result-correct-list"></div>
+        <h4 class="mt-4">Falsch ❌</h4>
+        <div id="result-wrong-list"></div>
+      </div>
+
+      <div class="result-buttons">
+        <button class="result-btn primary" id="result-primary-btn" onclick="handleResultPrimary()">Weiter</button>
+        <button class="result-btn secondary" id="result-secondary-btn" onclick="handleResultSecondary()">Wiederholen</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===========================
+       SCRIPTS
+       =========================== -->
+  <script src="learnWordsData.js"></script>
+  <script src="sentenceData.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

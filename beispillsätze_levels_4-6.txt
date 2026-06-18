@@ -1,0 +1,369 @@
+═══════════════════════════════════════════════════════════════════════════════════
+  GHEG (KOSOVO-ALBANISCH) BEISPILLSÄTZE — LEVEL 4 bis 6 (MITTELSTUFE)
+  Dialekt: Gheg (Kosovo-Variante) — ~333 Sätze
+  Format: Level | # | Gheg (Kosovo) | Deutsch
+═══════════════════════════════════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════════════════════════════════
+  LEVEL 4 — VERGANGENHEIT, ZUKUNFT, ARBEIT/BERUFE, BILDUNG/SCHULE
+  (~111 Sätze)
+═══════════════════════════════════════════════════════════════════════════════════
+
+Level 4 | 1 | Dje kam shkue n'shkollë. | Gestern bin ich zur Schule gegangen.
+Level 4 | 2 | Nesër do të shof mjekun. | Morgen werde ich den Arzt sehen.
+Level 4 | 3 | Sot kam ba detyrat e shpisë. | Heute habe ich die Hausaufgaben gemacht.
+Level 4 | 4 | Pastaj kemi shkue n'treg me blejtë bukë. | Danach sind wir zum Markt gegangen, um Brot zu kaufen.
+Level 4 | 5 | Dje kam punu gjithë ditën n'zyrë. | Gestern habe ich den ganzen Tag im Büro gearbeitet.
+Level 4 | 6 | Tash do të shkoj n'palester me ushtrue. | Jetzt werde ich ins Fitnessstudio gehen, um zu trainieren.
+Level 4 | 7 | Nana ka gatu fli për mëngjes. | Mama hat Flia zum Frühstück gekocht.
+Level 4 | 8 | Nesër do të kem provimin e matematikës. | Morgen werde ich die Matheprüfung haben.
+Level 4 | 9 | Dje mësuesi ka shpjegue mësimin e ri. | Gestern hat der Lehrer die neue Lektion erklärt.
+Level 4 | 10 | Kam punu si kuzhinier për tri vjet. | Ich habe drei Jahre lang als Koch gearbeitet.
+Level 4 | 11 | A je nisë tash për n'punë? | Bist du jetzt zur Arbeit aufgebrochen?
+Level 4 | 12 | Motra ka mbarue shkollën e mesme. | Meine Schwester hat die Mittelschule abgeschlossen.
+Level 4 | 13 | Dje kam pa një film shumë të mirë. | Gestern habe ich einen sehr guten Film gesehen.
+Level 4 | 14 | Nesër do të filloj punën e re. | Morgen werde ich die neue Arbeit beginnen.
+Level 4 | 15 | Babi ka punu si mësues për njëzet vjet. | Papa hat zwanzig Jahre als Lehrer gearbeitet.
+Level 4 | 16 | Tash po shkoj n'bibliotekë me studjue. | Jetzt gehe ich in die Bibliothek, um zu studieren.
+Level 4 | 17 | Dje nxënësit kanë ba nje provim të vështirë. | Gestern haben die Schüler eine schwierige Prüfung gemacht.
+Level 4 | 18 | Sot kam ardhë herët n'punë. | Heute bin ich früh zur Arbeit gekommen.
+Level 4 | 19 | Nesër do të takoj shefin n'zyrë. | Morgen werde ich den Chef im Büro treffen.
+Level 4 | 20 | Kam shkue n'universitet për tri vjet. | Ich bin drei Jahre zur Universität gegangen.
+Level 4 | 21 | Dje kemi ba nji projekt të madh n'shkollë. | Gestern haben wir ein großes Projekt in der Schule gemacht.
+Level 4 | 22 | A ke pa mjekun dje? | Hast du gestern den Arzt gesehen?
+Level 4 | 23 | Pastaj do të ha darkë me familje. | Danach werde ich Abendessen mit der Familie essen.
+Level 4 | 24 | Vllai ka fillue punën si inxhinier. | Mein Bruder hat die Arbeit als Ingenieur begonnen.
+Level 4 | 25 | Dje kam mësue shumë fjalë të reja shqip. | Gestern habe ich viele neue albanische Wörter gelernt.
+Level 4 | 26 | Sot kemi provimin e historisë. | Heute haben wir die Geschichtsprüfung.
+Level 4 | 27 | Nesër do të vizitoj gjyshin n'fshat. | Morgen werde ich den Großvater im Dorf besuchen.
+Level 4 | 28 | Dje kam shkru nje letër të gjatë. | Gestern habe ich einen langen Brief geschrieben.
+Level 4 | 29 | Tash punoj si programues n'nji kompani. | Jetzt arbeite ich als Programmierer in einer Firma.
+Level 4 | 30 | Kam mbarue fakultetin e ekonomisë. | Ich habe die wirtschaftliche Fakultät abgeschlossen.
+Level 4 | 31 | Dje babi ka blerë nji veturë të re. | Gestern hat Papa ein neues Auto gekauft.
+Level 4 | 32 | Nesër do të kem nji takim të rëndësishëm. | Morgen werde ich eine wichtige Besprechung haben.
+Level 4 | 33 | Sot kam mësue gjuhën gjermane n'shkollë. | Heute habe ich Deutsch in der Schule gelernt.
+Level 4 | 34 | A ke punu ndonjëherë si kamarier? | Hast du jemals als Kellner gearbeitet?
+Level 4 | 35 | Dje kemi shkue n'kinema me pa nji film. | Gestern sind wir ins Kino gegangen, um einen Film zu sehen.
+Level 4 | 36 | Pastaj kam shkue n'shtepi me pushue. | Danach bin ich nach Hause gegangen, um mich auszuruhen.
+Level 4 | 37 | Nesër do të shkoj n'Prishtinë me punë. | Morgen werde ich nach Pristina zur Arbeit fahren.
+Level 4 | 38 | Dje studentët kanë ba nji prezentim. | Gestern haben die Studenten eine Präsentation gemacht.
+Level 4 | 39 | Tash po mësoj për provimin e biologjisë. | Jetzt lerne ich für die Biologieprüfung.
+Level 4 | 40 | Kam shkue n'shkollë fillore n'Prishtinë. | Ich bin in Pristina zur Grundschule gegangen.
+Level 4 | 41 | Dje kam hangër drekë me shokët. | Gestern habe ich Mittagessen mit Freunden gegessen.
+Level 4 | 42 | Nesër vllai do të nis punën e re. | Morgen wird mein Bruder die neue Arbeit beginnen.
+Level 4 | 43 | Sot profesorët kanë korrigjue provimet. | Heute haben die Professoren die Prüfungen korrigiert.
+Level 4 | 44 | A ki mësue shqip n'shkollë? | Hast du Albanisch in der Schule gelernt?
+Level 4 | 45 | Dje kam lajmëru shefin për projektin. | Gestern habe ich den Chef über das Projekt informiert.
+Level 4 | 46 | Pastaj do të shkruaj nji report për punë. | Danach werde ich einen Bericht für die Arbeit schreiben.
+Level 4 | 47 | Kam punu si shitës për gjashtë muaj. | Ich habe sechs Monate als Verkäufer gearbeitet.
+Level 4 | 48 | Dje motra ka fillue kursin e gjermanishtes. | Gestern hat meine Schwester den Deutschkurs begonnen.
+Level 4 | 49 | Nesër do të kem nji ligjëratë n'universitet. | Morgen werde ich eine Vorlesung an der Universität haben.
+Level 4 | 50 | Tash po përgatis detyrat e shtepisë. | Jetzt bereite ich die Hausaufgaben vor.
+Level 4 | 51 | Dje kemi ba nji ushtrim në klasë. | Gestern haben wir eine Übung in der Klasse gemacht.
+Level 4 | 52 | A ke shkue n'shkollë sot? | Bist du heute zur Schule gegangen?
+Level 4 | 53 | Nesër do të takoj mjekun n'ambulantë. | Morgen werde ich den Arzt in der Praxis treffen.
+Level 4 | 54 | Sot kam marrë nji notë të mirë n'provim. | Heute habe ich eine gute Note in der Prüfung bekommen.
+Level 4 | 55 | Dje kam shkue n'pazar me blejtë perime. | Gestern bin ich zum Markt gegangen, um Gemüse zu kaufen.
+Level 4 | 56 | Pastaj do të shkoj n'palester me stërvitë. | Danach werde ich ins Fitnessstudio gehen, um zu trainieren.
+Level 4 | 57 | Kam punu si sekretar për dy vjet. | Ich habe zwei Jahre als Sekretär gearbeitet.
+Level 4 | 58 | Dje nxënësit kanë mësue për historinë. | Gestern haben die Schüler über Geschichte gelernt.
+Level 4 | 59 | Nesër do të filloj kursin e fizikës. | Morgen werde ich den Physikkurs beginnen.
+Level 4 | 60 | Vllai im ka studjue n'Gjermani. | Mein Bruder hat in Deutschland studiert.
+Level 4 | 61 | Dje kemi shkue n'ekskursion me shkollën. | Gestern sind wir mit der Schule auf Exkursion gegangen.
+Level 4 | 62 | Tash jam tu punu n'nji projekt të ri. | Jetzt arbeite ich an einem neuen Projekt.
+Level 4 | 63 | A ke ba detyrat e shtepisë dje? | Hast du gestern die Hausaufgaben gemacht?
+Level 4 | 64 | Nesër do të vizitoj fakultetin e ri. | Morgen werde ich die neue Fakultät besuchen.
+Level 4 | 65 | Dje kam marrë nji diplomë n'arsim. | Gestern habe ich ein Diplom in Bildung bekommen.
+Level 4 | 66 | Sot po punoj si avokat n'nji firmë. | Heute arbeite ich als Anwalt in einer Firma.
+Level 4 | 67 | Pastaj kam shkue n'shtepi me ba darkë. | Danach bin ich nach Hause gegangen, um Abendessen zu machen.
+Level 4 | 68 | Dje mësuesi ka dhânë nji detyrë të re. | Gestern hat der Lehrer eine neue Aufgabe gegeben.
+Level 4 | 69 | Nesër do të kem nji takim me klientët. | Morgen werde ich ein Treffen mit den Kunden haben.
+Level 4 | 70 | Kam shkue n'shkollë të mesme n'Prishtinë. | Ich bin in Pristina zur Mittelschule gegangen.
+Level 4 | 71 | Dje kam lexue nji libër shumë të bukur. | Gestern habe ich ein sehr schönes Buch gelesen.
+Level 4 | 72 | Tash po përgatem për provimin e kimisë. | Jetzt bereite ich mich auf die Chemieprüfung vor.
+Level 4 | 73 | A ke punu si mësues ndonjëherë? | Hast du jemals als Lehrer gearbeitet?
+Level 4 | 74 | Dje motra ka mbarue gjimnazin. | Gestern hat meine Schwester das Gymnasium abgeschlossen.
+Level 4 | 75 | Nesër do të shkoj n'zyrë herët n'mëngjes. | Morgen werde ich früh am Morgen ins Büro gehen.
+Level 4 | 76 | Sot kam nënshkru kontratën e re. | Heute habe ich den neuen Vertrag unterschrieben.
+Level 4 | 77 | Pastaj do të shkoj n'bibliotekë me lexue. | Danach werde ich in die Bibliothek gehen, um zu lesen.
+Level 4 | 78 | Dje kam pi kafe me kolegët n'punë. | Gestern habe ich Kaffee mit den Kollegen bei der Arbeit getrunken.
+Level 4 | 79 | Kam studjue gjuhë të huaja n'universitet. | Ich habe Fremdsprachen an der Universität studiert.
+Level 4 | 80 | A ki shkue n'shkollë fillore n'fshat? | Bist du im Dorf zur Grundschule gegangen?
+Level 4 | 81 | Nesër do të kem nji seminar të rëndësishëm. | Morgen werde ich ein wichtiges Seminar haben.
+Level 4 | 82 | Dje kam ba nji vizitë te mjeku. | Gestern habe ich einen Besuch beim Arzt gemacht.
+Level 4 | 83 | Tash po mësoj për provimin e gjeografisë. | Jetzt lerne ich für die Geografieprüfung.
+Level 4 | 84 | Vllai ka punu si zdrukthëtar për pesë vjet. | Mein Bruder hat fünf Jahre als Tischler gearbeitet.
+Level 4 | 85 | Dje kemi shkue n'treg me blejtë fruta. | Gestern sind wir zum Markt gegangen, um Obst zu kaufen.
+Level 4 | 86 | Sot kam marrë nji notë të lartë n'provim. | Heute habe ich eine hohe Note in der Prüfung bekommen.
+Level 4 | 87 | Nesër do të nis punën n'fabrikë. | Morgen werde ich die Arbeit in der Fabrik beginnen.
+Level 4 | 88 | Pastaj kam shkue n'gjimnaz për katër vjet. | Danach bin ich vier Jahre aufs Gymnasium gegangen.
+Level 4 | 89 | Dje babi ka punu gjithë natën. | Gestern hat Papa die ganze Nacht gearbeitet.
+Level 4 | 90 | A ki mbarue shkollën e mesme? | Hast du die Mittelschule abgeschlossen?
+Level 4 | 91 | Tash po kërkoj nji punë të re. | Jetzt suche ich einen neuen Job.
+Level 4 | 92 | Dje kam shkue në kurs të gjermanishtes. | Gestern bin ich zum Deutschkurs gegangen.
+Level 4 | 93 | Nesër do të kem nji provim të vështirë. | Morgen werde ich eine schwierige Prüfung haben.
+Level 4 | 94 | Kam punu si elektricist për shtatë vjet. | Ich habe sieben Jahre als Elektriker gearbeitet.
+Level 4 | 95 | Dje kemi ba nji ushtrim të gjatë n'shkollë. | Gestern haben wir eine lange Übung in der Schule gemacht.
+Level 4 | 96 | Sot jam tu përgatit për ligjëratën. | Heute bereite ich mich auf die Vorlesung vor.
+Level 4 | 97 | Nesër do të shkoj n'universitet me studjue. | Morgen werde ich zur Universität gehen, um zu studieren.
+Level 4 | 98 | Dje kam fjet vonë për shkak të provimit. | Gestern habe ich wegen der Prüfung spät geschlafen.
+Level 4 | 99 | Pastaj do të vij n'shtepi me pushue. | Danach werde ich nach Hause kommen, um mich auszuruhen.
+Level 4 | 100 | A ke punu si kuzhinier n'ndonjë restorant? | Hast du in einem Restaurant als Koch gearbeitet?
+Level 4 | 101 | Dje motra ka studjue gjithë ditën. | Gestern hat meine Schwester den ganzen Tag gelernt.
+Level 4 | 102 | Nesër do të kem nji test të gjuhës shqipe. | Morgen werde ich einen Test in albanischer Sprache haben.
+Level 4 | 103 | Tash jam tu punu n'nji projekt shkollor. | Jetzt arbeite ich an einem Schulprojekt.
+Level 4 | 104 | Dje kam marrë nji certifikatë për gjermanisht. | Gestern habe ich ein Zertifikat für Deutsch bekommen.
+Level 4 | 105 | Kam shkue n'kolegj për dy vjet. | Ich bin zwei Jahre aufs College gegangen.
+Level 4 | 106 | Sot profesorët kanë shpallë rezultatet. | Heute haben die Professoren die Ergebnisse bekanntgegeben.
+Level 4 | 107 | Nesër do të filloj stazhin n'nji kompani. | Morgen werde ich ein Praktikum in einer Firma beginnen.
+Level 4 | 108 | Dje kam përgatit nji raport për shefin. | Gestern habe ich einen Bericht für den Chef vorbereitet.
+Level 4 | 109 | A ki shkue n'shkollë të mesme n'Prishtinë? | Bist du in Pristina zur Mittelschule gegangen?
+Level 4 | 110 | Tash po shkruaj nji artikull për gazetën. | Jetzt schreibe ich einen Artikel für die Zeitung.
+Level 4 | 111 | Pastaj do të vij n'shkollë me marrë librat. | Danach werde ich in die Schule kommen, um die Bücher zu holen.
+Level 4 | 112 | Dje kam shkue n'ambulantë me kontrollue shëndetin. | Gestern bin ich zur Praxis gegangen, um die Gesundheit zu checken.
+
+
+═══════════════════════════════════════════════════════════════════════════════════
+  LEVEL 5 — GEFÜHLE / MEINUNGEN, ADJEKTIVE GESTEIGERT, WETTER / NATUR / TIERE
+  (~111 Sätze)
+═══════════════════════════════════════════════════════════════════════════════════
+
+Level 5 | 1 | Jam tu u gëzu shumë, sepse sot asht mot i bukur. | Ich freue mich sehr, weil heute schönes Wetter ist.
+Level 5 | 2 | Qeni asht i madh, ndërsa macja asht e vogël. | Der Hund ist groß, während die Katze klein ist.
+Level 5 | 3 | Kjo pemë asht më e lartë se ajo. | Dieser Baum ist höher als jener.
+Level 5 | 4 | Jam i trishtuem, sepse moti asht i keq. | Ich bin traurig, weil das Wetter schlecht ist.
+Level 5 | 5 | Dielli shkëlqen fort sot, ndërsa dje ka pasë shi. | Die Sonne scheint heute sehr, während es gestern geregnet hat.
+Level 5 | 6 | Dhelpra asht më e shpejtë se lepuri. | Der Fuchs ist schneller als der Hase.
+Level 5 | 7 | Kam besim se do të kaloj provimin. | Ich habe Vertrauen, dass ich die Prüfung bestehen werde.
+Level 5 | 8 | Kjo lule asht më e bukur se ajo. | Diese Blume ist schöner als jene.
+Level 5 | 9 | Ai asht shumë i gëzuem, sepse ka fitue në garë. | Er ist sehr fröhlich, weil er im Wettkampf gewonnen hat.
+Level 5 | 10 | Era fryn fort sot, ndërsa dje ka pasë qetësi. | Der Wind weht heute stark, während es gestern ruhig war.
+Level 5 | 11 | Shqiponja asht më e madhe se harabeli. | Der Adler ist größer als der Spatz.
+Level 5 | 12 | Jam i lodhun, sepse kam punu gjithë ditën. | Ich bin müde, weil ich den ganzen Tag gearbeitet habe.
+Level 5 | 13 | Mali asht më i lartë se bregu. | Der Berg ist höher als der Hügel.
+Level 5 | 14 | A je i kënaqun me provimin? | Bist du zufrieden mit der Prüfung?
+Level 5 | 15 | Lopa asht e madhe, ndërsa viçi asht i vogël. | Die Kuh ist groß, während das Kalb klein ist.
+Level 5 | 16 | Sot bën më ngrohtë se dje. | Heute ist es wärmer als gestern.
+Level 5 | 17 | Jam i shqetësuem, sepse s'kam lajme prej vllait. | Ich bin besorgt, weil ich keine Nachrichten von meinem Bruder habe.
+Level 5 | 18 | A e dashnon natyrën? — Po, shumë. | Liebst du die Natur? — Ja, sehr.
+Level 5 | 19 | Ujku asht më i rrezikshëm se dhelpra. | Der Wolf ist gefährlicher als der Fuchs.
+Level 5 | 20 | Jam shumë i lumtun, sepse sot asht ditëlindja ime. | Ich bin sehr glücklich, weil heute mein Geburtstag ist.
+Level 5 | 21 | Ajo asht më e re se motra e saj. | Sie ist jünger als ihre Schwester.
+Level 5 | 22 | Kam dashuni të madhe për familjen time. | Ich habe große Liebe für meine Familie.
+Level 5 | 23 | Qeni asht më besnik se macja. | Der Hund ist treuer als die Katze.
+Level 5 | 24 | Sot po bjen shi, ndërsa nesër do të ketë diell. | Heute regnet es, während es morgen sonnig sein wird.
+Level 5 | 25 | Jam i frikësuem, sepse ka stuhi jashtë. | Ich habe Angst, weil draußen ein Sturm ist.
+Level 5 | 26 | Kali asht më i shpejtë se gomari. | Das Pferd ist schneller als der Esel.
+Level 5 | 27 | Kjo shtëpi asht më e madhe se ajo. | Dieses Haus ist größer als jenes.
+Level 5 | 28 | Moti sot asht më i mirë se dje. | Das Wetter heute ist besser als gestern.
+Level 5 | 29 | Kam shpresë se do të shërohem shpejt. | Ich habe Hoffnung, dass ich schnell gesund werde.
+Level 5 | 30 | Gjeli këndon n'mëngjes, ndërsa bufi fle ditën. | Der Hahn singt am Morgen, während die Eule tagsüber schläft.
+Level 5 | 31 | A je i zemëruem me mua? | Bist du wütend auf mich?
+Level 5 | 32 | Lumi asht më i gjatë se përroi. | Der Fluss ist länger als der Bach.
+Level 5 | 33 | Jam krenar për djalin tim, sepse ka kalu provimin. | Ich bin stolz auf meinen Sohn, weil er die Prüfung bestanden hat.
+Level 5 | 34 | Pylli asht më i errët se livadhi. | Der Wald ist dunkler als die Wiese.
+Level 5 | 35 | Sot ndihem më mirë se dje. | Heute fühle ich mich besser als gestern.
+Level 5 | 36 | A ke pa ariun n'pyll? — Jo, s'e kam pa. | Hast du den Bären im Wald gesehen? — Nein, habe ich nicht.
+Level 5 | 37 | Kam mall për familjen, sepse janë larg. | Ich habe Heimweh nach der Familie, weil sie weit weg sind.
+Level 5 | 38 | Kjo rrugë asht më e ngushtë se ajo. | Diese Straße ist enger als jene.
+Level 5 | 39 | Ajo asht shumë e dashun për fëmijët. | Sie ist sehr liebevoll zu den Kindern.
+Level 5 | 40 | Në verë bën më nxehtë se n'pranverë. | Im Sommer ist es heißer als im Frühling.
+Level 5 | 41 | Jam i befasuem, sepse ke ardhë herët. | Ich bin überrascht, weil du früh gekommen bist.
+Level 5 | 42 | Shpendi fluturon lart, ndërsa peshku noton n'ujë. | Der Vogel fliegt hoch, während der Fisch im Wasser schwimmt.
+Level 5 | 43 | Kjo pemë asht më e vjetër se ajo. | Dieser Baum ist älter als jener.
+Level 5 | 44 | A të pëlqen dimri apo vera? | Magst du den Winter oder den Sommer?
+Level 5 | 45 | Jam i uritur, sepse s'kam hangër mëngjes. | Ich bin hungrig, weil ich kein Frühstück gegessen habe.
+Level 5 | 46 | Breshka asht më e ngadaltë se lepuri. | Die Schildkröte ist langsamer als der Hase.
+Level 5 | 47 | Në vjeshtë gjethet bien, ndërsa n'pranverë rriten. | Im Herbst fallen die Blätter, während sie im Frühling wachsen.
+Level 5 | 48 | A po gëzohesh për pushimet? | Freust du dich auf die Ferien?
+Level 5 | 49 | Borë ka më shumë n'mal se n'fushë. | Es gibt mehr Schnee auf dem Berg als im Feld.
+Level 5 | 50 | Pula asht e vogël, ndërsa gjeli asht i madh. | Das Huhn ist klein, während der Hahn groß ist.
+Level 5 | 51 | Kam besim te shoku im më i mirë. | Ich vertraue meinem besten Freund.
+Level 5 | 52 | Ajo asht më e gjatë se unë. | Sie ist größer als ich.
+Level 5 | 53 | Jam i mërzitun, sepse s'mund të dal sot. | Ich bin traurig, weil ich heute nicht ausgehen kann.
+Level 5 | 54 | Ketri asht më i shpejtë se kërmilli. | Das Eichhörnchen ist schneller als die Schnecke.
+Level 5 | 55 | Në dimër bën më ftohtë se n'vjeshtë. | Im Winter ist es kälter als im Herbst.
+Level 5 | 56 | A ndje dashuni për këtë vend? | Fühlst du Liebe für dieses Land?
+Level 5 | 57 | Kam frikë nga stuhitë, sepse janë të rrezikshme. | Ich habe Angst vor Stürmen, weil sie gefährlich sind.
+Level 5 | 58 | Ariu asht më i fortë se ujku. | Der Bär ist stärker als der Wolf.
+Level 5 | 59 | Sot qielli asht i kthjellët, ndërsa dje ka pasë re. | Heute ist der Himmel klar, während es gestern Wolken gab.
+Level 5 | 60 | Jam mirënjohës për ndihmën tënde. | Ich bin dankbar für deine Hilfe.
+Level 5 | 61 | Ajo asht më e lumtun se unë sot. | Sie ist heute glücklicher als ich.
+Level 5 | 62 | Macja luan me top, ndërsa qeni fle. | Die Katze spielt mit dem Ball, während der Hund schläft.
+Level 5 | 63 | Më pëlqen natyra, sepse asht e qetë. | Ich mag die Natur, weil sie ruhig ist.
+Level 5 | 64 | Ky liqen asht më i thellë se ai. | Dieser See ist tiefer als jener.
+Level 5 | 65 | Sa bukur që po fryn era sot! | Wie schön der Wind heute weht!
+Level 5 | 66 | Jam i pasigurt për provimin e nesërm. | Ich bin unsicher wegen der morgigen Prüfung.
+Level 5 | 67 | Flutura asht më e lehtë se milingona. | Der Schmetterling ist leichter als die Ameise.
+Level 5 | 68 | Në pranverë lulëzojnë lulet, ndërsa në vjeshtë vyshken. | Im Frühling blühen die Blumen, während sie im Herbst welken.
+Level 5 | 69 | A të pëlqejnë kafshët e egra? | Magst du die wilden Tiere?
+Level 5 | 70 | Ky mal asht më i bukuri në Kosovë. | Dieser Berg ist der schönste im Kosovo.
+Level 5 | 71 | Jam i nevrikosun, sepse autobusi vonon. | Ich bin nervös, weil der Bus Verspätung hat.
+Level 5 | 72 | Peshku noton n'ujë, ndërsa shpendi fluturon n'qiell. | Der Fisch schwimmt im Wasser, während der Vogel am Himmel fliegt.
+Level 5 | 73 | Ajo asht më e reja në familje. | Sie ist die Jüngste in der Familie.
+Level 5 | 74 | Sot ndihem i lumtun, sepse moti asht i mirë. | Heute fühle ich mich glücklich, weil das Wetter gut ist.
+Level 5 | 75 | Jam xheloz, sepse vllai ka veturë të re. | Ich bin eifersüchtig, weil mein Bruder ein neues Auto hat.
+Level 5 | 76 | Gjarpri asht më i rrezikshëm se hardhuca. | Die Schlange ist gefährlicher als die Eidechse.
+Level 5 | 77 | Në dimër bie borë, ndërsa në verë shkëlqen dielli. | Im Winter schneit es, während im Sommer die Sonne scheint.
+Level 5 | 78 | A ke interesim për muzikë? | Hast du Interesse an Musik?
+Level 5 | 79 | Kjo lule asht më e vogël se ajo. | Diese Blume ist kleiner als jene.
+Level 5 | 80 | Jam i dëshpëruem, sepse s'kalova provimin. | Ich bin verzweifelt, weil ich die Prüfung nicht bestanden habe.
+Level 5 | 81 | Delet kullosin në livadh, ndërsa lopët janë n'stallë. | Die Schafe grasen auf der Wiese, während die Kühe im Stall sind.
+Level 5 | 82 | Më pëlqen vera më shumë se dimri. | Ich mag den Sommer mehr als den Winter.
+Level 5 | 83 | A ke frikë nga gjarpërinjtë? | Hast du Angst vor Schlangen?
+Level 5 | 84 | Ky qen asht më besniku që kam pa. | Dieser Hund ist der treueste, den ich gesehen habe.
+Level 5 | 85 | Sot ndihem keq, sepse kam dhimbje koke. | Heute fühle ich mich schlecht, weil ich Kopfschmerzen habe.
+Level 5 | 86 | Dielli asht më i ndritshëm se hana. | Die Sonne ist heller als der Mond.
+Level 5 | 87 | A je i gatshëm për shëtitje në mal? | Bist du bereit für eine Wanderung im Berg?
+Level 5 | 88 | Kam zili për suksesin e shokut. | Ich bin neidisch auf den Erfolg meines Freundes.
+Level 5 | 89 | Bleta asht më punëtore se flutura. | Die Biene ist fleißiger als der Schmetterling.
+Level 5 | 90 | Sa bukur shkëlqejnë yjet sonte! | Wie schön die Sterne heute Nacht leuchten!
+Level 5 | 91 | Jam i stresuem, sepse kam shumë punë. | Ich bin gestresst, weil ich viel Arbeit habe.
+Level 5 | 92 | Lepuri asht më i vogël se ariu. | Der Hase ist kleiner als der Bär.
+Level 5 | 93 | Më pëlqen natyra, ndërsa vllait i pëlqen qyteti. | Ich mag die Natur, während mein Bruder die Stadt mag.
+Level 5 | 94 | A ndje dashuni për këtë kafshë? | Fühlst du Liebe für dieses Tier?
+Level 5 | 95 | Ky lumë asht më i pastri në rajon. | Dieser Fluss ist der sauberste in der Region.
+Level 5 | 96 | Jam i qetë, sepse jam në natyrë. | Ich bin ruhig, weil ich in der Natur bin.
+Level 5 | 97 | Kalërimi asht më i vështirë se çiklizmi. | Reiten ist schwieriger als Radfahren.
+Level 5 | 98 | Sot asht mot i nxehtë, ndërsa nesër do të jetë më freskët. | Heute ist heißes Wetter, während es morgen kühler sein wird.
+Level 5 | 99 | A e dashnon babanë tënd? — Po, shumë. | Liebst du deinen Vater? — Ja, sehr.
+Level 5 | 100 | Majmuni asht më i zgjuar se derri. | Der Affe ist klüger als das Schwein.
+Level 5 | 101 | Më pëlqen të shëtis në pyll, sepse ajri asht i pastër. | Ich mag es, im Wald spazieren zu gehen, weil die Luft sauber ist.
+Level 5 | 102 | Ai asht më i riu në klasën tonë. | Er ist der Jüngste in unserer Klasse.
+Level 5 | 103 | Në pranverë dëgjoj zogjtë, ndërsa në dimër fryn era. | Im Frühling höre ich die Vögel, während im Winter der Wind weht.
+Level 5 | 104 | Kam frikë nga bubullimat, sepse janë të forta. | Ich habe Angst vor Donner, weil er laut ist.
+Level 5 | 105 | A po mendon se vera asht më e mirë se dimri? | Denkst du, dass der Sommer besser ist als der Winter?
+Level 5 | 106 | Më pëlqen shiu, sepse freskon ajrin. | Ich mag den Regen, weil er die Luft erfrischt.
+Level 5 | 107 | Jam shumë i dashun për familjen time. | Ich bin meiner Familie sehr zugetan.
+Level 5 | 108 | Kjo lule asht më e bukura në kopsht. | Diese Blume ist die schönste im Garten.
+Level 5 | 109 | Sot kam gëzim të madh, sepse vjen nana. | Heute habe ich große Freude, weil Mama kommt.
+Level 5 | 110 | Në verë bën vapë, ndërsa në dimër bën ftohtë. | Im Sommer ist es heiß, während es im Winter kalt ist.
+Level 5 | 111 | A beson se natyrën duhet me e mbrojtë? | Glaubst du, dass man die Natur schützen muss?
+Level 5 | 112 | Ky mal asht më i larti në Kosovë, sepse ka shumë borë. | Dieser Berg ist der höchste im Kosovo, weil er viel Schnee hat.
+
+
+═══════════════════════════════════════════════════════════════════════════════════
+  LEVEL 6 — REISEN, TRANSPORT, WEGBESCHREIBUNGEN, EINKAUFEN, GELD, TECHNOLOGIE
+  (~111 Sätze)
+═══════════════════════════════════════════════════════════════════════════════════
+
+Level 6 | 1 | A je tu shkue n'treg me blejtë ca mollë? | Gehst du zum Markt um ein paar Äpfel zu kaufen?
+Level 6 | 2 | Autobusi që shkon n'Prishtinë niset n'ora pesë. | Der Bus, der nach Pristina fährt, startet um fünf Uhr.
+Level 6 | 3 | Sa kushton kjo veturë që po shof? | Wie viel kostet dieses Auto, das ich sehe?
+Level 6 | 4 | Kam blejtë nji telefon të ri që ka kamër të mirë. | Ich habe ein neues Telefon gekauft, das eine gute Kamera hat.
+Level 6 | 5 | A mund të më tregosh kah asht stacioni i autobusit? | Kannst du mir zeigen, wo die Bushaltestelle ist?
+Level 6 | 6 | Kjo çantë kushton shumë, por ajo asht më e lirë. | Diese Tasche kostet viel, aber jene ist billiger.
+Level 6 | 7 | Furgoni që shkon n'Prizren niset n'ora gjashtë. | Der Kleinbus, der nach Prizren fährt, startet um sechs Uhr.
+Level 6 | 8 | Sa para ke shpenzue për blerje sot? | Wie viel Geld hast du heute für Einkäufe ausgegeben?
+Level 6 | 9 | Kompjuteri që kam blejtë asht shumë i shpejtë. | Der Computer, den ich gekauft habe, ist sehr schnell.
+Level 6 | 10 | Kthehu majtas në semafor, pastaj vazhdo drejt. | Bieg an der Ampel links ab, dann fahr geradeaus.
+Level 6 | 11 | A ke para të mjaftueshme për biletë? | Hast du genug Geld für ein Ticket?
+Level 6 | 12 | Kjo rrugë që shkon në qendër asht shumë e ngarkume. | Diese Straße, die ins Zentrum führt, ist sehr befahren.
+Level 6 | 13 | Kam porositë nji laptop të ri për punë. | Ich habe einen neuen Laptop für die Arbeit bestellt.
+Level 6 | 14 | A din kah asht marketi më i afërm? | Weißt du, wo der nächste Supermarkt ist?
+Level 6 | 15 | Sa larg asht stacioni i trenit prej këtu? | Wie weit ist der Bahnhof von hier?
+Level 6 | 16 | Kjo kartelë bankare më lejon me paguë online. | Diese Bankkarte erlaubt mir, online zu bezahlen.
+Level 6 | 17 | A shesin mollë në këtë treg? | Verkaufen sie Äpfel auf diesem Markt?
+Level 6 | 18 | Makina që kam marrë me qira asht shumë e re. | Das Auto, das ich gemietet habe, ist sehr neu.
+Level 6 | 19 | Du me shkue n'Prishtinë me tren, por bileta s'asht lirë. | Ich will nach Pristina mit dem Zug fahren, aber das Ticket ist nicht billig.
+Level 6 | 20 | Sa shumë njerëz janë në këtë dyqan sot! | Wie viele Leute sind heute in diesem Geschäft!
+Level 6 | 21 | Telefoni im ka ekran që thyhet lehtë. | Mein Telefon hat einen Bildschirm, der leicht bricht.
+Level 6 | 22 | A je tu shkue n'qendër tregtare me blejtë rroba? | Gehst du ins Einkaufszentrum, um Kleidung zu kaufen?
+Level 6 | 23 | Mund të paguaj me kartelë apo me para në dorë? | Kann ich mit Karte oder bar bezahlen?
+Level 6 | 24 | Kjo asht rruga që shkon n'aeroport. | Das ist die Straße, die zum Flughafen führt.
+Level 6 | 25 | Sa kushton biletë vajtje-ardhje për n'Gjermani? | Wie viel kostet ein Hin- und Rückflugticket nach Deutschland?
+Level 6 | 26 | A ke provue këtë aplikacion që tregon hartën? | Hast du diese App ausprobiert, die die Karte zeigt?
+Level 6 | 27 | Kam marrë veturën me qira për tri ditë. | Ich habe das Auto für drei Tage gemietet.
+Level 6 | 28 | Dyqani që shet bukë asht në cep të rrugës. | Das Geschäft, das Brot verkauft, ist an der Ecke.
+Level 6 | 29 | Sa orë duhet me shkue prej Prishtinës n'Tiranë? | Wie viele Stunden braucht man von Pristina nach Tirana?
+Level 6 | 30 | Po kërkoj nji hotel që s'asht shumë i shtrenjtë. | Ich suche ein Hotel, das nicht sehr teuer ist.
+Level 6 | 31 | A ke lidhje interneti në shtëpi? | Hast du eine Internetverbindung zu Hause?
+Level 6 | 32 | Jam tu shkue n'treg me blejtë perime të freskëta. | Ich gehe zum Markt, um frisches Gemüse zu kaufen.
+Level 6 | 33 | Kjo veturë që shof atje asht e vllait tim. | Dieses Auto, das ich dort sehe, gehört meinem Bruder.
+Level 6 | 34 | Sa kushton në kilogram mollët? | Wie viel kostet ein Kilo Äpfel?
+Level 6 | 35 | Treni që shkon për n'Shkup niset n'ora tetë. | Der Zug, der nach Skopje fährt, startet um acht Uhr.
+Level 6 | 36 | Mund të më tregosh kah asht banka më e afërt? | Kannst du mir zeigen, wo die nächste Bank ist?
+Level 6 | 37 | Kam shpenzue shumë para për teknologji këtë muaj. | Ich habe diesen Monat viel Geld für Technologie ausgegeben.
+Level 6 | 38 | Këpucët që kam blejtë janë shumë komode. | Die Schuhe, die ich gekauft habe, sind sehr bequem.
+Level 6 | 39 | A ka nji stacion autobusi afër këtu? | Gibt es eine Bushaltestelle in der Nähe?
+Level 6 | 40 | Sa larg asht aeroporti prej qendrës? | Wie weit ist der Flughafen vom Zentrum entfernt?
+Level 6 | 41 | Porosia që kam ba online do të vij sonte. | Die Bestellung, die ich online gemacht habe, wird heute Abend kommen.
+Level 6 | 42 | A pranon kjo shitore kartela krediti? | Akzeptiert dieser Laden Kreditkarten?
+Level 6 | 43 | Unë kam shumë aplikacione në telefon që përdori çdo ditë. | Ich habe viele Apps auf dem Telefon, die ich jeden Tag benutze.
+Level 6 | 44 | Kthehu djathtas në udhëkryq, pastaj vazhdo drejt. | Bieg an der Kreuzung rechts ab, dann fahr geradeaus.
+Level 6 | 45 | Sa kushton nji biletë autobusi për në qytet? | Wie viel kostet ein Busticket in die Stadt?
+Level 6 | 46 | Restoranti që rekomandon ti asht shumë i mirë. | Das Restaurant, das du empfiehlst, ist sehr gut.
+Level 6 | 47 | Kam harruë portofolin në shtëpi me të gjitha paratë. | Ich habe das Portemonnaie mit dem ganzen Geld zu Hause vergessen.
+Level 6 | 48 | A je tu shkue n'pazar me blejtë mish? | Gehst du auf den Markt, um Fleisch zu kaufen?
+Level 6 | 49 | Furgoni që shkon n'Pejë niset prej këtu. | Der Kleinbus, der nach Peja fährt, startet von hier.
+Level 6 | 50 | Këto këpucë që kam provue janë shumë të shtrenjta. | Diese Schuhe, die ich anprobiert habe, sind sehr teuer.
+Level 6 | 51 | A ki para të mjaftueshme për të paguë qiranë? | Hast du genug Geld, um die Miete zu bezahlen?
+Level 6 | 52 | Taksi që na mori në aeroport ishte shumë i shpejtë. | Das Taxi, das uns am Flughafen abholte, war sehr schnell.
+Level 6 | 53 | Sa shumë trafik ka në këtë rrugë! | Wie viel Verkehr ist auf dieser Straße!
+Level 6 | 54 | Kjo aplikacion që shkarkova asht shumë e dobishme. | Diese App, die ich heruntergeladen habe, ist sehr nützlich.
+Level 6 | 55 | A din kah asht farmacia më e afërt? | Weißt du, wo die nächste Apotheke ist?
+Level 6 | 56 | Kam blejtë nji valixhe të re për udhëtim. | Ich habe einen neuen Koffer für die Reise gekauft.
+Level 6 | 57 | Çmimi që ke thânë asht fort i lartë. | Der Preis, den du gesagt hast, ist sehr hoch.
+Level 6 | 58 | Vazhdo drejt për dy kilometra, pastaj kthehu majtas. | Fahr zwei Kilometer geradeaus, dann bieg links ab.
+Level 6 | 59 | A ke provue me blé online ndonjëherë? | Hast du jemals online eingekauft?
+Level 6 | 60 | Ky smartphone që kam blejtë ka bateri të mirë. | Dieses Smartphone, das ich gekauft habe, hat einen guten Akku.
+Level 6 | 61 | Sa kushton me marrë nji veturë me qira për një javë? | Wie viel kostet es, ein Auto für eine Woche zu mieten?
+Level 6 | 62 | Në këtë dyqan shesin rroba që janë në modë. | In diesem Geschäft verkaufen sie Kleidung, die in Mode ist.
+Level 6 | 63 | A ka nji bankomat afër këtu? | Gibt es einen Geldautomaten in der Nähe?
+Level 6 | 64 | Hotel që kam rezervue asht pranë plazhit. | Das Hotel, das ich reserviert habe, ist am Strand.
+Level 6 | 65 | Kam shumë punë, por pak para. | Ich habe viel Arbeit, aber wenig Geld.
+Level 6 | 66 | Furgoni niset kah Gjakova n'ora nëntë. | Der Kleinbus fährt um neun Uhr Richtung Gjakova.
+Level 6 | 67 | A mund të paguaj me kartelë në këtë market? | Kann ich in diesem Supermarkt mit Karte bezahlen?
+Level 6 | 68 | Kjo rrugë që shkon n'stacion asht shumë e ngarkume. | Diese Straße, die zum Bahnhof führt, ist sehr befahren.
+Level 6 | 69 | Sa kushton nji kilogram mish pule? | Wie viel kostet ein Kilo Hühnerfleisch?
+Level 6 | 70 | Telefoni im ka nji kamerë që bën fotografi të bukura. | Mein Telefon hat eine Kamera, die schöne Fotos macht.
+Level 6 | 71 | Du me shkue n'Tiranë me aeroplan javën tjetër. | Ich will nächste Woche mit dem Flugzeug nach Tirana fliegen.
+Level 6 | 72 | A shesin peshk të freskët në këtë treg? | Verkaufen sie frischen Fisch auf diesem Markt?
+Level 6 | 73 | Kam harruë fjalëkalimin për llogarinë time. | Ich habe das Passwort für mein Konto vergessen.
+Level 6 | 74 | Restoranti që asht përballë stacionit asht i mirë. | Das Restaurant, das gegenüber dem Bahnhof ist, ist gut.
+Level 6 | 75 | Sa shumë shitore ka në këtë qendër tregtare! | Wie viele Geschäfte es in diesem Einkaufszentrum gibt!
+Level 6 | 76 | A je tu pritë autobusin që shkon në qytet? | Wartest du auf den Bus, der in die Stadt fährt?
+Level 6 | 77 | Ky çmim asht fort i ulët për këtë produkt. | Dieser Preis ist sehr niedrig für dieses Produkt.
+Level 6 | 78 | Kam blejtë nji biletë online për koncert. | Ich habe ein Ticket online für das Konzert gekauft.
+Level 6 | 79 | Rruga që shkon n'plazh asht shumë e bukur. | Die Straße, die zum Strand führt, ist sehr schön.
+Level 6 | 80 | A din kah asht hyrja për në park? | Weißt du, wo der Eingang zum Park ist?
+Level 6 | 81 | Kam shkarkue nji program që më ndihmon me mësue gjuhë. | Ich habe ein Programm heruntergeladen, das mir beim Sprachenlernen hilft.
+Level 6 | 82 | Sa kushton me dërgu nji parcelë n'Gjermani? | Wie viel kostet es, ein Paket nach Deutschland zu schicken?
+Level 6 | 83 | A shesin bukë të freskët në këtë furrë? | Verkaufen sie frisches Brot in dieser Bäckerei?
+Level 6 | 84 | Kjo veturë që po shof ka ngjyrë të kuqe. | Dieses Auto, das ich sehe, hat eine rote Farbe.
+Level 6 | 85 | Jam tu shkue në stacion me marrë trenin për n'shpi. | Ich gehe zum Bahnhof, um den Zug nach Hause zu nehmen.
+Level 6 | 86 | Kam shumë fotografi në telefon që du me i ruajtë. | Ich habe viele Fotos auf dem Telefon, die ich speichern muss.
+Level 6 | 87 | A pranon kjo furrë pagesë me kartelë? | Akzeptiert diese Bäckerei Kartenzahlung?
+Level 6 | 88 | Stacioni i autobusit që kërkon ti asht aty prapa. | Die Bushaltestelle, die du suchst, ist dort hinten.
+Level 6 | 89 | Sa orë udhëtim asht prej Prishtinës në Shkup? | Wie viele Stunden Fahrt ist es von Pristina nach Skopje?
+Level 6 | 90 | A ke pa çmimet e reja në këtë dyqan? — Janë fort të larta. | Hast du die neuen Preise in diesem Geschäft gesehen? — Sie sind sehr hoch.
+Level 6 | 91 | Kjo faqe interneti që përdori asht shumë e shpejtë. | Diese Website, die ich benutze, ist sehr schnell.
+Level 6 | 92 | A je tu shkue në aeroport me pritë motrën? | Gehst du zum Flughafen, um die Schwester abzuholen?
+Level 6 | 93 | Kam hapë nji llogari bankare për kursim parash. | Ich habe ein Bankkonto zum Geldsparen eröffnet.
+Level 6 | 94 | Rruga më e shkurtër për n'qendër asht këndej. | Der kürzeste Weg ins Zentrum ist hier entlang.
+Level 6 | 95 | Sa shumë para kam shpenzue për teknologji këtë vit! | Wie viel Geld ich dieses Jahr für Technologie ausgegeben habe!
+Level 6 | 96 | A shetin qumësht organik në këtë market? | Verkaufen sie Bio-Milch in diesem Supermarkt?
+Level 6 | 97 | Laptopi që kam blejtë asht më i miri për programim. | Der Laptop, den ich gekauft habe, ist der beste zum Programmieren.
+Level 6 | 98 | Mund të më tregosh kah asht dalja për n'Tiranë? | Kannst du mir zeigen, wo die Ausfahrt nach Tirana ist?
+Level 6 | 99 | Kam blejtë pak fruta dhe shumë perime në treg. | Ich habe wenig Obst und viel Gemüse auf dem Markt gekauft.
+Level 6 | 100 | A ke provue këtë ruter që ka sinjal më të fortë? | Hast du diesen Router ausprobiert, der ein stärkeres Signal hat?
+Level 6 | 101 | Në këtë rrugë që shkon n'shkollë ka shumë makina. | Auf dieser Straße, die zur Schule führt, gibt es viele Autos.
+Level 6 | 102 | Sa kushton me mbushë veturën me benzinë? | Wie viel kostet es, das Auto zu betanken?
+Level 6 | 103 | A ka nji stacion të autobusit që shkon n'Prishtinë? | Gibt es eine Bushaltestelle, die nach Pristina fährt?
+Level 6 | 104 | Kjo kartelë debiti më ndihmon me menaxhu paratë. | Diese Debitkarte hilft mir, das Geld zu verwalten.
+Level 6 | 105 | Jam tu shkue në treg me blejtë pak djathë e shumë ullinj. | Ich gehe zum Markt, um wenig Käse und viele Oliven zu kaufen.
+Level 6 | 106 | A din për nji aplikacion që tregon trafikun në kohë reale? | Weißt du von einer App, die den Verkehr in Echtzeit zeigt?
+Level 6 | 107 | Udhëtimi që kam planifikue për verë asht shumë i gjatë. | Die Reise, die ich für den Sommer geplant habe, ist sehr lang.
+Level 6 | 108 | Sa kushton nji orë dore që ka GPS? | Wie viel kostet eine Armbanduhr, die GPS hat?
+Level 6 | 109 | Këpucët që kam blejtë në zbritje ishin fort lirë. | Die Schuhe, die ich im Angebot gekauft habe, waren sehr billig.
+Level 6 | 110 | A ke shkue ndonjëherë n'Tiranë me autobus? | Bist du jemals mit dem Bus nach Tirana gefahren?
+Level 6 | 111 | Ky telefon që kam blejtë ka një ekran shumë të madh. | Dieses Telefon, das ich gekauft habe, hat einen sehr großen Bildschirm.
+Level 6 | 112 | Kam porositë shumë sende online, por pak kanë ardhë deri tash. | Ich habe viele Sachen online bestellt, aber wenige sind bis jetzt angekommen.
+
+
+═══════════════════════════════════════════════════════════════════════════════════
+  GJITHSEJT: 336 SÄTZE (Level 4: 112, Level 5: 112, Level 6: 112)
+  Dialekt: Gheg (Kosovo-Variante)
+  Erstellt für Deutschsprachige Lernende des Kosovo-Albanischen
+═══════════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,1367 @@
+═══════════════════════════════════════════════════════════════════════════════════
+  GHEG (KOSOVO-ALBANISCH) BEISPIELSÄTZE — LEVEL 7, 8, 9
+  Fortgeschrittene Stufen — ~333 Sätze
+  Format: Level | # | Gheg (Kosovo) | Deutsch
+═══════════════════════════════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════════════════════════════
+  LEVEL 7 — Abstrakte Konzepte, Bedingungssätze, Modalverben, Adverbien
+  ~111 Sätze
+═══════════════════════════════════════════════════════════════════════════════════
+
+7 | 001 | Nëse ki besim n'vetvete, mun me ba çka t'dashish.
+7 | 001 | Wenn du Vertrauen in dich selbst hast, kannst du machen, was du willst.
+
+7 | 002 | Gjithmonë duhet me shpresu për më t'mirë.
+7 | 002 | Man muss immer auf das Beste hoffen.
+
+7 | 003 | Liria asht nji e drejtë që s'mun t'na merr kush.
+7 | 003 | Freiheit ist ein Recht, das uns niemand nehmen kann.
+
+7 | 004 | Nëse don me arrit sukses, duhet me punu fort.
+7 | 004 | Wenn du Erfolg erzielen willst, musst du hart arbeiten.
+
+7 | 005 | Drejtësia vjen ngadalë, por gjithmonë vjen.
+7 | 005 | Gerechtigkeit kommt langsam, aber sie kommt immer.
+
+7 | 006 | Paqja asht gjaja më e çmueshme për njerëzimin.
+7 | 006 | Der Frieden ist das Wertvollste für die Menschheit.
+
+7 | 007 | Nëse s'ki shpresë, s'ki as jetë.
+7 | 007 | Wenn du keine Hoffnung hast, hast du auch kein Leben.
+
+7 | 008 | Dëshiroj me t'pa sa më shpejt.
+7 | 008 | Ich wünsche, dich so schnell wie möglich zu sehen.
+
+7 | 009 | Besimi n'familje asht gjithçka.
+7 | 009 | Vertrauen in die Familie ist alles.
+
+7 | 010 | Nëse vjen nesër, mun mi marrë sendet.
+7 | 010 | Wenn du morgen kommst, kannst du die Sachen abholen.
+
+7 | 011 | Shpresa asht ajo që na mban gjallë.
+7 | 011 | Hoffnung ist das, was uns am Leben hält.
+
+7 | 012 | Kurrë mos e lsho shpresën, se pa t'keq s'ka t'mirë.
+7 | 012 | Gib niemals die Hoffnung auf, denn ohne Schlechtes gibt es kein Gutes.
+
+7 | 013 | Mundesh me ardhë n'çdo kohë që t'vjen përshtat.
+7 | 013 | Du kannst zu jeder Zeit kommen, die dir passt.
+
+7 | 014 | Nëse e do lirinë, duhet me luftu për t'.
+7 | 014 | Wenn du die Freiheit liebst, musst du für sie kämpfen.
+
+7 | 015 | Fëmijët janë e ardhmja jona.
+7 | 015 | Die Kinder sind unsere Zukunft.
+
+7 | 016 | Gjithmonë ki mendjen kah po shkon.
+7 | 016 | Hab immer im Kopf, wohin du gehst.
+
+7 | 017 | Nëse don paqe, përgatitu për luftë.
+7 | 017 | Wenn du Frieden willst, bereite dich auf den Krieg vor.
+
+7 | 018 | Drejtësia s'asht veç nji fjalë, asht nji veprim.
+7 | 018 | Gerechtigkeit ist nicht nur ein Wort, sie ist eine Handlung.
+
+7 | 019 | Kam shpresë se moti do të mirësohet.
+7 | 019 | Ich habe Hoffnung, dass das Wetter besser wird.
+
+7 | 020 | Nëse s'flet ngadalë, s'po t'kuptoj.
+7 | 020 | Wenn du nicht langsam sprichst, verstehe ich dich nicht.
+
+7 | 021 | Besimi yt te Zoti asht i fortë.
+7 | 021 | Dein Vertrauen zu Gott ist stark.
+
+7 | 022 | Duhet me ba më shumë për paqe n'botë.
+7 | 022 | Man muss mehr für den Frieden in der Welt tun.
+
+7 | 023 | Nëse vjen shpejt, mun të pres n'stacion.
+7 | 023 | Wenn du schnell kommst, kann ich dich an der Station erwarten.
+
+7 | 024 | Liria e fjalës asht nji e drejtë themelore.
+7 | 024 | Die Meinungsfreiheit ist ein grundlegendes Recht.
+
+7 | 025 | Sa fort ke punu, more vlla!
+7 | 025 | Wie hart du gearbeitet hast, Bruder!
+
+7 | 026 | Nëse do me mujtë, duhet me besu n'vetvete.
+7 | 026 | Wenn du können willst, musst du an dich selbst glauben.
+
+7 | 027 | Gjithmonë ka shpresë, edhe kur duket e pamundshme.
+7 | 027 | Es gibt immer Hoffnung, auch wenn es unmöglich scheint.
+
+7 | 028 | Dëshiroj me t'pa nesër n'mëngjes.
+7 | 028 | Ich wünsche, dich morgen früh zu sehen.
+
+7 | 029 | Nëse ki durim, gjithçka vjen në kohë.
+7 | 029 | Wenn du Geduld hast, kommt alles zu seiner Zeit.
+
+7 | 030 | Drejtësia pa liri s'asht gjë.
+7 | 030 | Gerechtigkeit ohne Freiheit ist nichts.
+
+7 | 031 | A mundesh me m'ndihmua me këtë punë?
+7 | 031 | Kannst du mir bei dieser Arbeit helfen?
+
+7 | 032 | Nëse ma jep besën, unë ta jap timën.
+7 | 032 | Wenn du mir dein Ehrenwort gibst, gebe ich dir meines.
+
+7 | 033 | Shpresoj se gjithçka ka me shku mirë.
+7 | 033 | Ich hoffe, dass alles gut gehen wird.
+
+7 | 034 | Paqja n'familje asht më e rândësishmja.
+7 | 034 | Der Frieden in der Familie ist das Wichtigste.
+
+7 | 035 | Nëse të du, t'du fort, moj zêmër.
+7 | 035 | Wenn ich dich liebe, liebe ich dich stark, mein Herz.
+
+7 | 036 | Gjithmonë duhet me ndjek ëndrrat tua.
+7 | 036 | Man muss immer seinen Träumen folgen.
+
+7 | 037 | Liria s'vjen falas, duhet me e fitu.
+7 | 037 | Freiheit kommt nicht umsonst, man muss sie verdienen.
+
+7 | 038 | Nëse s'bon shpejt, na vonohemi.
+7 | 038 | Wenn du nicht schnell machst, kommen wir zu spät.
+
+7 | 039 | Besimi te miqtë asht nji dhuratë e çmueshme.
+7 | 039 | Vertrauen zu Freunden ist ein wertvolles Geschenk.
+
+7 | 040 | Kurrë mos thuaj kurrë, se jeta asht e gjatë.
+7 | 040 | Sag niemals nie, denn das Leben ist lang.
+
+7 | 041 | Nëse don me ndryshu botën, fillo prej vetes.
+7 | 041 | Wenn du die Welt verändern willst, fang bei dir selbst an.
+
+7 | 042 | Duhet me folë t'vërtetën, sado e vështirë të jetë.
+7 | 042 | Man muss die Wahrheit sagen, so schwer sie auch sei.
+
+7 | 043 | Shpresa asht ajo që na bën me ecë përpara.
+7 | 043 | Hoffnung ist das, was uns vorwärts gehen lässt.
+
+7 | 044 | Nëse ki kurajë, mun me i kalu të gjitha vështirësitë.
+7 | 044 | Wenn du Mut hast, kannst du alle Schwierigkeiten überwinden.
+
+7 | 045 | Unë gjithmonë kam besu te njerëzit e mirë.
+7 | 045 | Ich habe immer an die guten Menschen geglaubt.
+
+7 | 046 | Paqja fillon n'zemrën e njeriut.
+7 | 046 | Der Frieden beginnt im Herzen des Menschen.
+
+7 | 047 | Nëse s'vonon, na mun me hangër bashkë.
+7 | 047 | Wenn du nicht zu spät kommst, können wir zusammen essen.
+
+7 | 048 | Dëshiroj me t'pa të lumtun gjithmonë.
+7 | 048 | Ich wünsche, dich immer glücklich zu sehen.
+
+7 | 049 | Nëse asht dashtë Zoti, na takohemi prapë.
+7 | 049 | Wenn Gott will, treffen wir uns wieder.
+
+7 | 050 | Drejtësia duhet me dalë n'pah gjithmonë.
+7 | 050 | Gerechtigkeit muss immer ans Licht kommen.
+
+7 | 051 | Lirinë s'mun me e ble as me pare.
+7 | 051 | Freiheit kann man nicht einmal mit Geld kaufen.
+
+7 | 052 | Nëse punon fort, ki sukses n'jetë.
+7 | 052 | Wenn du hart arbeitest, hast du Erfolg im Leben.
+
+7 | 053 | Shpresoj se ki me ardhë n'dasëm.
+7 | 053 | Ich hoffe, du wirst zur Hochzeit kommen.
+
+7 | 054 | Besimi yt më bënë më të fortë.
+7 | 054 | Dein Vertrauen macht mich stärker.
+
+7 | 055 | Nëse don me dalë sonte, më thirr.
+7 | 055 | Wenn du heute Abend ausgehen willst, ruf mich an.
+
+7 | 056 | Gjithmonë ki nji plan B, se jeta s'asht e sigurt.
+7 | 056 | Hab immer einen Plan B, denn das Leben ist nicht sicher.
+
+7 | 057 | Paqja mondiale asht qëllimi ynë i përbashkët.
+7 | 057 | Der Weltfrieden ist unser gemeinsames Ziel.
+
+7 | 058 | Nëse s'ki besim, s'ki as miq.
+7 | 058 | Wenn du kein Vertrauen hast, hast du auch keine Freunde.
+
+7 | 059 | Kurrë mos u dorëzo, edhe kur asht më s'vështiri.
+7 | 059 | Gib niemals auf, auch wenn es am schwierigsten ist.
+
+7 | 060 | Drejtësia sociale asht e nevojshme për nji shoqëri të shëndoshë.
+7 | 060 | Soziale Gerechtigkeit ist notwendig für eine gesunde Gesellschaft.
+
+7 | 061 | Nëse do me m'pa, e di kah jom.
+7 | 061 | Wenn du mich sehen willst, weißt du, wo ich bin.
+
+7 | 062 | Kam shpresë se bota ka me ndryshu për mirë.
+7 | 062 | Ich habe Hoffnung, dass sich die Welt zum Besseren ändern wird.
+
+7 | 063 | Liria personale asht e shenjtë.
+7 | 063 | Die persönliche Freiheit ist heilig.
+
+7 | 064 | Nëse s'pushon, do t'lodhesh fort.
+7 | 064 | Wenn du dich nicht ausruhst, wirst du sehr müde werden.
+
+7 | 065 | Besimi n'Zot i jep kuptim jetës.
+7 | 065 | Der Glaube an Gott gibt dem Leben Sinn.
+
+7 | 066 | Gjithmonë duhet me ndihmu ata që janë n'nevojë.
+7 | 066 | Man muss immer denen helfen, die in Not sind.
+
+7 | 067 | Nëse don paqe, respekto tjetrin.
+7 | 067 | Wenn du Frieden willst, respektiere den Anderen.
+
+7 | 068 | Shpejt a vonë, drejtësia ka me dalë n'sipërfaqe.
+7 | 068 | Früher oder später wird die Gerechtigkeit an die Oberfläche kommen.
+
+7 | 069 | Dëshiroj me t'falë për gjithçka.
+7 | 069 | Ich wünsche, dir für alles zu vergeben.
+
+7 | 070 | Nëse vjen me makinë, mun me ardhë më shpejt.
+7 | 070 | Wenn du mit dem Auto kommst, kannst du schneller kommen.
+
+7 | 071 | Shpresën e fundit kurrë mos e humb.
+7 | 071 | Die letzte Hoffnung verliere niemals.
+
+7 | 072 | Liria e mendimit asht nji e drejtë e patjetërsueshme.
+7 | 072 | Die Gedankenfreiheit ist ein unveräußerliches Recht.
+
+7 | 073 | Nëse ki durim, gjithçka vjen në rregull.
+7 | 073 | Wenn du Geduld hast, kommt alles in Ordnung.
+
+7 | 074 | Sa fort t'du, vllai im!
+7 | 074 | Wie sehr ich dich liebe, mein Bruder!
+
+7 | 075 | Besimi te vetja asht gjysma e suksesit.
+7 | 075 | Das Vertrauen in sich selbst ist die Hälfte des Erfolgs.
+
+7 | 076 | Gjithmonë ka nji shpresë për nji ditë më të mirë.
+7 | 076 | Es gibt immer eine Hoffnung auf einen besseren Tag.
+
+7 | 077 | Nëse s'jen mirë, m'thirr.
+7 | 077 | Wenn es dir nicht gut geht, ruf mich an.
+
+7 | 078 | Drejtësia s'asht e verbër, por ndonjëherë shtiret.
+7 | 078 | Gerechtigkeit ist nicht blind, aber manchmal tut sie so.
+
+7 | 079 | Paqja fillon aty ku mbaron egoizmi.
+7 | 079 | Frieden beginnt dort, wo der Egoismus endet.
+
+7 | 080 | Nëse don me mësue gjuhën, duhet me praktikue shumë.
+7 | 080 | Wenn du die Sprache lernen willst, musst du viel üben.
+
+7 | 081 | Kam besim se do t'ja dalim.
+7 | 081 | Ich habe Vertrauen, dass wir es schaffen werden.
+
+7 | 082 | Shpresoj se nuk asht vonë për me fillue.
+7 | 082 | Ich hoffe, es ist nicht zu spät, um anzufangen.
+
+7 | 083 | Nëse asht e mundshme, hajde sa më shpejt.
+7 | 083 | Wenn es möglich ist, komm so schnell wie möglich.
+
+7 | 084 | Liria pa përgjegjësi s'asht liri.
+7 | 084 | Freiheit ohne Verantwortung ist keine Freiheit.
+
+7 | 085 | Gjithmonë duhet me shpresu për mrekulli.
+7 | 085 | Man muss immer auf Wunder hoffen.
+
+7 | 086 | Nëse m'shkon mendja, ai ka ardhë dje.
+7 | 086 | Wenn ich mich recht erinnere, ist er gestern gekommen.
+
+7 | 087 | Duhet me folë ngadalë se fëmija po fle.
+7 | 087 | Du musst leise sprechen, denn das Kind schläft.
+
+7 | 088 | Besimi ynë si popull asht i pathyeshëm.
+7 | 088 | Unser Glaube als Volk ist unzerbrechlich.
+
+7 | 089 | Kurrë mos e harro prej kah je.
+7 | 089 | Vergiss niemals, woher du kommst.
+
+7 | 090 | Nëse don me shkue n'Kosovë, duhet me pasë pasaportë.
+7 | 090 | Wenn du in den Kosovo reisen willst, musst du einen Pass haben.
+
+7 | 091 | Paqja e zemrës asht më e rëndësishme se pasunia.
+7 | 091 | Der Frieden des Herzens ist wichtiger als Reichtum.
+
+7 | 092 | Sa shpejt kalon koha kur je me njerëzit e dashtun!
+7 | 092 | Wie schnell die Zeit vergeht, wenn man bei den Liebsten ist!
+
+7 | 093 | Drejtësia kërkon guxim për me u zbatu.
+7 | 093 | Gerechtigkeit erfordert Mut, um umgesetzt zu werden.
+
+7 | 094 | Nëse don me pasë sukses, duhet me sakrifikue.
+7 | 094 | Wenn du Erfolg haben willst, musst du opfern.
+
+7 | 095 | Shpresa ynë asht te brezi i ri.
+7 | 095 | Unsere Hoffnung liegt in der jungen Generation.
+
+7 | 096 | Liria asht si era — s'mun me e pa, por e ndjen.
+7 | 096 | Freiheit ist wie der Wind — man kann sie nicht sehen, aber man fühlt sie.
+
+7 | 097 | Nëse je i lodhun, pusho nji çikë.
+7 | 097 | Wenn du müde bist, ruh dich ein bisschen aus.
+
+7 | 098 | Duhet me besu më shumë te vetja jote.
+7 | 098 | Du musst mehr an dich selbst glauben.
+
+7 | 099 | Gjithmonë ka nji rrugëdalje, s'ka kah me shkue.
+7 | 099 | Es gibt immer einen Ausweg, es muss einen geben.
+
+7 | 100 | Nëse don me m'folë, m'thirr n'çdo kohë.
+7 | 100 | Wenn du mit mir sprechen willst, ruf mich jederzeit an.
+
+7 | 101 | Paqja n'shpi asht baza e çdo suksesi.
+7 | 101 | Der Frieden zu Hause ist die Basis jedes Erfolgs.
+
+7 | 102 | Drejtësia e Zotit vonon, por nuk harron.
+7 | 102 | Die Gerechtigkeit Gottes kommt spät, aber sie vergisst nicht.
+
+7 | 103 | Nëse shiu ndalet, dalim për nji shëtitje.
+7 | 103 | Wenn der Regen aufhört, gehen wir spazieren.
+
+7 | 104 | Kam besim se edhe këtë vështirësi ka me e kalu.
+7 | 104 | Ich habe Vertrauen, dass er auch diese Schwierigkeit überwinden wird.
+
+7 | 105 | Shpresoj se nuk ke harru premtimin tând.
+7 | 105 | Ich hoffe, du hast dein Versprechen nicht vergessen.
+
+7 | 106 | Nëse don me jetu n'paqe, jeto n'harmoni me natyrën.
+7 | 106 | Wenn du in Frieden leben willst, lebe in Harmonie mit der Natur.
+
+7 | 107 | Liria e besimit asht nji e drejtë e njeriut.
+7 | 107 | Die Religionsfreiheit ist ein Menschenrecht.
+
+7 | 108 | Gjithmonë duhet me kujtu se çka asht e rëndësishme n'jetë.
+7 | 108 | Man muss immer daran denken, was im Leben wichtig ist.
+
+7 | 109 | Nëse deshton, mos u mërzit — provo prapë.
+7 | 109 | Wenn du scheiterst, ärgere dich nicht — versuch es wieder.
+
+7 | 110 | Besimi yt më jep forcë për me vazhdue.
+7 | 110 | Dein Vertrauen gibt mir Kraft, weiterzumachen.
+
+7 | 111 | Shpresa asht dielli që ndriçon edhe natën më të errët.
+7 | 111 | Hoffnung ist die Sonne, die selbst in der dunkelsten Nacht leuchtet.
+
+7 | 112 | Nëse don me shkue larg, duhet me fillue prej nji hapi.
+7 | 112 | Wenn du weit gehen willst, musst du mit einem Schritt beginnen.
+
+7 | 113 | Kurrë mos thuaj s'mun, se ti mun mâ shumë se ç'bon.
+7 | 113 | Sag niemals, du kannst nicht, denn du kannst mehr, als du tust.
+
+7 | 114 | Gjithmonë, në çdo situatë, ruaj qetësinë tande.
+7 | 114 | Bewahre immer, in jeder Situation, deine Ruhe.
+
+═══════════════════════════════════════════════════════════════════════════════════
+  LEVEL 8 — Idiome, Redewendungen, kulturelle Konzepte, Konjunktionen,
+             Passive Formen, juristische/administrative Begriffe
+  ~111 Sätze
+═══════════════════════════════════════════════════════════════════════════════════
+
+8 | 001 | Pasha Zotin, besa e shqiptarit s'shitet e s'bletë!
+8 | 001 | Ich schwöre bei Gott, die Besa eines Albaners wird nicht verkauft und nicht gekauft!
+
+8 | 002 | Megjithatë, gjykata ka marrë nji vendim të drejtë.
+8 | 002 | Trotzdem hat das Gericht eine gerechte Entscheidung getroffen.
+
+8 | 003 | Amanet, ore, ruju prej atij njeriu!
+8 | 003 | Pass auf, Alter, hüte dich vor diesem Menschen!
+
+8 | 004 | Besa ime asht e pathyeshme — pasha nonën!
+8 | 004 | Mein Ehrenwort ist unzerbrechlich — ich schwöre bei meiner Mutter!
+
+8 | 005 | Prandaj, kontrata u nënshkrua dje n'zyrën e avokatit.
+8 | 005 | Deshalb wurde der Vertrag gestern im Büro des Anwalts unterschrieben.
+
+8 | 006 | Ndërkohë, ndërtimi i shkollës së re ka përfundue.
+8 | 006 | Inzwischen ist der Bau der neuen Schule abgeschlossen worden.
+
+8 | 007 | I gjithë fisi u mblodh n'darsmën e vllaut t'madh.
+8 | 007 | Der ganze Clan versammelte sich auf der Hochzeit des großen Bruders.
+
+8 | 008 | Pasha Zotin, këtë punë e kam ba me nder e me besë.
+8 | 008 | Ich schwöre bei Gott, diese Arbeit habe ich mit Ehre und Treue gemacht.
+
+8 | 009 | Megjithatë, vendimi i gjykatës pritet me u apelue.
+8 | 009 | Trotzdem wird die Entscheidung des Gerichts voraussichtlich angefochten werden.
+
+8 | 010 | Kjo shpi i përket familjes sonë prej shekujsh.
+8 | 010 | Dieses Haus gehört seit Jahrhunderten unserer Familie.
+
+8 | 011 | Besa e dhânë s'kthehet mrapa — ashtu asht Kanuni.
+8 | 011 | Ein gegebenes Ehrenwort wird nicht zurückgenommen — so ist der Kanun.
+
+8 | 012 | Prandaj, pagesa duhet me u krye brenda shtatë ditëve.
+8 | 012 | Deshalb muss die Zahlung innerhalb von sieben Tagen erfolgen.
+
+8 | 013 | N'besë të Zotit, unë s'kam pasë kurrë me t'gënjye!
+8 | 013 | Bei Gottes Treue, ich hatte nie die Absicht, dich zu belügen!
+
+8 | 014 | Ndërkohë që prindit punojnë, fëmijët janë n'shkollë.
+8 | 014 | Während die Eltern arbeiten, sind die Kinder in der Schule.
+
+8 | 015 | Ligji i ri është miratu nga Kuvendi i Kosovës.
+8 | 015 | Das neue Gesetz wurde von der Kosovo-Versammlung verabschiedet.
+
+8 | 016 | Amanet, vlla, mos i lsho fëmijët pa mbikëqyrje!
+8 | 016 | Pass auf, Bruder, lass die Kinder nicht unbeaufsichtigt!
+
+8 | 017 | Megjithatë, prokurori ka kërkue dënim më të rëndë.
+8 | 017 | Trotzdem hat der Staatsanwalt eine strengere Strafe gefordert.
+
+8 | 018 | Me dalë n'shpirt më ke nxjerrë me këtë zhurmë!
+8 | 018 | Du gehst mir auf die Nerven mit diesem Lärm!
+
+8 | 019 | Prandaj, patenta e shoferit iu konfiskue për shkak të shpejtësisë.
+8 | 019 | Deshalb wurde der Führerschein wegen Geschwindigkeitsüberschreitung beschlagnahmt.
+
+8 | 020 | Besa e shqiptarit si çeliku i veriut asht.
+8 | 020 | Das Ehrenwort des Albaners ist wie nordischer Stahl.
+
+8 | 021 | Ndërkohë, palët janë duke u pajtue n'gjykatë.
+8 | 021 | Inzwischen einigen sich die Parteien vor Gericht.
+
+8 | 022 | Pasha vetën, këtë sekret s'ma ka nxjerrë kush!
+8 | 022 | Ich schwöre bei mir selbst, dieses Geheimnis hat mir niemand entlockt!
+
+8 | 023 | Kjo pronë s'lejohet me u shitë pa pëlqimin e bashkëshortit.
+8 | 023 | Dieses Eigentum darf nicht ohne Zustimmung des Ehepartners verkauft werden.
+
+8 | 024 | Megjithatë, ai kurrë s'e prishi besën e dhânë.
+8 | 024 | Trotzdem hat er sein gegebenes Ehrenwort nie gebrochen.
+
+8 | 025 | Me ra n'mend më ka ardhë ajo ditë kur u njohëm.
+8 | 025 | Mir ist jener Tag in den Sinn gekommen, als wir uns kennenlernten.
+
+8 | 026 | Prandaj, këto dokumenta duhet me u dorëzue n'arkiva.
+8 | 026 | Deshalb müssen diese Dokumente im Archiv abgegeben werden.
+
+8 | 027 | Shpija e shqiptarit asht e Zotit — mikpritja asht e shenjtë.
+8 | 027 | Das Haus des Albaners gehört Gott — die Gastfreundschaft ist heilig.
+
+8 | 028 | Ndërkohë, hetimi policor vazhdon për këtë rast.
+8 | 028 | Inzwischen läuft die polizeiliche Ermittlung zu diesem Fall weiter.
+
+8 | 029 | Dënimi u shqiptue nga gjykata për shkak të vjedhjes.
+8 | 029 | Die Strafe wurde vom Gericht wegen des Diebstahls verhängt.
+
+8 | 030 | Amanet, more, këtë amanet ma ke për me e krye!
+8 | 030 | Ich beschwöre dich, Mädchen, diesen Auftrag musst du für mich erledigen!
+
+8 | 031 | Pasha Zotin, na kurrë s'jemi nda!
+8 | 031 | Ich schwöre bei Gott, wir haben uns nie getrennt!
+
+8 | 032 | Megjithatë, vendimi i gjykatës nuk ishte i drejtë për të gjithë.
+8 | 032 | Trotzdem war die Entscheidung des Gerichts nicht für alle gerecht.
+
+8 | 033 | Këto para janë marrë hua nga banka me interes 5%.
+8 | 033 | Dieses Geld wurde von der Bank zu 5% Zinsen geliehen.
+
+8 | 034 | Prandaj, mos i jep besën kujt s'duhet.
+8 | 034 | Deshalb gib dein Ehrenwort nicht, wem du nicht sollst.
+
+8 | 035 | Ndërkohë, çmimet e shtëpive janë rritë n'tërë qytetin.
+8 | 035 | Inzwischen sind die Hauspreise in der ganzen Stadt gestiegen.
+
+8 | 036 | Me marrë n'telefon ma ka thânë se vjen nesër.
+8 | 036 | Am Telefon hat er mir gesagt, dass er morgen kommt.
+
+8 | 037 | Besa asht më e fortë se çdo kontratë e shkrueme.
+8 | 037 | Das Ehrenwort ist stärker als jeder schriftliche Vertrag.
+
+8 | 038 | Megjithatë, ai nuk u deklarua fajtor n'gjyq.
+8 | 038 | Trotzdem hat er sich vor Gericht nicht schuldig bekannt.
+
+8 | 039 | Kjo çështje duhet me u zgjidhë n'gjykatën e lartë.
+8 | 039 | Diese Angelegenheit muss vor dem Obersten Gericht gelöst werden.
+
+8 | 040 | Pasha nonën, unë këtë s'e kam ba!
+8 | 040 | Ich schwöre bei meiner Mutter, das habe ich nicht getan!
+
+8 | 041 | Prandaj, tatimi për këtë muaj duhet me u paguë deri më 15.
+8 | 041 | Deshalb muss die Steuer für diesen Monat bis zum 15. bezahlt werden.
+
+8 | 042 | Ndërkohë, djali ynë ka krye universitetin dhe kërkon punë.
+8 | 042 | Inzwischen hat unser Sohn die Universität abgeschlossen und sucht Arbeit.
+
+8 | 043 | Me ba nji kafe bashkë — a po vjen ore?
+8 | 043 | Einen Kaffee zusammen trinken — kommst du, Alter?
+
+8 | 044 | Ligjërisht, kjo marrëveshje asht e vlefshme.
+8 | 044 | Rechtlich gesehen ist diese Vereinbarung gültig.
+
+8 | 045 | Megjithatë, dëshmitari nuk dëshmoi të vërtetën n'gjyq.
+8 | 045 | Trotzdem hat der Zeuge vor Gericht nicht die Wahrheit ausgesagt.
+
+8 | 046 | Amanet, këtë fëmi mos e lsho pa përcjellë!
+8 | 046 | Pass auf, lass dieses Kind nicht ohne Begleitung!
+
+8 | 047 | Pasuria e tij u konfiskue nga shteti për shkak të korrupsionit.
+8 | 047 | Sein Vermögen wurde vom Staat wegen Korruption beschlagnahmt.
+
+8 | 048 | Prandaj, kush e prish besën, prish nderin e vet.
+8 | 048 | Deshalb, wer das Ehrenwort bricht, zerstört seine eigene Ehre.
+
+8 | 049 | Ndërkohë, stina e verës ka sjellë shumë turistë në Kosovë.
+8 | 049 | Inzwischen hat die Sommersaison viele Touristen in den Kosovo gebracht.
+
+8 | 050 | Pasha Zotin, këtë punë e kam krye me nder!
+8 | 050 | Ich schwöre bei Gott, diese Arbeit habe ich mit Ehre erledigt!
+
+8 | 051 | Me lanë n'baltë shokun kur asht n'nevojë — s'bon ashtu!
+8 | 051 | Den Freund im Stich zu lassen, wenn er in Not ist — das tut man nicht!
+
+8 | 052 | Megjithatë, gjoba u paguë brenda afatit të caktuar.
+8 | 052 | Trotzdem wurde die Geldstrafe innerhalb der festgesetzten Frist bezahlt.
+
+8 | 053 | Kjo kërkesë për leje qëndrimi është refuzue.
+8 | 053 | Dieser Antrag auf Aufenthaltsgenehmigung wurde abgelehnt.
+
+8 | 054 | Prandaj, rri n'besë e mos u lsho!
+8 | 054 | Deshalb, bleib treu und lass nicht locker!
+
+8 | 055 | Ndërkohë, tradita e mikpritjes vazhdon në çdo shtëpi kosovare.
+8 | 055 | Inzwischen lebt die Tradition der Gastfreundschaft in jedem kosovarischen Haus weiter.
+
+8 | 056 | Besën e dhânë s'mun me e prishë, se asht çnonim!
+8 | 056 | Ein gegebenes Ehrenwort kann man nicht brechen, das wäre entehrend!
+
+8 | 057 | Ankesa u paraqit n'gjykatë brenda afatit ligjor.
+8 | 057 | Die Beschwerde wurde fristgerecht beim Gericht eingereicht.
+
+8 | 058 | Megjithatë, ai mbeti n'burg deri në përfundim të hetimeve.
+8 | 058 | Trotzdem blieb er bis zum Abschluss der Ermittlungen im Gefängnis.
+
+8 | 059 | Me ra zêmra m'ka marrë kur pashë atë aksident!
+8 | 059 | Mir ist das Herz gefallen, als ich diesen Unfall sah!
+
+8 | 060 | Prandaj, firmosi këtu ku t'kam thânë!
+8 | 060 | Deshalb unterschreib hier, wo ich dir gesagt habe!
+
+8 | 061 | Ndërkohë, çmimi i naftës ka shku deri në qiell.
+8 | 061 | Inzwischen ist der Benzinpreis in die Höhe geschossen.
+
+8 | 062 | Kuvendi i Kosovës miratoi buxhetin për vitin e ardhshëm.
+8 | 062 | Die Kosovo-Versammlung hat den Haushalt für das kommende Jahr verabschiedet.
+
+8 | 063 | Me i marrë mendtë po më bon kjo situatë!
+8 | 063 | Diese Situation macht mich verrückt!
+
+8 | 064 | Pasha Zotin, unë për këtë s'dija gja!
+8 | 064 | Ich schwöre bei Gott, ich wusste nichts davon!
+
+8 | 065 | Megjithatë, dokumenti u firmos nga të dy palët.
+8 | 065 | Trotzdem wurde das Dokument von beiden Parteien unterschrieben.
+
+8 | 066 | Prandaj, nëse don me pasë miq të vërtetë, jep besën e mbaje.
+8 | 066 | Deshalb, wenn du wahre Freunde haben willst, gib dein Ehrenwort und halte es.
+
+8 | 067 | Ndërkohë, policia ka arrestue tre persona të dyshuar.
+8 | 067 | Inzwischen hat die Polizei drei verdächtige Personen festgenommen.
+
+8 | 068 | Me pi gjak e me marrë gjak — këto janë koncepte të Kanunit.
+8 | 068 | Blut trinken und Blut nehmen — das sind Konzepte des Kanun.
+
+8 | 069 | Besa asht nji koncept që s'kuptohet jashtë traditës sonë.
+8 | 069 | Besa ist ein Konzept, das außerhalb unserer Tradition nicht verstanden wird.
+
+8 | 070 | Megjithatë, gjykata e hodhi poshtë akuzën për mungesë provash.
+8 | 070 | Trotzdem wies das Gericht die Anklage mangels Beweisen ab.
+
+8 | 071 | Kjo leje ndërtimi është lëshue nga komuna.
+8 | 071 | Diese Baugenehmigung wurde von der Gemeinde ausgestellt.
+
+8 | 072 | Prandaj, mos u tut ore se s'ka gja!
+8 | 072 | Deshalb, hab keine Angst, Alter, es ist nichts!
+
+8 | 073 | Ndërkohë, djali i tyre shërben n'ushtrinë e Kosovës.
+8 | 073 | Inzwischen dient ihr Sohn in der Kosovo-Armee.
+
+8 | 074 | Me i dhânë besën dikujt asht nji nder i madh.
+8 | 074 | Jemandem sein Ehrenwort zu geben, ist eine große Ehre.
+
+8 | 075 | Pasha Zotin, në këtë shtëpi gjithmonë ke mirëseardhje!
+8 | 075 | Ich schwöre bei Gott, in diesem Haus bist du immer willkommen!
+
+8 | 076 | Megjithatë, procedura gjyqësore zgjati më shumë se një vit.
+8 | 076 | Trotzdem dauerte das Gerichtsverfahren länger als ein Jahr.
+
+8 | 077 | Pasaporta juaj duhet me u rinue përpara udhëtimit.
+8 | 077 | Ihr Reisepass muss vor der Reise erneuert werden.
+
+8 | 078 | Prandaj, më mirë vonë se kurrë për me kërkue falje.
+8 | 078 | Deshalb, besser spät als nie, um Vergebung zu bitten.
+
+8 | 079 | Ndërkohë, brezi i ri po mëson gjuhën shqipe me shumë dashuni.
+8 | 079 | Inzwischen lernt die junge Generation die albanische Sprache mit viel Liebe.
+
+8 | 080 | Kanuni i Lekë Dukagjinit asht baza e traditës sonë.
+8 | 080 | Der Kanun von Lekë Dukagjini ist die Basis unserer Tradition.
+
+8 | 081 | Kjo çështje u zgjidh n'mënyrë paqësore ndërmjet familjeve.
+8 | 081 | Diese Angelegenheit wurde friedlich zwischen den Familien gelöst.
+
+8 | 082 | Megjithatë, unë ende kam shpresë për nji t'ardhën më të mirë.
+8 | 082 | Trotzdem habe ich noch Hoffnung auf eine bessere Zukunft.
+
+8 | 083 | Pasha Zotin, për nder të familjes sonë! Kështu asht!
+8 | 083 | Ich schwöre bei Gott, bei der Ehre unserer Familie! So ist es!
+
+8 | 084 | Prandaj, mos i lsho fjalët n'erë se kanë peshë.
+8 | 084 | Deshalb, lass die Worte nicht im Wind verwehen, denn sie haben Gewicht.
+
+8 | 085 | Ndërkohë, tregu i Kosovës po zhvillohet dita-ditës.
+8 | 085 | Inzwischen entwickelt sich der Kosovo-Markt Tag für Tag.
+
+8 | 086 | Amanet, bre, këtë send s'mun me e lanë askund!
+8 | 086 | Pass auf, Mann, diesen Gegenstand darfst du nirgends liegen lassen!
+
+8 | 087 | Me mbajtë besën deri n'fund asht nji virtyt i madh.
+8 | 087 | Das Ehrenwort bis zum Ende zu halten, ist eine große Tugend.
+
+8 | 088 | Megjithatë, ai vazhdoi me mohue çdo përgjegjësi.
+8 | 088 | Trotzdem fuhr er fort, jede Verantwortung zu leugnen.
+
+8 | 089 | Dëshmia e tij nuk u pranue nga gjykata.
+8 | 089 | Seine Aussage wurde vom Gericht nicht angenommen.
+
+8 | 090 | Prandaj, rri n'besë me ata që t'duan.
+8 | 090 | Deshalb, bleib treu zu denen, die dich lieben.
+
+8 | 091 | Ndërkohë, shiu po bjen dhe unë s'kam çadër.
+8 | 091 | Inzwischen regnet es und ich habe keinen Schirm.
+
+8 | 092 | Me prishë besën asht mëkati më i madh n'kulturën tonë.
+8 | 092 | Das Ehrenwort zu brechen, ist die größte Sünde in unserer Kultur.
+
+8 | 093 | Pasha Zotin, kam me t'pritë n'shtëpinë time si mik!
+8 | 093 | Ich schwöre bei Gott, ich werde dich in meinem Haus als Gast empfangen!
+
+8 | 094 | Kjo marrëveshje duhet me u nënshkrue para noterit.
+8 | 094 | Diese Vereinbarung muss vor dem Notar unterschrieben werden.
+
+8 | 095 | Megjithatë, shumë qytetarë nuk janë të kënaqun me qeverinë.
+8 | 095 | Trotzdem sind viele Bürger nicht zufrieden mit der Regierung.
+
+8 | 096 | Prandaj, gjithmonë ki nji besë për nji mik.
+8 | 096 | Deshalb, hab immer ein Ehrenwort für einen Freund bereit.
+
+8 | 097 | Ndërkohë, industria e teknologjisë po rritet në Kosovë.
+8 | 097 | Inzwischen wächst die Technologieindustrie im Kosovo.
+
+8 | 098 | N'besë të Zotit, kjo asht e vërteta!
+8 | 098 | Bei Gottes Treue, das ist die Wahrheit!
+
+8 | 099 | Me dalë n'skenë më në fund rezultati i punës s'me!
+8 | 099 | Endlich ist das Ergebnis meiner Arbeit zum Vorschein gekommen!
+
+8 | 100 | Megjithatë, gjoba u zvogëlue për shkak të rrethanave lehtësuese.
+8 | 100 | Trotzdem wurde die Geldstrafe wegen mildernder Umstände reduziert.
+
+8 | 101 | Kjo ish pronë shtetërore, por tash asht privatizue.
+8 | 101 | Dies war Staatseigentum, aber jetzt ist es privatisiert worden.
+
+8 | 102 | Prandaj, respekto besën se ajo asht pasuria jote më e madhe.
+8 | 102 | Deshalb, respektiere das Ehrenwort, denn es ist dein größter Reichtum.
+
+8 | 103 | Ndërkohë, dëndërit po përgatiten për dasmën e madhe.
+8 | 103 | Inzwischen bereiten sich die Hochzeitsgäste auf die große Hochzeit vor.
+
+8 | 104 | Pasha Zotin, këtë sekret e marr me vete n'varr!
+8 | 104 | Ich schwöre bei Gott, dieses Geheimnis nehme ich mit ins Grab!
+
+8 | 105 | Çdo kontratë pune duhet me u regjistrue n'zyrën përkatëse.
+8 | 105 | Jeder Arbeitsvertrag muss beim entsprechenden Amt registriert werden.
+
+8 | 106 | Megjithatë, ai s'pranoi me paguë gjobën e caktueme.
+8 | 106 | Trotzdem weigerte er sich, die festgesetzte Geldstrafe zu bezahlen.
+
+8 | 107 | Amanet, mori, qysh po rritet kjo çikë!
+8 | 107 | Pass auf, Mädchen, wie dieses Mädchen heranwächst!
+
+8 | 108 | Me i marrë mendtë po më bon kjo punë pa fund!
+8 | 108 | Diese endlose Arbeit macht mich verrückt!
+
+8 | 109 | Prandaj, ruaje nderin tënd si sytë e ballit!
+8 | 109 | Deshalb, bewahre deine Ehre wie deine Augäpfel!
+
+8 | 110 | Ndërkohë, gjenerata e re po tregon interes për Kanunin e vjetër.
+8 | 110 | Inzwischen zeigt die junge Generation Interesse am alten Kanun.
+
+8 | 111 | Besa e dhânë e ka peshën më të madhe se çdo ligj njerëzor.
+8 | 111 | Ein gegebenes Ehrenwort hat mehr Gewicht als jedes menschliche Gesetz.
+
+8 | 112 | Megjithatë, mos e harro kurrë prej kah vjen fisit tënd.
+8 | 112 | Trotzdem, vergiss niemals, woher dein Clan kommt.
+
+8 | 113 | Kjo pronë u trashëgue brez pas brezi për më shumë se 200 vjet.
+8 | 113 | Dieses Eigentum wurde Generation für Generation über mehr als 200 Jahre vererbt.
+
+8 | 114 | Pasha Zotin, unë kam me dalë n'sipërfaqe të vërtetën!
+8 | 114 | Ich schwöre bei Gott, ich werde die Wahrheit ans Licht bringen!
+
+═══════════════════════════════════════════════════════════════════════════════════
+  LEVEL 9 — Mehrere Nebensätze, komplexe Satzgefüge, Bildungssprache,
+             wissenschaftliche Begriffe, politische Diskussionen,
+             Relativsätze + Bedingungssätze + Konsekutivsätze,
+             literarische Sprache, formelle Anrede
+  ~111 Sätze
+═══════════════════════════════════════════════════════════════════════════════════
+
+9 | 001 | Qeveria që ka premtu përparim, duhet me tregu rezultate konkrete nëse do
+9 | 001 | me fitu besimin e popullit.
+9 | 001 | Die Regierung, die Fortschritt versprochen hat, muss konkrete Ergebnisse
+9 | 001 | zeigen, wenn sie das Vertrauen des Volkes gewinnen will.
+
+9 | 002 | Edhe pse kemi pasur vështirësi të shumta, na kurrë s'kemi humb shpresën
+9 | 002 | për nji t'ardhën më të mirë.
+9 | 002 | Obwohl wir viele Schwierigkeiten hatten, haben wir nie die Hoffnung auf
+9 | 002 | eine bessere Zukunft verloren.
+
+9 | 003 | Shkencëtarët që studiojnë ndryshimin klimatik, kanë ardhë në përfundim
+9 | 003 | se duhet me veprue menjëherë para se të jetë vonë.
+9 | 003 | Die Wissenschaftler, die den Klimawandel erforschen, sind zu dem Schluss
+9 | 003 | gekommen, dass sofort gehandelt werden muss, bevor es zu spät ist.
+
+9 | 004 | Përderisa demokracia kërkon pjesëmarrjen e të gjithëve, ne duhet me dalë
+9 | 004 | me votue në çdo zgjedhje, sepse çdo zë ka rëndësi.
+9 | 004 | Solange die Demokratie die Teilnahme aller erfordert, müssen wir bei jeder
+9 | 004 | Wahl wählen gehen, denn jede Stimme zählt.
+
+9 | 005 | Nëse don të kuptosh realitetin kompleks të Kosovës, duhet me studjue
+9 | 005 | historinë e saj që nga kohët e lashta deri në ditët e sotme.
+9 | 005 | Wenn du die komplexe Realität des Kosovo verstehen willst, musst du seine
+9 | 005 | Geschichte von der Antike bis heute studieren.
+
+9 | 006 | Artikulli që botoi ajo gazetare e njohun, analizon ndikimin e politikës
+9 | 006 | ndërkombëtare në zhvillimin ekonomik të rajonit tonë.
+9 | 006 | Der Artikel, den diese bekannte Journalistin veröffentlichte, analysiert den
+9 | 006 | Einfluss der internationalen Politik auf die wirtschaftliche Entwicklung
+9 | 006 | unserer Region.
+
+9 | 007 | Në universitetin e Prishtinës, studentët që studiojnë drejtësinë, mësojnë
+9 | 007 | jo vetëm ligjet moderne, por edhe Kanunin tradicional shqiptar.
+9 | 007 | An der Universität Prishtina lernen die Studenten, die Jura studieren, nicht
+9 | 007 | nur die modernen Gesetze, sondern auch den traditionellen albanischen Kanun.
+
+9 | 008 | Edhe pse kushtet ekonomike janë të vështira, ai ka vendosë me investue në
+9 | 008 | arsim, sepse e di që dituria asht e vetmja rrugë për sukses.
+9 | 008 | Obwohl die wirtschaftlichen Bedingungen schwierig sind, hat er beschlossen,
+9 | 008 | in Bildung zu investieren, weil er weiß, dass Wissen der einzige Weg zum
+9 | 008 | Erfolg ist.
+
+9 | 008 | Sipas raportit të fundit të Kombeve të Bashkueme, niveli i ndotjes së ajrit
+9 | 009 | në qytetet kryesore të rajonit ka tejkalu çdo standard ndërkombëtar.
+9 | 009 | Laut dem letzten Bericht der Vereinten Nationen hat die Luftverschmutzung in
+9 | 009 | den Hauptstädten der Region jeden internationalen Standard überschritten.
+
+9 | 010 | Nëse analizojmë statistikat e fundit për papunësi, vërejmë se situata
+9 | 010 | asht përmirësue, por ende s'asht ajo që dëshirojmë.
+9 | 010 | Wenn wir die letzten Arbeitslosenstatistiken analysieren, stellen wir fest,
+9 | 010 | dass sich die Situation verbessert hat, aber noch nicht das ist, was wir
+9 | 010 | wünschen.
+
+9 | 011 | Gjyqtari, pasi i dëgjoi të gjitha palët me vëmendje, mori nji vendim që
+9 | 011 | bazonte në ligj dhe në drejtësi, edhe pse nuk ishte popullor.
+9 | 011 | Der Richter, nachdem er alle Parteien aufmerksam angehört hatte, traf eine
+9 | 011 | Entscheidung, die auf Gesetz und Gerechtigkeit basierte, obwohl sie nicht
+9 | 011 | populär war.
+
+9 | 012 | Shpresojmë se marrëveshja e paqes që u nënshkrua në Bruksel, ka me sjellë
+9 | 012 | stabilitet të qëndrueshëm për tërë Ballkanin Perëndimor.
+9 | 012 | Wir hoffen, dass das Friedensabkommen, das in Brüssel unterzeichnet wurde,
+9 | 012 | dauerhafte Stabilität für den gesamten Westbalkan bringen wird.
+
+9 | 013 | Një shoqëri që nuk investon në arsim dhe në shkencë, asht e dënueme me
+9 | 013 | mbetje prapa në zhvillimin global të botës moderne.
+9 | 013 | Eine Gesellschaft, die nicht in Bildung und Wissenschaft investiert, ist
+9 | 013 | dazu verurteilt, in der globalen Entwicklung der modernen Welt zurückzubleiben.
+
+9 | 014 | Edhe pse shumë ekspertë kanë paralajmërue për pasojat e ndryshimit
+9 | 014 | klimatik, akoma ka nga ata që nuk i marrin seriozisht këto paralajmërime.
+9 | 014 | Obwohl viele Experten vor den Folgen des Klimawandels gewarnt haben, gibt es
+9 | 014 | immer noch diejenigen, die diese Warnungen nicht ernst nehmen.
+
+9 | 015 | Profesori ynë i historisë, i cili ka shkrue disa libra për identitetin
+9 | 015 | kombëtar, na shpjegoi se si tradita dhe moderniteti mund të bashkëjetojnë.
+9 | 015 | Unser Geschichtsprofessor, der mehrere Bücher über die nationale Identität
+9 | 015 | geschrieben hat, erklärte uns, wie Tradition und Moderne koexistieren können.
+
+9 | 016 | Nëse don me kuptue letërsinë e Ismail Kadaresë, duhet me njohë thellë
+9 | 016 | historinë dhe mitologjinë shqiptare që ndërthuren në veprat e tij.
+9 | 016 | Wenn du die Literatur von Ismail Kadare verstehen willst, musst du die
+9 | 016 | albanische Geschichte und Mythologie kennen, die sich in seinen Werken
+9 | 016 | verflechten.
+
+9 | 017 | Pasi të keni plotësue formularin e aplikacionit, ju lutem dorëzojeni
+9 | 017 | në zyrën e regjistrimit bashkë me dokumentat e nevojshme.
+9 | 017 | Nachdem Sie das Antragsformular ausgefüllt haben, reichen Sie es bitte im
+9 | 017 | Registrierungsbüro zusammen mit den erforderlichen Dokumenten ein.
+
+9 | 018 | Reforma në sistemin gjyqësor, të cilën e ka premtue qeveria e re, asht
+9 | 018 | e domosdoshme për me rritë besimin e qytetarëve n' institucione.
+9 | 018 | Die Reform des Justizsystems, die die neue Regierung versprochen hat, ist
+9 | 018 | notwendig, um das Vertrauen der Bürger in die Institutionen zu stärken.
+
+9 | 019 | Sa më shumë që thellohemi në studimin e gjuhës shqipe, aq më shumë na
+9 | 019 | habit pasuria e saj leksikore dhe struktura gramatikore.
+9 | 019 | Je tiefer wir uns in das Studium der albanischen Sprache vertiefen, desto
+9 | 019 | mehr erstaunt uns ihr lexikalischer Reichtum und ihre grammatikalische
+9 | 019 | Struktur.
+
+9 | 020 | Nëse qeveria nuk ndërmerr masa konkrete për me luftu korrupsionin,
+9 | 020 | investitorët e huaj s'do të kenë besim për me investue në vend.
+9 | 020 | Wenn die Regierung keine konkreten Maßnahmen zur Korruptionsbekämpfung
+9 | 020 | ergreift, werden ausländische Investoren kein Vertrauen haben, um im Land
+9 | 020 | zu investieren.
+
+9 | 021 | Ai studim shkencor, i cili u publikua në nji revistë ndërkombëtare,
+9 | 021 | tregon se ndryshimet klimatike po ndikojnë direkt në bujqësinë e rajonit.
+9 | 021 | Jene wissenschaftliche Studie, die in einer internationalen Zeitschrift
+9 | 021 | veröffentlicht wurde, zeigt, dass der Klimawandel die Landwirtschaft der
+9 | 021 | Region direkt beeinflusst.
+
+9 | 022 | Edhe pse shqipja asht nji gjuhë e lashtë, ajo vazhdon me u zhvillue dhe
+9 | 022 | me iu përshtatë nevojave të botës moderne teknologiike.
+9 | 022 | Obwohl Albanisch eine alte Sprache ist, entwickelt sie sich weiter und passt
+9 | 022 | sich den Bedürfnissen der modernen technologischen Welt an.
+
+9 | 023 | Integrimi i Kosovës në Bashkimin Evropian, për të cilin shumë breza kanë
+9 | 023 | ëndërrue, kërkon reforma të thella në të gjitha sektorët.
+9 | 023 | Die Integration des Kosovo in die Europäische Union, von der viele
+9 | 023 | Generationen geträumt haben, erfordert tiefgreifende Reformen in allen
+9 | 023 | Sektoren.
+
+9 | 024 | Nëse don me pasë sukses në biznesin tënd, nuk mjafton veç me puntë fort
+9 | 024 | — duhet me pasë edhe nji strategji të qartë dhe me marrë vendime të guximshme.
+9 | 024 | Wenn du in deinem Geschäft erfolgreich sein willst, reicht es nicht, nur hart
+9 | 024 | zu arbeiten — du brauchst auch eine klare Strategie und musst mutige
+9 | 024 | Entscheidungen treffen.
+
+9 | 025 | Politika e jashtme e shtetit tonë, e cila bazohet në bashkëpunim rajonal,
+9 | 025 | ka për qëllim me forcue marrëdhëniet me fqinjët dhe me garantue paqen.
+9 | 025 | Die Außenpolitik unseres Staates, die auf regionaler Zusammenarbeit basiert,
+9 | 025 | hat das Ziel, die Beziehungen zu den Nachbarn zu stärken und den Frieden
+9 | 025 | zu garantieren.
+
+9 | 026 | Pasi mbarova studimet master në Gjermani, u ktheva në Kosovë me nji
+9 | 026 | vizion të ri për me kontribuue në zhvillimin e vendit tim.
+9 | 026 | Nachdem ich mein Masterstudium in Deutschland abgeschlossen hatte, kehrte ich
+9 | 026 | mit einer neuen Vision in den Kosovo zurück, um zur Entwicklung meines Landes
+9 | 026 | beizutragen.
+
+9 | 027 | Shumë të rinj që studiojnë jashtë vendit, përballen me sfidën e ruajtjes
+9 | 027 | së identitetit të tyre kulturor, ndërkohë që përshtaten me një kulturë të re.
+9 | 027 | Viele junge Leute, die im Ausland studieren, stehen vor der Herausforderung,
+9 | 027 | ihre kulturelle Identität zu bewahren, während sie sich an eine neue Kultur
+9 | 027 | anpassen.
+
+9 | 028 | Nëse nuk ndërmarrim masa urgjente për me mbrojtë mjedisin, gjeneratat e
+9 | 028 | ardhshme do të trashëgojnë nji planet të dëmtue në mënyrë të pariparueshme.
+9 | 028 | Wenn wir keine dringenden Maßnahmen zum Umweltschutz ergreifen, werden die
+9 | 028 | kommenden Generationen einen irreparabel geschädigten Planeten erben.
+
+9 | 029 | Deklarata e presidentit, të cilën e ndoqën miliona njerëz në televizion,
+9 | 029 | theksoi rëndësinë e bashkimit kombëtar në momente të vështira.
+9 | 029 | Die Erklärung des Präsidenten, die Millionen Menschen im Fernsehen
+9 | 029 | verfolgten, betonte die Bedeutung der nationalen Einheit in schwierigen
+9 | 029 | Momenten.
+
+9 | 030 | Kjo tezë doktorate, e cila trajton çështjen e identitetit në letërsinë
+9 | 030 | bashkëkohore shqiptare, ka marrë vlerësime pozitive nga profesorët.
+9 | 030 | Diese Doktorarbeit, die die Frage der Identität in der zeitgenössischen
+9 | 030 | albanischen Literatur behandelt, hat positive Bewertungen von den Professoren
+9 | 030 | erhalten.
+
+9 | 031 | Sipas ekspertëve të ekonomisë, zhvillimi i sektorit privat asht çelësi
+9 | 031 | për me zvogëlue papunësinë dhe me përmirësue standardin e jetesës.
+9 | 031 | Laut Wirtschaftsexperten ist die Entwicklung des Privatsektors der Schlüssel
+9 | 031 | zur Verringerung der Arbeitslosigkeit und zur Verbesserung des
+9 | 031 | Lebensstandards.
+
+9 | 032 | Edhe pse teknologjia moderne na ka lehtësue shumë aspekte të jetës,
+9 | 032 | ajo gjithashtu ka sjellë sfida të reja që kërkojnë zgjidhje kreative.
+9 | 032 | Obwohl die moderne Technologie uns viele Aspekte des Lebens erleichtert hat,
+9 | 032 | hat sie auch neue Herausforderungen gebracht, die kreative Lösungen
+9 | 032 | erfordern.
+
+9 | 033 | Nëse do me apliku për këtë bursë, duhet me dorëzue nji ese të shkrueme
+9 | 033 | në gjuhën angleze dhe dy letra rekomandimi nga profesorët.
+9 | 033 | Wenn du dich für dieses Stipendium bewerben willst, musst du einen auf
+9 | 033 | Englisch verfassten Aufsatz und zwei Empfehlungsschreiben von Professoren
+9 | 033 | einreichen.
+
+9 | 034 | Ai film dokumentar, që trajtonte historinë e Kosovës gjatë luftës së fundit,
+9 | 034 | u shfaq në shumë festivale ndërkombëtare dhe fitoi çmime të rëndësishme.
+9 | 034 | Jener Dokumentarfilm, der die Geschichte des Kosovo während des letzten
+9 | 034 | Krieges behandelte, wurde auf vielen internationalen Festivals gezeigt und
+9 | 034 | gewann wichtige Preise.
+
+9 | 035 | Pasi të keni lexue me kujdes kontratën, ju lutem firmoseni në faqen
+9 | 035 | e fundit dhe ktheni nji kopje në zyrën tonë brenda pesë ditëve.
+9 | 035 | Nachdem Sie den Vertrag sorgfältig gelesen haben, unterschreiben Sie bitte
+9 | 035 | auf der letzten Seite und geben Sie eine Kopie innerhalb von fünf Tagen in
+9 | 035 | unserem Büro ab.
+
+9 | 036 | Shkolla jonë, e cila ka nji traditë të gjatë në edukimin e brezave,
+9 | 036 | ka nisë nji program të ri për talente të reja në fushën e teknologjisë.
+9 | 036 | Unsere Schule, die eine lange Tradition in der Bildung von Generationen hat,
+9 | 036 | hat ein neues Programm für junge Talente im Bereich Technologie gestartet.
+
+9 | 037 | Diplomatët kosovarë që punojnë në misione të ndryshme nëpër botë,
+9 | 037 | kanë nji përgjegjësi të madhe për me përfaqësue vendin tonë me dinjitet.
+9 | 037 | Die kosovarischen Diplomaten, die in verschiedenen Missionen auf der ganzen
+9 | 037 | Welt arbeiten, haben eine große Verantwortung, unser Land mit Würde zu
+9 | 037 | vertreten.
+
+9 | 038 | Nëse shqyrtojmë me kujdes statistikat e fundit, vërejmë se emigracioni
+9 | 038 | i të rinjve ka rënë në krahasim me vitet e kaluara.
+9 | 038 | Wenn wir die letzten Statistiken sorgfältig prüfen, stellen wir fest, dass
+9 | 038 | die Auswanderung der Jugend im Vergleich zu den Vorjahren zurückgegangen ist.
+
+9 | 039 | Edhe pse Kosova asht nji vend i ri në hartën politike të botës, ajo ka
+9 | 039 | nji histori të pasur që shtrihet mijëra vjet prapa në kohë.
+9 | 039 | Obwohl der Kosovo ein junges Land auf der politischen Landkarte der Welt
+9 | 039 | ist, hat er eine reiche Geschichte, die Jahrtausende zurückreicht.
+
+9 | 040 | Artikulli kushtetues që garanton lirinë e medias, duhet me u mbrojtë me
+9 | 040 | çdo kusht, sepse përbën bazën e nji shoqërie demokratike.
+9 | 040 | Der Verfassungsartikel, der die Pressefreiheit garantiert, muss um jeden
+9 | 040 | Preis geschützt werden, denn er bildet die Grundlage einer demokratischen
+9 | 040 | Gesellschaft.
+
+9 | 041 | Politikanët që premtojnë ndryshime pa pasur nji plan konkret, zakonisht
+9 | 041 | nuk arrijnë me realizue asgjë, sepse u mungon vizioni dhe vullneti.
+9 | 041 | Politiker, die Veränderungen versprechen, ohne einen konkreten Plan zu
+9 | 041 | haben, erreichen gewöhnlich nichts, weil ihnen die Vision und der Wille
+9 | 041 | fehlen.
+
+9 | 042 | Globalizimi, për të cilin flitet kaq shumë kohët e fundit, ka sjellë
+9 | 042 | mundësi të reja, por edhe rreziqe për kulturat tradicionale.
+9 | 042 | Die Globalisierung, von der in letzter Zeit so viel gesprochen wird, hat
+9 | 042 | neue Chancen, aber auch Risiken für traditionelle Kulturen gebracht.
+
+9 | 043 | Nëse don me shkëlqye në fushën e programimit, duhet me mësue vazhdimisht
+9 | 043 | dhe me ndjekë zhvillimet më të reja të teknologjisë.
+9 | 043 | Wenn du im Bereich Programmierung glänzen willst, musst du ständig lernen
+9 | 043 | und die neuesten technologischen Entwicklungen verfolgen.
+
+9 | 044 | Sipas mendimit tim, zgjidhja më e mirë për këtë problem asht dialoga
+9 | 044 | konstruktiv ndërmjet palëve, në vend të konfrontimit dhe akuzave.
+9 | 044 | Meiner Meinung nach ist die beste Lösung für dieses Problem ein
+9 | 044 | konstruktiver Dialog zwischen den Parteien, anstatt Konfrontation und
+9 | 044 | Beschuldigungen.
+
+9 | 045 | Pasi përfundoi lufta, populli i Kosovës u përball me sfidën e rindërtimit
+9 | 045 | të vendit dhe të krijimit të institucioneve të reja shtetërore.
+9 | 045 | Nachdem der Krieg vorbei war, stand das Volk des Kosovo vor der
+9 | 045 | Herausforderung, das Land wieder aufzubauen und neue staatliche
+9 | 045 | Institutionen zu schaffen.
+
+9 | 046 | Studentët që marrin pjesë në këtë seminar ndërkombëtar, kanë mundësinë me
+9 | 046 | shkëmbye përvoja me kolegë nga vende të ndryshme të botës.
+9 | 046 | Die Studenten, die an diesem internationalen Seminar teilnehmen, haben die
+9 | 046 | Möglichkeit, Erfahrungen mit Kollegen aus verschiedenen Ländern der Welt
+9 | 046 | auszutauschen.
+
+9 | 047 | Nëse don të kuptosh thelbin e filozofisë shqiptare, duhet me studjue
+9 | 047 | veprat e Shën Gjergj Fishtës dhe të Pashko Vasës.
+9 | 047 | Wenn du das Wesen der albanischen Philosophie verstehen willst, musst du
+9 | 047 | die Werke von Gjergj Fishta und Pashko Vasa studieren.
+
+9 | 048 | Qeveria ka ndërmarrë masa të rëndësishme për me përmirësue klimën e
+9 | 048 | biznesit, gjë që ka sjellë rritje të investimeve të huaja direkte.
+9 | 048 | Die Regierung hat wichtige Maßnahmen zur Verbesserung des Geschäftsklimas
+9 | 048 | ergriffen, was zu einem Anstieg der ausländischen Direktinvestitionen
+9 | 048 | geführt hat.
+
+9 | 049 | Edhe pse jam rritë në Gjermani, unë kurrë s'e kam harru gjuhën time
+9 | 049 | amtare, sepse prindit e mi kanë folë gjithmonë shqip në shtëpi.
+9 | 049 | Obwohl ich in Deutschland aufgewachsen bin, habe ich nie meine
+9 | 049 | Muttersprache vergessen, weil meine Eltern zu Hause immer Albanisch
+9 | 049 | gesprochen haben.
+
+9 | 050 | Koncepti i Besës, i cili asht aq i rëndësishëm në kulturën shqiptare,
+9 | 050 | nënkupton nji angazhim moral që s'mun të thyhet për asnjë çmim.
+9 | 050 | Das Konzept der Besa, das in der albanischen Kultur so wichtig ist,
+9 | 050 | bedeutet eine moralische Verpflichtung, die um keinen Preis gebrochen
+9 | 050 | werden kann.
+
+9 | 051 | Reforma në arsim, për të cilën debatohet prej vitesh, kërkon nji qasje
+9 | 051 | gjithëpërfshirëse që përfshin kurrikulën, infrastrukturën dhe trajnimin
+9 | 051 | e mësimdhënësve.
+9 | 051 | Die Bildungsreform, über die seit Jahren debattiert wird, erfordert einen
+9 | 051 | umfassenden Ansatz, der das Curriculum, die Infrastruktur und die
+9 | 051 | Lehrerausbildung umfasst.
+
+9 | 052 | Nëse nuk investojmë në energjinë e ripërtëritshme, do të përballemi me
+9 | 052 | nji krizë energjetike që do të ndikojë në të gjithë ekonominë.
+9 | 052 | Wenn wir nicht in erneuerbare Energien investieren, werden wir mit einer
+9 | 052 | Energiekrise konfrontiert sein, die die gesamte Wirtschaft beeinträchtigen
+9 | 052 | wird.
+
+9 | 053 | Ai shkrimtar i madh, veprat e të cilit janë përkthye në shumë gjuhë të
+9 | 053 | botës, e ka përshkrue me mjeshtëri tragjedinë dhe shpresën e popullit shqiptar.
+9 | 053 | Jener große Schriftsteller, dessen Werke in viele Sprachen der Welt
+9 | 053 | übersetzt wurden, hat die Tragödie und die Hoffnung des albanischen Volkes
+9 | 053 | meisterhaft beschrieben.
+
+9 | 054 | Pasi mbarova takimin me përfaqësuesit e Bankës Botërore, kuptova se
+9 | 054 | zhvillimi i qëndrueshëm kërkon bashkëpunimin e të gjithë sektorëve.
+9 | 054 | Nachdem ich das Treffen mit den Vertretern der Weltbank beendet hatte,
+9 | 054 | verstand ich, dass nachhaltige Entwicklung die Zusammenarbeit aller
+9 | 054 | Sektoren erfordert.
+
+9 | 055 | Edhe pse shumë njerëz mendojnë se diaspora nuk luan rol të rëndësishëm,
+9 | 055 | statistikat tregojnë se remitencat e saj kanë nji ndikim të madh në
+9 | 055 | ekonominë kosovare.
+9 | 055 | Obwohl viele Menschen denken, dass die Diaspora keine wichtige Rolle spielt,
+9 | 055 | zeigen Statistiken, dass ihre Überweisungen einen großen Einfluss auf die
+9 | 055 | kosovarische Wirtschaft haben.
+
+9 | 056 | Në Analet e Historisë Shqiptare shkruhet se gjuhë shqipe asht aq e lashtë
+9 | 056 | sa vetë ilirët, paraardhësit tanë të drejtpërdrejtë.
+9 | 056 | In den Annalen der albanischen Geschichte steht geschrieben, dass die
+9 | 056 | albanische Sprache so alt ist wie die Illyrer selbst, unsere direkten
+9 | 056 | Vorfahren.
+
+9 | 057 | Organizatat joqeveritare që merren me mbrojtjen e të drejtave të njeriut,
+9 | 057 | kanë raportue për përmirësime të dukshme në këtë fushë gjatë vitit të fundit.
+9 | 057 | Die Nichtregierungsorganisationen, die sich mit dem Schutz der
+9 | 057 | Menschenrechte befassen, haben im letzten Jahr deutliche Verbesserungen in
+9 | 057 | diesem Bereich gemeldet.
+
+9 | 058 | Nëse don me shkue në Gjermani për me studjue, duhet me mësue gjermanishten
+9 | 058 | në nivelin B2 dhe me sigurue nji vend në universitet.
+9 | 058 | Wenn du nach Deutschland gehen willst, um zu studieren, musst du Deutsch
+9 | 058 | auf B2-Niveau lernen und dir einen Platz an der Universität sichern.
+
+9 | 059 | Përkundër vështirësive ekonomike, sipërmarrësit kosovarë kanë tregue
+9 | 059 | nji qëndresë dhe kreativitet të jashtëzakonshëm në bizneset e tyre.
+9 | 059 | Trotz wirtschaftlicher Schwierigkeiten haben kosovarische Unternehmer
+9 | 059 | eine außergewöhnliche Widerstandsfähigkeit und Kreativität in ihren
+9 | 059 | Geschäften gezeigt.
+
+9 | 060 | Instituti i Historisë në Prishtinë ka botue nji studim të ri që hedh
+9 | 060 | dritë mbi periudhën e ilirëve dhe lidhjen e tyre me shqiptarët e sotëm.
+9 | 060 | Das Institut für Geschichte in Prishtina hat eine neue Studie
+9 | 060 | veröffentlicht, die Licht auf die Periode der Illyrer und ihre Verbindung zu
+9 | 060 | den heutigen Albanern wirft.
+
+9 | 061 | Nëse qytetarët nuk janë të informue për të drejtat e tyre, ata s'mun me
+9 | 061 | i kërkue ato — prandaj edukimi qytetar asht thelbësor për demokracinë.
+9 | 061 | Wenn die Bürger nicht über ihre Rechte informiert sind, können sie diese
+9 | 061 | nicht einfordern — daher ist die staatsbürgerliche Bildung für die
+9 | 061 | Demokratie wesentlich.
+
+9 | 062 | Pasi përfundoi dorëshkrimi i romanit, autori kaloi nji vit tjetër duke
+9 | 062 | e redaktue dhe duke kërkue botuesin e duhur për veprën e tij.
+9 | 062 | Nachdem das Manuskript des Romans fertig war, verbrachte der Autor ein
+9 | 062 | weiteres Jahr damit, es zu redigieren und den richtigen Verlag für sein
+9 | 062 | Werk zu suchen.
+
+9 | 063 | Dialogu ndërmjet komuniteteve të ndryshme etnike në Kosovë, edhe pse
+9 | 063 | ndonjëherë i vështirë, asht i domosdoshëm për paqe të qëndrueshme.
+9 | 063 | Der Dialog zwischen den verschiedenen ethnischen Gemeinschaften im Kosovo
+9 | 063 | ist, obwohl manchmal schwierig, für einen dauerhaften Frieden unerlässlich.
+
+9 | 064 | Nëse analizojmë zhvillimet e fundit në tregjet globale, vërejmë se çmimet
+9 | 064 | e ushqimeve janë rritë ndjeshëm për shkak të inflacionit.
+9 | 064 | Wenn wir die letzten Entwicklungen auf den globalen Märkten analysieren,
+9 | 064 | stellen wir fest, dass die Lebensmittelpreise aufgrund der Inflation
+9 | 064 | deutlich gestiegen sind.
+
+9 | 065 | Ai profesor i nderuar, të cilin e kujtojmë me shumë respekt, na ka mësue
+9 | 065 | se ditunia asht arma më e fortë për me ndryshue botën.
+9 | 065 | Jener geehrte Professor, an den wir mit großem Respekt zurückdenken, hat
+9 | 065 | uns gelehrt, dass Wissen die stärkste Waffe ist, um die Welt zu verändern.
+
+9 | 066 | Industria e turizmit në Kosovë, e cila ka nji potencial të madh të
+9 | 066 | pashfrytëzue, mund të bëhet nji shtyllë e rëndësishme e ekonomisë sonë.
+9 | 066 | Die Tourismusindustrie im Kosovo, die ein großes ungenutztes Potenzial hat,
+9 | 066 | könnte zu einer wichtigen Säule unserer Wirtschaft werden.
+
+9 | 067 | Edhe pse shumë prej nesh jetojnë larg njëri-tjetrit, lidhja jonë
+9 | 067 | shpirtërore me atdhe mbetet po aq e fortë, nëse jo edhe më e fortë.
+9 | 067 | Obwohl viele von uns weit voneinander entfernt leben, bleibt unsere
+9 | 067 | seelische Verbindung zur Heimat genauso stark, wenn nicht sogar stärker.
+
+9 | 068 | Pasi përgatiti projekt-buxhetin për vitin e ardhshëm, ministri i
+9 | 068 | financave e paraqiti atë para komisionit parlamentar për diskutim.
+9 | 068 | Nachdem er den Haushaltsentwurf für das nächste Jahr vorbereitet hatte,
+9 | 068 | legte der Finanzminister ihn dem parlamentarischen Ausschuss zur Diskussion
+9 | 068 | vor.
+
+9 | 069 | Shkencëtarët që merren me studimin e trurit të njeriut, kanë zbulue
+9 | 069 | se neuroplasticiteti mund të ndihmojë në riparimin e dëmeve neurologjike.
+9 | 069 | Wissenschaftler, die sich mit der Erforschung des menschlichen Gehirns
+9 | 069 | befassen, haben entdeckt, dass Neuroplastizität bei der Reparatur
+9 | 069 | neurologischer Schäden helfen kann.
+
+9 | 070 | Nëse don me shkrue nji roman të suksesshëm, nuk mjafton me pasë veç
+9 | 070 | talent — duhet edhe me lexu shumë e me praktikue çdo ditë.
+9 | 070 | Wenn du einen erfolgreichen Roman schreiben willst, reicht nicht nur
+9 | 070 | Talent — du musst auch viel lesen und jeden Tag üben.
+
+9 | 071 | Vendimi i Gjykatës Kushtetuese, i cili pritet të shpallet javën tjetër,
+9 | 071 | do të ketë pasoja të rëndësishme për sistemin ligjor të vendit.
+9 | 071 | Die Entscheidung des Verfassungsgerichts, die nächste Woche verkündet
+9 | 071 | werden soll, wird wichtige Folgen für das Rechtssystem des Landes haben.
+
+9 | 072 | Edhe pse teknologjia e inteligjencës artificiale po përparon me shpejtësi,
+9 | 072 | ne duhet me reflektue për aspektet etike të përdorimit të saj.
+9 | 072 | Obwohl die Technologie der künstlichen Intelligenz rasant voranschreitet,
+9 | 072 | müssen wir über die ethischen Aspekte ihrer Nutzung nachdenken.
+
+9 | 073 | Liri dhe përgjegjësi janë dy anë të së njëjtës medalje, prandaj kush
+9 | 073 | kërkon liri pa përgjegjësi, nuk e ka kuptue thelbin e demokracisë.
+9 | 073 | Freiheit und Verantwortung sind zwei Seiten derselben Medaille, deshalb
+9 | 073 | hat, wer Freiheit ohne Verantwortung fordert, das Wesen der Demokratie
+9 | 073 | nicht verstanden.
+
+9 | 074 | Pasi u ktheva nga konferenca ndërkombëtare në Vjenë, shkrova nji raport
+9 | 074 | të detajuar për të gjitha zbulimet e reja në fushën e mjekësisë.
+9 | 074 | Nachdem ich von der internationalen Konferenz in Wien zurückgekehrt war,
+9 | 074 | schrieb ich einen detaillierten Bericht über alle neuen Entdeckungen im
+9 | 074 | Bereich der Medizin.
+
+9 | 075 | Brezi i ri i artistëve kosovarë, të cilët po eksperimentojnë me forma të
+9 | 075 | reja të shprehjes, ka fillue me tërheqë vëmendjen e kritikës ndërkombëtare.
+9 | 075 | Die junge Generation kosovarischer Künstler, die mit neuen
+9 | 075 | Ausdrucksformen experimentieren, hat begonnen, die Aufmerksamkeit der
+9 | 075 | internationalen Kritik auf sich zu ziehen.
+
+9 | 076 | Nëse don me ndërtue nji shoqëri të drejtë, duhet me fillue me barazinë
+9 | 076 | në arsim, sepse ajo asht themeli i çdo zhvillimi shoqëror.
+9 | 076 | Wenn du eine gerechte Gesellschaft aufbauen willst, musst du mit der
+9 | 076 | Gleichheit in der Bildung beginnen, denn sie ist das Fundament jeder
+9 | 076 | gesellschaftlichen Entwicklung.
+
+9 | 077 | Pavarësisht sfidave të shumta, populli i Kosovës ka tregue nji forcë të
+9 | 077 | jashtëzakonshme për me kapërcye pengesat dhe për me ecur përpara.
+9 | 077 | Trotz der zahlreichen Herausforderungen hat das Volk des Kosovo eine
+9 | 077 | außergewöhnliche Stärke gezeigt, Hindernisse zu überwinden und
+9 | 077 | voranzuschreiten.
+
+9 | 078 | Profesoresha e letërsisë, e cila ka doktoratë për veprat e Kadaresë,
+9 | 078 | na shpjegoi si autori përdor simbolikën për me përshkrue realitetin shqiptar.
+9 | 078 | Die Literaturprofessorin, die einen Doktortitel über die Werke Kadares hat,
+9 | 078 | erklärte uns, wie der Autor Symbolik verwendet, um die albanische
+9 | 078 | Wirklichkeit zu beschreiben.
+
+9 | 079 | Kur flasim për identitetin kombëtar, duhet me kuptue se ai asht nji
+9 | 079 | koncept dinamik që ndryshon dhe evoluon me kalimin e kohës.
+9 | 079 | Wenn wir über die nationale Identität sprechen, müssen wir verstehen, dass
+9 | 079 | sie ein dynamisches Konzept ist, das sich im Laufe der Zeit verändert und
+9 | 079 | weiterentwickelt.
+
+9 | 080 | Pasi mbaroi diskutimi i nxehtë në parlament, deputetët votuan për
+9 | 080 | ligjin e ri që rregullon statusin e nëpunësve civilë.
+9 | 080 | Nach der hitzigen Diskussion im Parlament stimmten die Abgeordneten für
+9 | 080 | das neue Gesetz, das den Status der Beamten regelt.
+
+9 | 081 | Nëse don me kuptue muzikën tradicionale shqiptare, duhet me dëgjue lahutën
+9 | 081 | dhe çiftelinë, instrumente që tregojnë historinë e trimave të vjetër.
+9 | 081 | Wenn du die traditionelle albanische Musik verstehen willst, musst du die
+9 | 081 | Lahuta und die Çifteli hören, Instrumente, die die Geschichte der alten
+9 | 081 | Helden erzählen.
+
+9 | 082 | Organizata Botërore e Shëndetësisë ka rekomandue masa të reja për me
+9 | 082 | përmirësue sistemin shëndetësor në vendet në zhvillim.
+9 | 082 | Die Weltgesundheitsorganisation hat neue Maßnahmen empfohlen, um das
+9 | 082 | Gesundheitssystem in Entwicklungsländern zu verbessern.
+
+9 | 083 | Edhe pse sfidat janë të mëdha, ne nuk duhet me harru se çdo vështirësi
+9 | 083 | sjell me vete mundësi të reja për rritje dhe zhvillim personal.
+9 | 083 | Obwohl die Herausforderungen groß sind, dürfen wir nicht vergessen, dass
+9 | 083 | jede Schwierigkeit neue Möglichkeiten für persönliches Wachstum und
+9 | 083 | Entwicklung mit sich bringt.
+
+9 | 084 | Ai shkencëtar i ri, kërkimet e të cilit fokusohen në energjinë diellore,
+9 | 084 | ka fitu nji grant prestigjioz për me vazhdue studimet e tij.
+9 | 084 | Jener junge Wissenschaftler, dessen Forschung sich auf Solarenergie
+9 | 084 | konzentriert, hat ein prestigeträchtiges Stipendium gewonnen, um seine
+9 | 084 | Studien fortzusetzen.
+
+9 | 085 | Pasi mora pjesë në atë forum për të drejtat e njeriut, kuptova se
+9 | 085 | lufta për drejtësi asht nji proces që kurrë nuk mbaron.
+9 | 085 | Nachdem ich an jenem Forum für Menschenrechte teilgenommen hatte,
+9 | 085 | verstand ich, dass der Kampf für Gerechtigkeit ein Prozess ist, der nie
+9 | 085 | endet.
+
+9 | 086 | Trashëgimia kulturore e Kosovës, e cila përfshin monumente të periudhave
+9 | 086 | të ndryshme historike, duhet me u mbrojtë për brezat e ardhshëm.
+9 | 086 | Das kulturelle Erbe des Kosovo, das Denkmäler verschiedener historischer
+9 | 086 | Perioden umfasst, muss für die kommenden Generationen geschützt werden.
+
+9 | 087 | Nëse do me kontribuue në paqen botërore, fillo me respektue dhe me
+9 | 087 | kuptue kulturat e tjera që janë të ndryshme nga e jotja.
+9 | 087 | Wenn du zum Weltfrieden beitragen willst, fang damit an, andere Kulturen,
+9 | 087 | die anders sind als deine eigene, zu respektieren und zu verstehen.
+
+9 | 088 | Edhe pse shumë njerëz e konsiderojnë shqipen nji gjuhë të vështirë,
+9 | 088 | ajo ka nji strukturë logjike dhe të rregullt që e bën më të lehtë për
+9 | 088 | me u mësue nga ata që kanë vullnet.
+9 | 088 | Obwohl viele Menschen Albanisch für eine schwierige Sprache halten, hat es
+9 | 088 | eine logische und regelmäßige Struktur, die es für diejenigen, die den
+9 | 088 | Willen haben, leichter zu lernen macht.
+
+9 | 089 | Procesi i anëtarësimit në Bashkimin Evropian, për të cilin Kosova
+9 | 089 | punon prej vitesh, kërkon plotësimin e shumë kushteve dhe kritereve.
+9 | 089 | Der Beitrittsprozess zur Europäischen Union, an dem der Kosovo seit Jahren
+9 | 089 | arbeitet, erfordert die Erfüllung vieler Bedingungen und Kriterien.
+
+9 | 090 | Nëse trajneri ynë nuk ndryshon strategjinë për ndeshjen e ardhshme,
+9 | 090 | skuadra jonë rrezikon me humbë edhe në këtë kampionat të rëndësishëm.
+9 | 090 | Wenn unser Trainer die Strategie für das nächste Spiel nicht ändert,
+9 | 090 | riskiert unsere Mannschaft, auch in dieser wichtigen Meisterschaft zu
+9 | 090 | verlieren.
+
+9 | 091 | Ai diplomat i përvojshëm, të cilin e respektojnë të gjithë për
+9 | 091 | integritetin e tij, ka arritë me ndërmjetësue nji marrëveshje të rëndësishme.
+9 | 091 | Jener erfahrene Diplomat, den alle wegen seiner Integrität respektieren,
+9 | 091 | hat es geschafft, ein wichtiges Abkommen zu vermitteln.
+
+9 | 092 | Pasi kaloi nëpër shumë vështirësi dhe pengesa, ai më në fund arriti
+9 | 092 | me realizue ëndrrën e tij për me hapë nji biznes të suksesshëm.
+9 | 092 | Nachdem er durch viele Schwierigkeiten und Hindernisse gegangen war,
+9 | 092 | erreichte er endlich seinen Traum, ein erfolgreiches Geschäft zu eröffnen.
+
+9 | 093 | Edukimi i vajzave, i cili për shumë kohë ka qenë i neglizhuem në disa
+9 | 093 | vende, asht thelbësor për zhvillimin e qëndrueshëm të shoqërisë.
+9 | 093 | Die Bildung von Mädchen, die in manchen Ländern lange vernachlässigt
+9 | 093 | worden ist, ist für die nachhaltige Entwicklung der Gesellschaft
+9 | 093 | wesentlich.
+
+9 | 094 | Nëse don me u bë mjek, duhet me studjue shumë vite dhe me pasë durim,
+9 | 094 | sepse rruga për t'u bë nji profesionist i mirë asht e gjatë.
+9 | 094 | Wenn du Arzt werden willst, musst du viele Jahre studieren und Geduld
+9 | 094 | haben, denn der Weg zu einem guten Fachmann ist lang.
+
+9 | 095 | Konflikti i fundit ndërmjet dy kompanive, i cili u zgjidh n'gjykatën
+9 | 095 | tregtare, tregon se sa e rëndësishme asht kontrata e mirë.
+9 | 095 | Der letzte Konflikt zwischen zwei Firmen, der vor dem Handelsgericht
+9 | 095 | gelöst wurde, zeigt, wie wichtig ein guter Vertrag ist.
+
+9 | 096 | Sipas parashikimeve të ekspertëve të klimës, temperaturat globale do të
+9 | 096 | vazhdojnë me u rritë nëse nuk ndërmarrim masa drastike.
+9 | 096 | Laut den Vorhersagen der Klimaexperten werden die globalen Temperaturen
+9 | 096 | weiter steigen, wenn wir keine drastischen Maßnahmen ergreifen.
+
+9 | 097 | Edhe pse kemi kaluar shumë vështirësi si popull, ne kemi arritë me ruajtë
+9 | 097 | gjuhën dhe kulturën tonë për shekuj me radhë.
+9 | 097 | Obwohl wir als Volk viele Schwierigkeiten durchgemacht haben, haben wir es
+9 | 097 | geschafft, unsere Sprache und Kultur jahrhundertelang zu bewahren.
+
+9 | 098 | Ajo organizatë humanitare, e cila punon në Kosovë që nga përfundimi i
+9 | 098 | luftës, ka ndihmue mijëra familje në nevojë me ushqim e veshmbathje.
+9 | 098 | Jene humanitäre Organisation, die seit dem Ende des Krieges im Kosovo
+9 | 098 | arbeitet, hat Tausenden von bedürftigen Familien mit Nahrung und Kleidung
+9 | 098 | geholfen.
+
+9 | 099 | Pasi lexova librin e tij për herë të dytë, kuptova shumë shtresa të
+9 | 099 | reja kuptimi që s'i kisha vërejtë në leximin e parë.
+9 | 099 | Nachdem ich sein Buch zum zweiten Mal gelesen hatte, verstand ich viele
+9 | 099 | neue Bedeutungsebenen, die ich beim ersten Lesen nicht bemerkt hatte.
+
+9 | 100 | Marrëveshja e paqes, e cila u nënshkrua në prani të përfaqësuesve
+9 | 100 | ndërkombëtarë, u prit me optimizëm nga opinioni publik.
+9 | 100 | Das Friedensabkommen, das in Anwesenheit internationaler Vertreter
+9 | 100 | unterzeichnet wurde, wurde von der öffentlichen Meinung mit Optimismus
+9 | 100 | aufgenommen.
+
+9 | 101 | Nëse nuk ndryshojmë mënyrën si konsumojmë burimet natyrore, brezat
+9 | 101 | e ardhshëm do të përballen me nji krizë ekologjike pa precedent.
+9 | 101 | Wenn wir nicht ändern, wie wir die natürlichen Ressourcen verbrauchen,
+9 | 101 | werden die kommenden Generationen mit einer beispiellosen ökologischen
+9 | 101 | Krise konfrontiert sein.
+
+9 | 102 | Profesori ynë, i cili ka shkrue mbi 30 libra gjatë karrierës së tij,
+9 | 102 | na inkurajonte gjithmonë me mendue në mënyrë kritike e me bâ pyetje.
+9 | 102 | Unser Professor, der während seiner Karriere über 30 Bücher geschrieben
+9 | 102 | hat, ermutigte uns immer, kritisch zu denken und Fragen zu stellen.
+
+9 | 103 | Edhe pse diaspora kosovare jeton shpërndarë nëpër botë, ajo vazhdon
+9 | 103 | me kontribuue në zhvillimin ekonomik të vendit përmes investimeve.
+9 | 103 | Obwohl die kosovarische Diaspora über die ganze Welt verstreut lebt,
+9 | 103 | trägt sie weiterhin durch Investitionen zur wirtschaftlichen Entwicklung
+9 | 103 | des Landes bei.
+
+9 | 104 | Pasi kaloi nëpër provimin e vështirë të jurisprudencës, ai u emërua
+9 | 104 | gjyqtar në gjykatën themelore të Prishtinës.
+9 | 104 | Nachdem er die schwierige Jurisprudenzprüfung bestanden hatte, wurde er
+9 | 104 | zum Richter am Grundgericht von Prishtina ernannt.
+
+9 | 105 | Nëse don me pasë nji marrëdhënie të shëndoshë me fëmijët e tu, duhet
+9 | 105 | me i dëgjue ata dhe me respektue mendimet e tyre, edhe kur nuk pajtohesh.
+9 | 105 | Wenn du eine gesunde Beziehung zu deinen Kindern haben willst, musst du
+9 | 105 | ihnen zuhören und ihre Meinungen respektieren, auch wenn du nicht
+9 | 105 | einverstanden bist.
+
+9 | 106 | Festivali Ndërkombëtar i Filmit në Prishtinë, i cili mbahet çdo vit,
+9 | 106 | ka sjellë në Kosovë artistë dhe regjisorë të famshëm nga e gjithë bota.
+9 | 106 | Das Internationale Filmfestival in Prishtina, das jedes Jahr stattfindet,
+9 | 106 | hat berühmte Künstler und Regisseure aus der ganzen Welt in den Kosovo
+9 | 106 | gebracht.
+
+9 | 107 | Rezultatet e këtij studimi shkencor, të cilat u publikuan në nji revistë
+9 | 107 | prestigjioze, konfirmojnë hipotezën tonë për shkaqet e sëmundjes.
+9 | 107 | Die Ergebnisse dieser wissenschaftlichen Studie, die in einer
+9 | 107 | prestigeträchtigen Zeitschrift veröffentlicht wurden, bestätigen unsere
+9 | 107 | Hypothese über die Ursachen der Krankheit.
+
+9 | 108 | Edhe pse bota përballet me sfida të shumta, unë besoj se njerëzimi ka
+9 | 108 | mençurinë dhe vullnetin për me gjetë zgjidhje për çdo problem.
+9 | 108 | Obwohl die Welt vor zahlreichen Herausforderungen steht, glaube ich, dass
+9 | 108 | die Menschheit die Weisheit und den Willen hat, für jedes Problem eine
+9 | 108 | Lösung zu finden.
+
+9 | 109 | Pasi mbarova së lexuari poezinë e Lasgush Poradecit, mbeta i mahnitun
+9 | 109 | nga bukuria dhe thellësia e fjalëve të tij.
+9 | 109 | Nachdem ich die Poesie von Lasgush Poradeci zu Ende gelesen hatte, war ich
+9 | 109 | von der Schönheit und Tiefe seiner Worte überwältigt.
+
+9 | 110 | Nëse gjeneratat e reja nuk mësojnë nga gabimet e së kaluarës, ato
+9 | 110 | janë të dënueme me përsëritë të njëjtat tragjedi historike.
+9 | 110 | Wenn die jungen Generationen nicht aus den Fehlern der Vergangenheit
+9 | 110 | lernen, sind sie dazu verurteilt, dieselben historischen Tragödien zu
+9 | 110 | wiederholen.
+
+9 | 111 | Integrimi evropian i Kosovës, për të cilin janë bërë shumë reforma,
+9 | 111 | mbetet nji nga prioritetet kryesore të politikës së jashtme të vendit.
+9 | 111 | Die europäische Integration des Kosovo, für die viele Reformen
+9 | 111 | durchgeführt wurden, bleibt eine der Hauptprioritäten der Außenpolitik
+9 | 111 | des Landes.
+
+9 | 112 | Ai që ka përjetue varfëninë dhe padrejtësinë, e di më së miri se
+9 | 112 | sa vlejnë liria dhe mundësia për nji jetë më të mirë.
+9 | 112 | Derjenige, der Armut und Ungerechtigkeit erlebt hat, weiß am besten, wie
+9 | 112 | viel Freiheit und die Möglichkeit für ein besseres Leben wert sind.
+
+9 | 113 | Pasi të keni përfundue të gjitha procedurat administrative, ju do të
+9 | 113 | merrni në njoftim për datën e fillimit të punës suaj të re.
+9 | 113 | Nachdem Sie alle administrativen Verfahren abgeschlossen haben, werden Sie
+9 | 113 | eine Benachrichtigung über das Startdatum Ihrer neuen Arbeit erhalten.
+
+9 | 114 | Në shoqërinë tonë, koncepti i mikpritjes shtrihet përtej detyrimit
+9 | 114 | shoqëror — ai asht nji pjesë e thellë e identitetit tonë kulturor.
+9 | 114 | In unserer Gesellschaft geht das Konzept der Gastfreundschaft über die
+9 | 114 | soziale Verpflichtung hinaus — es ist ein tiefer Teil unserer kulturellen
+9 | 114 | Identität.
+
+═══════════════════════════════════════════════════════════════════════════════════
+  ENDE DER SATZSAMMLUNG — GLOSSAR
+═══════════════════════════════════════════════════════════════════════════════════
+
+  Zusammenfassung:
+  Level 7: 114 Sätze
+  Level 8: 114 Sätze
+  Level 9: 114 Sätze
+  Gesamt:  342 Sätze
+
+  Erstellt aus dem Kosovo-Wörter Verzeichnis:
+  /home/gus/vs code openclaude test 2/gheg-lerning/Kosovo-Wörter
+
+  Gheg-Kosovo-Albanisch für deutschsprachige Lernende
+  Dialekt: Kosovo-Gheg (Gegisch)
+  Fortgeschrittenes Niveau (Level 7-9)
+═══════════════════════════════════════════════════════════════════════════════════
