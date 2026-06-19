@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gheg-learning-v5';
+const CACHE_NAME = 'gheg-learning-v6';
 const ASSETS = [
   '/',
   '/index.html',
@@ -11,7 +11,7 @@ const ASSETS = [
   '/sentenceData.js'
 ];
 
-const AUDIO_CACHE = 'gheg-audio-v5';
+const AUDIO_CACHE = 'gheg-audio-v6';
 
 self.addEventListener('install', event => {
   self.skipWaiting();

@@ -1171,7 +1171,18 @@ function playAudio(word, btn) {
 }
 
 function playLearnAudio(wordId, btn) {
-  const fileName = getAudioFile(wordId);
+  // Find the word in current learning or test context for correct gheg text
+  let word = null;
+  if (learnState) {
+    word = learnState.words.find(w => w.id === wordId);
+  }
+  if (!word && currentTestState) {
+    word = currentTestState.words.find(w => w.id === wordId);
+  }
+
+  // Use text-based audio lookup (text match first, then ID fallback)
+  const ghegText = word ? word.gheg : null;
+  const fileName = getAudioFile(wordId, ghegText);
   let audio;
 
   if (fileName) {
@@ -1186,32 +1197,23 @@ function playLearnAudio(wordId, btn) {
       audio.onended = cleanup;
       audio.onerror = () => {
         cleanup();
-        // Fallback: find the word text and use SpeechSynthesis
-        const word = LEARN_WORDS.find(w => w.id === wordId);
         if (word) speakText(word.gheg, 'sq-AL');
       };
       audio.play().catch(() => {
         cleanup();
-        const word = LEARN_WORDS.find(w => w.id === wordId);
         if (word) speakText(word.gheg, 'sq-AL');
       });
     } else {
-      // No audio file found — use SpeechSynthesis fallback
-      const word = LEARN_WORDS.find(w => w.id === wordId);
-      if (word) {
-        speakText(word.gheg, 'sq-AL');
-      }
-      // Remove the playing class after a short delay for feedback
+      // No audio file found — SpeechSynthesis fallback
+      if (word) speakText(word.gheg, 'sq-AL');
       setTimeout(cleanup, 300);
     }
   } else {
     if (audio) {
       audio.play().catch(() => {
-        const word = LEARN_WORDS.find(w => w.id === wordId);
         if (word) speakText(word.gheg, 'sq-AL');
       });
     } else {
-      const word = LEARN_WORDS.find(w => w.id === wordId);
       if (word) speakText(word.gheg, 'sq-AL');
     }
   }
