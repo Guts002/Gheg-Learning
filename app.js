@@ -394,16 +394,19 @@ function renderMainLevels() {
     // Insert test button before each test group boundary (every 5 levels)
     if (lvl.testGroup !== lastTestGroup && lvl.num > 1) {
       const testNum = lvl.testGroup - 1;
+      // Check if ALL levels in the group this test covers are completed
       const allDone = levels
-        .filter(l => l.testGroup === lvl.testGroup)
+        .filter(l => l.testGroup === testNum)
         .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
-      const testProg = prog.tests[testNum];
-      const testPassed = testProg && testPassedCheck(testProg.grade);
-      html += `
-        <button class="test-button" onclick="startTest(${testNum})" ${allDone ? '' : 'disabled'}>
-          <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-          Test ${testNum + 1} ${testPassed ? '✅' : '📝'}
-        </button>`;
+      if (allDone) {
+        const testProg = prog.tests[testNum];
+        const testPassed = testProg && testPassedCheck(testProg.grade);
+        html += `
+          <button class="test-button" onclick="startTest(${testNum})">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+            Test ${testNum + 1} ${testPassed ? '✅' : '📝'}
+          </button>`;
+      }
       lastTestGroup = lvl.testGroup;
     }
 
@@ -438,18 +441,20 @@ function renderMainLevels() {
       </div>`;
   }
 
-  // Final test button
+  // Final test button — only show when last group is fully completed
   const lastTestGroupNum = Math.floor((levels.length - 1) / 5) + 1;
   const finalAllDone = levels
     .filter(l => l.testGroup === lastTestGroupNum)
     .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
-  const finalTestProg = prog.tests[lastTestGroupNum];
-  const finalTestPassed = finalTestProg && testPassedCheck(finalTestProg.grade);
-  html += `
-    <button class="test-button" onclick="startTest(${lastTestGroupNum})" ${finalAllDone ? '' : 'disabled'}>
-      <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-      Test ${lastTestGroupNum} ${finalTestPassed ? '✅' : '📝'}
-    </button>`;
+  if (finalAllDone) {
+    const finalTestProg = prog.tests[lastTestGroupNum];
+    const finalTestPassed = finalTestProg && testPassedCheck(finalTestProg.grade);
+    html += `
+      <button class="test-button" onclick="startTest(${lastTestGroupNum})">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+        Test ${lastTestGroupNum} ${finalTestPassed ? '✅' : '📝'}
+      </button>`;
+  }
 
   console.log('renderMainLevels: html length =', html.length, 'snippet:', html.substring(0, 200));
   container.innerHTML = html;
@@ -477,16 +482,19 @@ function renderCurseLevels() {
   for (const lvl of levels) {
     if (lvl.testGroup !== lastTestGroup && lvl.num > 1) {
       const testNum = lvl.testGroup - 1;
+      // Check if ALL levels in the group this test covers are completed
       const allDone = levels
-        .filter(l => l.testGroup === lvl.testGroup)
+        .filter(l => l.testGroup === testNum)
         .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
-      const testProg = prog.tests[testNum];
-      const testPassed = testProg && testPassedCheck(testProg.grade);
-      html += `
-        <button class="test-button" onclick="startCursesTest(${testNum})" ${allDone ? '' : 'disabled'}>
-          <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-          Test ${testNum + 1} ${testPassed ? '✅' : '📝'}
-        </button>`;
+      if (allDone) {
+        const testProg = prog.tests[testNum];
+        const testPassed = testProg && testPassedCheck(testProg.grade);
+        html += `
+          <button class="test-button" onclick="startCursesTest(${testNum})">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+            Test ${testNum + 1} ${testPassed ? '✅' : '📝'}
+          </button>`;
+      }
       lastTestGroup = lvl.testGroup;
     }
 
@@ -521,18 +529,20 @@ function renderCurseLevels() {
       </div>`;
   }
 
-  // Final test
+  // Final test — only show when last group is fully completed
   const lastTestGroupNum = Math.floor((levels.length - 1) / 5) + 1;
   const finalAllDone = levels
     .filter(l => l.testGroup === lastTestGroupNum)
     .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
-  const finalTestProg = prog.tests[lastTestGroupNum];
-  const finalTestPassed = finalTestProg && testPassedCheck(finalTestProg.grade);
-  html += `
-    <button class="test-button" onclick="startCursesTest(${lastTestGroupNum})" ${finalAllDone ? '' : 'disabled'}>
-      <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-      Test ${lastTestGroupNum} ${finalTestPassed ? '✅' : '📝'}
-    </button>`;
+  if (finalAllDone) {
+    const finalTestProg = prog.tests[lastTestGroupNum];
+    const finalTestPassed = finalTestProg && testPassedCheck(finalTestProg.grade);
+    html += `
+      <button class="test-button" onclick="startCursesTest(${lastTestGroupNum})">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+        Test ${lastTestGroupNum} ${finalTestPassed ? '✅' : '📝'}
+      </button>`;
+  }
 
   container.innerHTML = html;
 }
@@ -1158,21 +1168,50 @@ function playAudio(word, btn) {
 }
 
 function playLearnAudio(wordId, btn) {
-  const padded = String(wordId).padStart(4, '0');
-  const audio = new Audio(`audio-kosovo/kw_${padded}.mp3`);
+  const fileName = getAudioFile(wordId);
+  let audio;
+
+  if (fileName) {
+    audio = new Audio(`audio-kosovo/${fileName}`);
+  }
 
   if (btn) {
     btn.classList.add('playing');
-    audio.onended = () => btn.classList.remove('playing');
-    audio.onerror = () => {
-      btn.classList.remove('playing');
-      speakText(wordId.toString(), 'sq-AL');
-    };
-  }
+    const cleanup = () => btn.classList.remove('playing');
 
-  audio.play().catch(() => {
-    speakText(wordId.toString(), 'sq-AL');
-  });
+    if (audio) {
+      audio.onended = cleanup;
+      audio.onerror = () => {
+        cleanup();
+        // Fallback: find the word text and use SpeechSynthesis
+        const word = LEARN_WORDS.find(w => w.id === wordId);
+        if (word) speakText(word.gheg, 'sq-AL');
+      };
+      audio.play().catch(() => {
+        cleanup();
+        const word = LEARN_WORDS.find(w => w.id === wordId);
+        if (word) speakText(word.gheg, 'sq-AL');
+      });
+    } else {
+      // No audio file found — use SpeechSynthesis fallback
+      const word = LEARN_WORDS.find(w => w.id === wordId);
+      if (word) {
+        speakText(word.gheg, 'sq-AL');
+      }
+      // Remove the playing class after a short delay for feedback
+      setTimeout(cleanup, 300);
+    }
+  } else {
+    if (audio) {
+      audio.play().catch(() => {
+        const word = LEARN_WORDS.find(w => w.id === wordId);
+        if (word) speakText(word.gheg, 'sq-AL');
+      });
+    } else {
+      const word = LEARN_WORDS.find(w => w.id === wordId);
+      if (word) speakText(word.gheg, 'sq-AL');
+    }
+  }
 }
 
 function playSentenceAudio(path, btn) {
