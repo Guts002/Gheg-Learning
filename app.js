@@ -388,23 +388,24 @@ function renderMainLevels() {
   console.log('renderMainLevels: levels count =', levels.length, 'first:', levels[0]);
   const prog = loadProgress();
   let html = '';
-  let lastTestGroup = 0;
+  let lastTestGroup = levels.length > 0 ? levels[0].testGroup : 0;
 
   for (const lvl of levels) {
-    // Insert test button before each test group boundary (every 5 levels)
-    if (lvl.testGroup !== lastTestGroup && lvl.num > 1) {
-      const testNum = lvl.testGroup - 1;
-      // Check if ALL levels in the group this test covers are completed
+    // Insert test button when entering a NEW test group
+    // (the PREVIOUS group just finished)
+    if (lvl.testGroup !== lastTestGroup) {
+      const testGroupForButton = lastTestGroup; // the group we just finished
+      const testNum = testGroupForButton - 1;  // 0-indexed for storage
       const allDone = levels
-        .filter(l => l.testGroup === testNum)
+        .filter(l => l.testGroup === testGroupForButton)
         .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
       if (allDone) {
         const testProg = prog.tests[testNum];
         const testPassed = testProg && testPassedCheck(testProg.grade);
         html += `
-          <button class="test-button" onclick="startTest(${testNum})">
+          <button class="test-button" onclick="startTest(${testGroupForButton})">
             <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-            Test ${testNum + 1} ${testPassed ? '✅' : '📝'}
+            Test ${testGroupForButton} ${testPassed ? '✅' : '📝'}
           </button>`;
       }
       lastTestGroup = lvl.testGroup;
@@ -442,17 +443,18 @@ function renderMainLevels() {
   }
 
   // Final test button — only show when last group is fully completed
-  const lastTestGroupNum = Math.floor((levels.length - 1) / 5) + 1;
+  const finalTestGroup = lastTestGroup;
+  const finalTestNum = finalTestGroup - 1;
   const finalAllDone = levels
-    .filter(l => l.testGroup === lastTestGroupNum)
+    .filter(l => l.testGroup === finalTestGroup)
     .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
   if (finalAllDone) {
-    const finalTestProg = prog.tests[lastTestGroupNum];
+    const finalTestProg = prog.tests[finalTestNum];
     const finalTestPassed = finalTestProg && testPassedCheck(finalTestProg.grade);
     html += `
-      <button class="test-button" onclick="startTest(${lastTestGroupNum})">
+      <button class="test-button" onclick="startTest(${finalTestGroup})">
         <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-        Test ${lastTestGroupNum} ${finalTestPassed ? '✅' : '📝'}
+        Test ${finalTestGroup} ${finalTestPassed ? '✅' : '📝'}
       </button>`;
   }
 
@@ -477,22 +479,22 @@ function renderCurseLevels() {
   document.getElementById('curses-progress-fill').style.width = `${pct}%`;
 
   let html = '';
-  let lastTestGroup = 0;
+  let lastTestGroup = levels.length > 0 ? levels[0].testGroup : 0;
 
   for (const lvl of levels) {
-    if (lvl.testGroup !== lastTestGroup && lvl.num > 1) {
-      const testNum = lvl.testGroup - 1;
-      // Check if ALL levels in the group this test covers are completed
+    if (lvl.testGroup !== lastTestGroup) {
+      const testGroupForButton = lastTestGroup;
+      const testNum = testGroupForButton - 1;
       const allDone = levels
-        .filter(l => l.testGroup === testNum)
+        .filter(l => l.testGroup === testGroupForButton)
         .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
       if (allDone) {
         const testProg = prog.tests[testNum];
         const testPassed = testProg && testPassedCheck(testProg.grade);
         html += `
-          <button class="test-button" onclick="startCursesTest(${testNum})">
+          <button class="test-button" onclick="startCursesTest(${testGroupForButton})">
             <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-            Test ${testNum + 1} ${testPassed ? '✅' : '📝'}
+            Test ${testGroupForButton} ${testPassed ? '✅' : '📝'}
           </button>`;
       }
       lastTestGroup = lvl.testGroup;
@@ -530,17 +532,18 @@ function renderCurseLevels() {
   }
 
   // Final test — only show when last group is fully completed
-  const lastTestGroupNum = Math.floor((levels.length - 1) / 5) + 1;
+  const finalTestGroup = lastTestGroup;
+  const finalTestNum = finalTestGroup - 1;
   const finalAllDone = levels
-    .filter(l => l.testGroup === lastTestGroupNum)
+    .filter(l => l.testGroup === finalTestGroup)
     .every(l => prog.levels[l.num] && prog.levels[l.num].completed);
   if (finalAllDone) {
-    const finalTestProg = prog.tests[lastTestGroupNum];
+    const finalTestProg = prog.tests[finalTestNum];
     const finalTestPassed = finalTestProg && testPassedCheck(finalTestProg.grade);
     html += `
-      <button class="test-button" onclick="startCursesTest(${lastTestGroupNum})">
+      <button class="test-button" onclick="startCursesTest(${finalTestGroup})">
         <svg class="icon" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
-        Test ${lastTestGroupNum} ${finalTestPassed ? '✅' : '📝'}
+        Test ${finalTestGroup} ${finalTestPassed ? '✅' : '📝'}
       </button>`;
   }
 

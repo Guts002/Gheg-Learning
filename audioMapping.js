@@ -857,3 +857,8 @@ const audioMap = {
   906: "kw_3017.mp3",
   907: "kw_2874.mp3",
 };
+
+
+function getAudioFile(wordId) {
+  return audioMap[wordId] || null;
+}
