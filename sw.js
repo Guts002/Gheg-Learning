@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gheg-learning-v4';
+const CACHE_NAME = 'gheg-learning-v5';
 const ASSETS = [
   '/',
   '/index.html',
@@ -7,10 +7,11 @@ const ASSETS = [
   '/manifest.json',
   '/icon.svg',
   '/learnWordsData.js',
+  '/audioMapping.js',
   '/sentenceData.js'
 ];
 
-const AUDIO_CACHE = 'gheg-audio-v4';
+const AUDIO_CACHE = 'gheg-audio-v5';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
