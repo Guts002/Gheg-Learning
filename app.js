@@ -8,8 +8,8 @@
 // ===========================
 const TOP200 = [
   // 1. BEGRÜSSUNGEN & HÖFLICHKEIT (1-18)
-  { id:1, gheg:"Tung! / Tungjatjeta!", de:"Hallo! / Servus!", std:"Përshëndetje", cat:"begruessung" },
-  { id:2, gheg:"Shëndet!", de:"Tschüss! / Mach's gut!", std:"Mirupafshim / Lamtumirë", cat:"begruessung" },
+  { id:1, gheg:"Mirëdita!", de:"Hallo! / Guten Tag!", std:"Mirëdita", cat:"begruessung" },
+  { id:2, gheg:"Tung!", de:"Tschüss!", std:"Tung", cat:"begruessung" },
   { id:3, gheg:"Qysh je?", de:"Wie geht's?", std:"Si je?", cat:"begruessung" },
   { id:4, gheg:"Qysh jeni?", de:"Wie geht es Ihnen?", std:"Si jeni?", cat:"begruessung" },
   { id:5, gheg:"Çka ka? / Çkaka?", de:"Was gibt's? / Was los?", std:"Çfarë ka?", cat:"begruessung" },
@@ -25,7 +25,7 @@ const TOP200 = [
   { id:15, gheg:"S'ka gja!", de:"Kein Problem! / Nichts los!", std:"S'ka gjë", cat:"begruessung" },
   { id:16, gheg:"Mirë se më gjete!", de:"Schön dich zu sehen!", std:"Mirë se më gjete!", cat:"begruessung" },
   { id:17, gheg:"Gëzohem!", de:"Freut mich!", std:"Gëzohem!", cat:"begruessung" },
-  { id:18, gheg:"Tung, qysh je?", de:"Hallo, wie geht's?", std:"Përshëndetje, si je?", cat:"begruessung" },
+  { id:18, gheg:"Mirëdita, qysh je?", de:"Hallo, wie geht's?", std:"Përshëndetje, si je?", cat:"begruessung" },
 
   // 2. FRAGEWÖRTER (19-28)
   { id:19, gheg:"Çka? / Ç'?", de:"Was?", std:"Çfarë?", cat:"fragewoerter" },
@@ -716,7 +716,7 @@ function checkLearnAnswer() {
 
 function finishLearnLevel() {
   const s = learnState;
-  const allCorrect = s.totalCorrect === s.words.length * 3;
+  const allCorrect = s.totalCorrect === s.words.length * 2;
 
   if (s.isCurses) {
     const prog = loadCursesProgress();

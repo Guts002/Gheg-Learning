@@ -1,8 +1,7 @@
 // Auto-generated from audio-kosovo-mapping.json — text-matched for all app words
 
 const audioMap = {
-  1: "kw_3305.mp3",
-  2: "kw_3348.mp3",
+  2: "kw_3305.mp3",
   3: "kw_0838.mp3",
   5: "kw_2980.mp3",
   7: "kw_0751.mp3",
