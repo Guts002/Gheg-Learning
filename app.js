@@ -289,12 +289,69 @@ const INTENSITY_LABELS = {
 // ===========================
 function loadProgress() {
   try {
-    return JSON.parse(localStorage.getItem('gheg_progress')) || { levels: {}, tests: {}, highestUnlocked: 1 };
+    return JSON.parse(localStorage.getItem('gheg_progress')) || { levels: {}, tests: {}, highestUnlocked: 1, words: {} };
   } catch(e) { return { levels: {}, tests: {}, highestUnlocked: 1 }; }
 }
 
 function saveProgress(prog) {
   localStorage.setItem('gheg_progress', JSON.stringify(prog));
+}
+
+// ===========================
+// SRS (SPACED REPETITION SYSTEM)
+// ===========================
+function getWordKey(word) {
+  return (word.src || 'top') + '_' + word.id;
+}
+
+function updateSRS(word, correct) {
+  if (!word || !word.id) return;
+  const prog = loadProgress();
+  if (!prog.words) prog.words = {};
+  const key = getWordKey(word);
+  if (!prog.words[key]) {
+    prog.words[key] = { nextReviewDate: 0, interval: 1, easeFactor: 2.5, streak: 0 };
+  }
+  const wp = prog.words[key];
+  const now = Date.now();
+
+  if (correct) {
+    wp.streak = (wp.streak || 0) + 1;
+    if (wp.streak === 1) wp.interval = 1;
+    else if (wp.streak === 2) wp.interval = 3;
+    else if (wp.streak === 3) wp.interval = 7;
+    else wp.interval = Math.round(wp.interval * (wp.easeFactor || 2.5));
+  } else {
+    wp.streak = 0;
+    wp.interval = 1;
+  }
+
+  wp.nextReviewDate = now + wp.interval * 24 * 60 * 60 * 1000;
+  wp.lastReviewed = now;
+  if (!correct && wp.easeFactor) {
+    wp.easeFactor = Math.max(1.3, (wp.easeFactor || 2.5) - 0.2);
+  }
+  saveProgress(prog);
+}
+
+function getDueWords() {
+  const prog = loadProgress();
+  if (!prog.words) return [];
+  const now = Date.now();
+  const due = [];
+  const allLevels = buildMainLevels();
+  const seen = new Set();
+  for (const lvl of allLevels) {
+    for (const word of lvl.words) {
+      const key = getWordKey(word);
+      const wp = prog.words[key];
+      if (wp && wp.nextReviewDate != null && wp.nextReviewDate <= now && !seen.has(key)) {
+        due.push({ ...word, srs: wp });
+        seen.add(key);
+      }
+    }
+  }
+  return due;
 }
 
 function loadCursesProgress() {
@@ -323,7 +380,7 @@ function buildMainLevels() {
     const cat = words[0].cat;
     levels.push({
       num: i + 1,
-      words: words,
+      words: words.map(w => ({...w, src: 'top'})),
       category: CAT_LABELS[cat] || cat,
       testGroup: Math.floor(i / 5) + 1, // which test group (1-8)
     });
@@ -342,7 +399,7 @@ function buildMainLevels() {
         if (words.length === 0) break;
         levels.push({
           num: levelNum,
-          words: words.map(w => ({ id: w.id, gheg: w.gheg, de: w.de, std: w.note || '', cat: w.cat })),
+          words: words.map(w => ({ id: w.id, gheg: w.gheg, de: w.de, std: w.note || '', cat: w.cat, src: 'ext' })),
           category: CAT_LABELS[cat] || cat,
           testGroup: Math.floor((levelNum - 1) / 5) + 1,
         });
@@ -556,7 +613,15 @@ function renderCurseLevels() {
 // ===========================
 let learnState = null; // { levelNum, words, phase, currentIdx, correct, totalCorrect, isCurses }
 
-function startLevel(levelNum) {
+function startLevel(levelNum, skipReview) {
+  // Check for due reviews first (unless skipped)
+  if (!skipReview) {
+    const dueWords = getDueWords();
+    if (dueWords.length > 0) {
+      startDailyReview(levelNum, dueWords);
+      return;
+    }
+  }
   const levels = buildMainLevels();
   const lvl = levels.find(l => l.num === levelNum);
   if (!lvl) return;
@@ -610,9 +675,16 @@ function renderLearnStep() {
   const totalSteps = s.words.length * 3; // 3 phases
   const currentStep = (s.phase - 1) * s.words.length + s.currentIdx + 1;
 
-  document.getElementById('learn-counter').textContent = `Phase ${s.phase}/3 · ${s.currentIdx + 1}/${s.words.length}`;
-  document.getElementById('learn-progress-fill').style.width = `${(currentStep / totalSteps) * 100}%`;
-  document.getElementById('learn-direction').textContent = phaseLabel;
+  if (s.isReview) {
+    // Review mode: skip phase labels, show review counter
+    document.getElementById('learn-counter').textContent = `📅 Daily Review · ${s.currentIdx + 1}/${s.words.length}`;
+    document.getElementById('learn-progress-fill').style.width = `${((s.currentIdx) / s.words.length) * 100}%`;
+    document.getElementById('learn-direction').textContent = `📅 Fällige Wörter wiederholen — ${phaseLabel}`;
+  } else {
+    document.getElementById('learn-counter').textContent = `Phase ${s.phase}/3 · ${s.currentIdx + 1}/${s.words.length}`;
+    document.getElementById('learn-progress-fill').style.width = `${(currentStep / totalSteps) * 100}%`;
+    document.getElementById('learn-direction').textContent = phaseLabel;
+  }
 
   const inputEl = document.getElementById('learn-input');
   const feedbackEl = document.getElementById('learn-feedback');
@@ -698,6 +770,8 @@ function checkLearnAnswer() {
       <div class="correct-answer">Richtig: <strong>${correctDisplay}</strong></div>`;
   }
 
+  updateSRS(s.currentWord, isCorrect);
+
   setTimeout(() => {
     s.currentIdx++;
     if (s.currentIdx >= s.words.length) {
@@ -717,6 +791,16 @@ function checkLearnAnswer() {
 function finishLearnLevel() {
   const s = learnState;
   const allCorrect = s.totalCorrect === s.words.length * 2;
+
+  // If this was a daily review, go to the intended level
+  if (s.isReview) {
+    const targetLevel = s.levelNum;
+    document.getElementById('learn-overlay').classList.remove('active');
+    learnState = null;
+    renderMainLevels();
+    startLevel(targetLevel, true); // skip review this time
+    return;
+  }
 
   if (s.isCurses) {
     const prog = loadCursesProgress();
@@ -752,6 +836,24 @@ function finishLearnLevel() {
 function closeLearn() {
   document.getElementById('learn-overlay').classList.remove('active');
   learnState = null;
+}
+
+// ===========================
+// DAILY REVIEW (SRS)
+// ===========================
+function startDailyReview(targetLevelNum, dueWords) {
+  learnState = {
+    levelNum: targetLevelNum,
+    words: dueWords,
+    phase: 2, // Skip viewing phase, go straight to active recall
+    currentIdx: 0,
+    correct: 0,
+    totalCorrect: 0,
+    isCurses: false,
+    isReview: true,
+  };
+  showLearnOverlay();
+  renderLearnStep();
 }
 
 // ===========================
@@ -824,6 +926,8 @@ function checkTestAnswer() {
   const userAnswer = normalizeAnswer(input.value);
   const correctAnswer = normalizeAnswer(s.currentDir ? s.currentWord.de : s.currentWord.gheg);
   const isCorrect = checkAnswerMatch(userAnswer, correctAnswer);
+
+  updateSRS(s.currentWord, isCorrect);
 
   s.results.push({
     word: s.currentWord,
