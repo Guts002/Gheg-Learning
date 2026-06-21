@@ -164,6 +164,7 @@
         <input type="text" class="answer-input" id="learn-input" placeholder="Deine Antwort..." autocomplete="off" autocapitalize="off">
       </div>
       <div class="feedback" id="learn-feedback"></div>
+      <div class="mnemonic-hint" id="mnemonic-hint" style="display:none"></div>
       <button class="submit-btn" id="learn-submit" onclick="checkLearnAnswer()">Prüfen</button>
     </div>
   </div>
@@ -193,6 +194,7 @@
         <input type="text" class="answer-input" id="test-input" placeholder="Deine Antwort..." autocomplete="off" autocapitalize="off">
       </div>
       <div class="feedback" id="test-feedback"></div>
+      <div class="mnemonic-hint" id="test-mnemonic-hint" style="display:none"></div>
       <button class="submit-btn" id="test-submit" onclick="checkTestAnswer()">Prüfen</button>
     </div>
   </div>
@@ -224,11 +226,55 @@
   </div>
 
   <!-- ===========================
+       SENTENCE BUILDER OVERLAY
+       =========================== -->
+  <div class="sentence-overlay" id="sentence-overlay">
+    <div class="sentence-header">
+      <button class="back-btn" onclick="closeSentenceBuilder()">
+        <svg class="icon" viewBox="0 0 24 24"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+      </button>
+      <div class="sentence-title">🧩 Bonus-Herausforderung</div>
+    </div>
+    <div class="sentence-level-badge" id="sentence-level-badge">Level 1</div>
+    <div class="sentence-de" id="sentence-de"></div>
+    <div class="sentence-area" id="sentence-area">
+      <div class="sentence-zone" id="sentence-zone">
+        <!-- Zielbereich für den Satz -->
+      </div>
+      <div class="word-pool" id="word-pool">
+        <!-- Verfügbare Wortbausteine -->
+      </div>
+    </div>
+    <div class="sentence-pagination" id="sentence-pagination"></div>
+    <div class="sentence-feedback" id="sentence-fb"></div>
+    <div class="sentence-buttons">
+      <button class="submit-btn sentence-check-btn" id="sentence-check-btn" onclick="checkSentenceAnswer()">Prüfen</button>
+      <button class="submit-btn secondary" id="sentence-next-btn" onclick="nextSentenceChallenge()" style="display:none">Nächster Satz</button>
+    </div>
+  </div>
+
+  <!-- ===========================
+       STREAK CELEBRATION OVERLAY
+       =========================== -->
+  <div class="celebration-overlay" id="celebration-overlay" style="display:none">
+    <div class="celebration-content">
+      <div class="celebration-fire">🔥</div>
+      <div class="celebration-streak" id="celebration-streak">7</div>
+      <div class="celebration-label">Tage am Stück!</div>
+      <div class="celebration-sub" id="celebration-sub">Weiter so! Deine synaptische Plastizität wächst! 🧠✨</div>
+      <button class="celebration-btn" onclick="closeCelebration()">Weiter</button>
+    </div>
+    <canvas id="confetti-canvas"></canvas>
+  </div>
+
+  <!-- ===========================
        SCRIPTS
        =========================== -->
   <script src="learnWordsData.js"></script>
   <script src="audioMapping.js"></script>
   <script src="sentenceData.js"></script>
+  <script src="mnemonics.js"></script>
+  <script src="bonusSentences.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

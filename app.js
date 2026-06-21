@@ -289,8 +289,8 @@ const INTENSITY_LABELS = {
 // ===========================
 function loadProgress() {
   try {
-    return JSON.parse(localStorage.getItem('gheg_progress')) || { levels: {}, tests: {}, highestUnlocked: 1, words: {} };
-  } catch(e) { return { levels: {}, tests: {}, highestUnlocked: 1 }; }
+    return JSON.parse(localStorage.getItem('gheg_progress')) || { levels: {}, tests: {}, highestUnlocked: 1, words: {}, streak: 0, lastActiveDate: null, dailyReviewDone: false, bonusSentences: {} };
+  } catch(e) { return { levels: {}, tests: {}, highestUnlocked: 1, streak: 0, lastActiveDate: null, dailyReviewDone: false, bonusSentences: {} }; }
 }
 
 function saveProgress(prog) {
@@ -496,6 +496,10 @@ function renderMainLevels() {
           </div>
           <span class="progress-text">${wordsCorrect}/5</span>
         </div>
+        ${isCompleted && prog.bonusSentences && prog.bonusSentences[lvl.num] ? `
+        <div class="bonus-badge completed" onclick="event.stopPropagation();openSentenceBuilder(${lvl.num})">
+          🧩 Sätze
+        </div>` : ''}
       </div>`;
   }
 
@@ -763,11 +767,13 @@ function checkLearnAnswer() {
     feedback.innerHTML = '<div class="correct-text">✅ Richtig!</div>';
     s.correct++;
     s.totalCorrect++;
+    document.getElementById('mnemonic-hint').style.display = 'none';
   } else {
     input.className = 'answer-input wrong';
     const correctDisplay = s.phase === 2 ? s.currentWord.de : s.currentWord.gheg;
     feedback.innerHTML = `<div class="wrong-text">❌ Falsch</div>
       <div class="correct-answer">Richtig: <strong>${correctDisplay}</strong></div>`;
+    showMnemonic(s.currentWord, 'mnemonic-hint');
   }
 
   updateSRS(s.currentWord, isCorrect);
@@ -818,10 +824,17 @@ function finishLearnLevel() {
     if (!prog.levels[s.levelNum]) prog.levels[s.levelNum] = {};
     if (allCorrect) {
       prog.levels[s.levelNum].completed = true;
+      // Streak update: level completed → activity today
+      updateStreak();
     }
     prog.levels[s.levelNum].wordsCorrect = s.totalCorrect;
     if (allCorrect && s.levelNum >= prog.highestUnlocked) {
       prog.highestUnlocked = s.levelNum + 1;
+    }
+    // Unlock sentence builder for this level
+    if (allCorrect && !prog.bonusSentences) prog.bonusSentences = {};
+    if (allCorrect) {
+      prog.bonusSentences[s.levelNum] = true;
     }
     saveProgress(prog);
   }
@@ -1067,6 +1080,7 @@ function showResult(pct, grade, passed, results, isCurses) {
       <span class="word-arrow">→</span>
       <span class="word-de">${r.word.de}</span>
       <span class="word-user-answer">(Deine Antwort: ${r.userAnswer || '—'})</span>
+      <div class="mnemonic-result">${getMnemonic(r.word) || '—'}</div>
     </div>
   `).join('') || '<div style="color:var(--text-dim);font-size:0.85rem">Keine</div>';
 
@@ -1542,4 +1556,274 @@ function updateStreak() {
 
   const streakEl = document.getElementById('streak-count');
   if (streakEl) streakEl.textContent = streakData.count || 0;
+
+  // Streak milestones celebration
+  const milestones = [5, 10, 25, 50, 100];
+  const prevStreak = streakData.prevCount || 0;
+  const newStreak = streakData.count || 0;
+  streakData.prevCount = newStreak;
+  localStorage.setItem('gheg_streak', JSON.stringify(streakData));
+
+  // Only celebrate on first completion of the day (lastDay === today) AND when crossing a milestone
+  if (newStreak >= 1 && milestones.includes(newStreak) && newStreak > prevStreak) {
+    setTimeout(() => showCelebration(newStreak), 500);
+  }
+}
+
+function showMnemonic(word, targetId) {
+  const el = document.getElementById(targetId);
+  if (!el) return;
+  const mnemonic = getMnemonic(word);
+  if (mnemonic) {
+    el.style.display = 'block';
+    el.innerHTML = `<strong>💡 ${mnemonic}</strong>`;
+  } else {
+    el.style.display = 'none';
+  }
+}
+
+// ===========================
+// SENTENCE BUILDER
+// ===========================
+
+let sentenceState = null;
+
+function openSentenceBuilder(levelNum) {
+  const challenge = BONUS_SENTENCES[levelNum];
+  if (!challenge || !challenge.sentences || challenge.sentences.length === 0) return;
+
+  // Shuffle pool
+  sentenceState = {
+    level: levelNum,
+    sentences: challenge.sentences,
+    currentIdx: 0,
+    results: [],
+  };
+  document.getElementById('sentence-overlay').classList.add('active');
+  document.getElementById('sentence-level-badge').textContent = `Level ${levelNum}`;
+  renderSentenceChallenge();
+}
+
+function closeSentenceBuilder() {
+  document.getElementById('sentence-overlay').classList.remove('active');
+  sentenceState = null;
+}
+
+function renderSentenceChallenge() {
+  const s = sentenceState;
+  if (!s) return;
+  const sentence = s.sentences[s.currentIdx];
+  if (!sentence) return;
+
+  document.getElementById('sentence-de').textContent = sentence.de;
+
+  // Build pool: shuffle tiles
+  const pool = [...sentence.pool];
+  shuffleArray(pool);
+
+  const zone = document.getElementById('sentence-zone');
+  zone.innerHTML = ''; // Empty zone to start
+
+  const poolEl = document.getElementById('word-pool');
+  poolEl.innerHTML = pool.map((word, i) =>
+    `<span class="word-tile pool-tile" data-idx="${i}" onclick="clickPoolTile(this)">${word}</span>`
+  ).join('');
+
+  document.getElementById('sentence-fb').textContent = '';
+  document.getElementById('sentence-check-btn').style.display = 'inline-block';
+  document.getElementById('sentence-next-btn').style.display = 'none';
+
+  // Pagination
+  renderSentencePagination();
+}
+
+function renderSentencePagination() {
+  const s = sentenceState;
+  if (!s) return;
+  const pag = document.getElementById('sentence-pagination');
+  pag.innerHTML = s.sentences.map((_, i) => {
+    let cls = 'pagination-dot';
+    if (i === s.currentIdx) cls += ' active';
+    else if (s.results[i] === true) cls += ' correct';
+    else if (s.results[i] === false) cls += ' wrong';
+    return `<span class="${cls}"></span>`;
+  }).join('');
+}
+
+function clickPoolTile(el) {
+  const zone = document.getElementById('sentence-zone');
+  const clone = document.createElement('span');
+  clone.className = 'word-tile zone-tile';
+  clone.textContent = el.textContent;
+  clone.dataset.word = el.textContent;
+  clone.onclick = function() { clickZoneTile(this); };
+  zone.appendChild(clone);
+  el.remove();
+}
+
+function clickZoneTile(el) {
+  const pool = document.getElementById('word-pool');
+  const clone = document.createElement('span');
+  clone.className = 'word-tile pool-tile';
+  clone.textContent = el.textContent;
+  clone.onclick = function() { clickPoolTile(this); };
+  pool.appendChild(clone);
+  el.remove();
+}
+
+function checkSentenceAnswer() {
+  const s = sentenceState;
+  if (!s) return;
+  const sentence = s.sentences[s.currentIdx];
+  const zone = document.getElementById('sentence-zone');
+  const userSentence = Array.from(zone.children).map(el => el.textContent).join(' ').trim();
+  const correctSentence = sentence.gheg.trim();
+  const fb = document.getElementById('sentence-fb');
+
+  const isCorrect = userSentence.toLowerCase() === correctSentence.toLowerCase();
+
+  if (isCorrect) {
+    fb.innerHTML = '✅ Richtig!';
+    fb.style.color = 'var(--success)';
+  } else {
+    fb.innerHTML = `❌ Falsch<br><span style="font-size:0.85rem">Richtig: <strong>${correctSentence}</strong></span>`;
+    fb.style.color = 'var(--error)';
+  }
+  s.results[s.currentIdx] = isCorrect;
+  renderSentencePagination();
+
+  document.getElementById('sentence-check-btn').style.display = 'none';
+  document.getElementById('sentence-next-btn').style.display = 'inline-block';
+}
+
+function nextSentenceChallenge() {
+  const s = sentenceState;
+  if (!s) return;
+  s.currentIdx++;
+  if (s.currentIdx >= s.sentences.length) {
+    // Finished all sentences
+    const correct = s.results.filter(r => r === true).length;
+    const total = s.sentences.length;
+    const pct = Math.round((correct / total) * 100);
+    const grade = calculateGrade(pct);
+    const passed = testPassedCheck(grade);
+
+    document.getElementById('sentence-fb').innerHTML = `
+      <div style="font-size:1.1rem;margin-top:12px">
+        ${passed ? '🎉 Alle Sätze geschafft!' : '📝 Versuchs nochmal!'}
+        <br><span style="font-size:0.85rem">${correct}/${total} richtig (${pct}%)</span>
+      </div>`;
+    document.getElementById('sentence-next-btn').style.display = 'none';
+    document.getElementById('sentence-check-btn').style.display = 'none';
+
+    // Store progress
+    if (passed) {
+      const prog = loadProgress();
+      if (!prog.bonusSentences) prog.bonusSentences = {};
+      if (!prog.bonusSentences[s.level]) prog.bonusSentences[s.level] = {};
+      prog.bonusSentences[s.level].mastered = true;
+      saveProgress(prog);
+    }
+    // Add retry button
+    const zone = document.getElementById('sentence-buttons');
+    // Also allow going back after a pause
+  } else {
+    renderSentenceChallenge();
+  }
+}
+
+function shuffleArray(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+}
+
+// ===========================
+// STREAK CELEBRATION
+// ===========================
+
+function showCelebration(streakCount) {
+  const overlay = document.getElementById('celebration-overlay');
+  overlay.style.display = 'flex';
+  document.getElementById('celebration-streak').textContent = streakCount;
+
+  // Custom message for milestones
+  const msgs = {
+    5: '5 Tage am Stück! Du baust eine Lerngewohnheit auf! 🧠',
+    10: '10 Tage! Dein Gehirn formt neue synaptische Pfade! ⚡',
+    25: '25 Tage! Fast ein Monat täglichen Lernens! 🌟',
+    50: '50 Tage! Du bist jetzt ein echter Gheg-Lerner! 🏆',
+    100: '100 Tage! Unglaubliche Disziplin! Meisterklasse! 👑',
+  };
+  const sub = document.getElementById('celebration-sub');
+  sub.textContent = msgs[streakCount] || `Weiter so! Tag ${streakCount} am Stück! 🔥✨`;
+
+  // Confetti
+  runConfetti();
+
+  // Auto-close after 4 seconds
+  setTimeout(() => {
+    if (overlay.style.display !== 'none') closeCelebration();
+  }, 4000);
+}
+
+function closeCelebration() {
+  document.getElementById('celebration-overlay').style.display = 'none';
+  const canvas = document.getElementById('confetti-canvas');
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  if (confettiAnimationId) cancelAnimationFrame(confettiAnimationId);
+}
+
+let confettiAnimationId = null;
+
+function runConfetti() {
+  const canvas = document.getElementById('confetti-canvas');
+  const ctx = canvas.getContext('2d');
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const pieces = [];
+  const colors = ['#e63946', '#8b5cf6', '#22c55e', '#f4a261', '#a855f7', '#ff2d55', '#3b82f6'];
+
+  for (let i = 0; i < 150; i++) {
+    pieces.push({
+      x: Math.random() * canvas.width,
+      y: Math.random() * canvas.height - canvas.height,
+      w: Math.random() * 10 + 5,
+      h: Math.random() * 6 + 3,
+      color: colors[Math.floor(Math.random() * colors.length)],
+      vx: (Math.random() - 0.5) * 4,
+      vy: Math.random() * 3 + 2,
+      rot: Math.random() * 360,
+      rotSpeed: (Math.random() - 0.5) * 10,
+    });
+  }
+
+  let frame = 0;
+  function animate() {
+    frame++;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    let alive = false;
+    for (const p of pieces) {
+      if (p.y > canvas.height + 20) continue;
+      alive = true;
+      p.x += p.vx;
+      p.y += p.vy;
+      p.rot += p.rotSpeed;
+      ctx.save();
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.rot * Math.PI / 180);
+      ctx.fillStyle = p.color;
+      ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+      ctx.restore();
+    }
+
+    if (alive && frame < 200) {
+      confettiAnimationId = requestAnimationFrame(animate);
+    }
+  }
+  animate();
 }
